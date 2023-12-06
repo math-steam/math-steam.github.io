@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 7.0.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"math-steam.github.io","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="112年國中教育會考:::spoiler 答案&gt;（A）::::::spoiler 觀念&gt;留意負號在括弧內還是外::::::spoiler 詳解&gt;::::::spoiler 答案&gt;（C）::::::spoiler 觀念&gt;::::::spoiler 詳解&gt;::::::spoiler 答案&gt;（B）::::::spoiler 觀念::::::spoiler 詳解&amp;">
+<meta property="og:type" content="article">
+<meta property="og:title" content="cap112">
+<meta property="og:url" content="https://math-steam.github.io/2023/12/07/cap112/index.html">
+<meta property="og:site_name" content="創新數學">
+<meta property="og:description" content="112年國中教育會考:::spoiler 答案&gt;（A）::::::spoiler 觀念&gt;留意負號在括弧內還是外::::::spoiler 詳解&gt;::::::spoiler 答案&gt;（C）::::::spoiler 觀念&gt;::::::spoiler 詳解&gt;::::::spoiler 答案&gt;（B）::::::spoiler 觀念::::::spoiler 詳解&amp;">
+<meta property="og:locale" content="zh_TW">
+<meta property="og:image" content="https://hackmd.io/_uploads/H1RzTIdB3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/Sy1a2w_H3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/ByXiwIuBh.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/ryPA6PdBh.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/rk2NpPdBn.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/H1laPUOS2.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/B1s9lu_rn.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/SkHCP8OB2.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/ByKmZO_H3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/H1KxOLOS3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/SySCM__Bh.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/Sktmi8_Sh.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/SymlIuOS2.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/S16EoIuS3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/HJ8-eFuBh.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/B1AUiU_S3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/ByH8fYdBh.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/S1cdo8OH3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/HJFtQYdBn.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/rJx9o8_S3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/Hyvu4KuSh.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/BJgOl9c_H2.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/HkSio8drh.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/BJt-vjur3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/Bku2i8_B3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/SyE5XgKB2.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/H1OTjI_H2.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/r1TrieKH3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/SycAiU_H3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/SkArJWFS3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/ry-x28uH2.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/SJIA7zKrh.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/r1NZnUdSn.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/ByGF9WKB3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/SJhf2I_S2.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/rkKBZGKHh.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/B13XhIuHn.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/ryPcBMtr3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/BkDS3IuHn.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/SkEt7gcSh.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/ryO838_Bn.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/BkozYlcHh.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/rJcDnIuB3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/ByxDjx9S2.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/Byc_nIOS3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/r1ZcClcS3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/B1qKhIdS3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/SyXEWf9Hh.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/Byoah8_H3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/rJrdEfcSn.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/rknA2LOSh.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/ByxfNX5B2.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/S101a8_S2.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/S1xDSrcr3.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/BkBWpIdSn.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/B1s18H5B2.png">
+<meta property="og:image" content="https://hackmd.io/_uploads/B1HXirqBn.png">
+<meta property="article:published_time" content="2023-12-06T20:07:07.000Z">
+<meta property="article:modified_time" content="2023-12-06T20:08:44.992Z">
+<meta property="article:author" content="Grace Liu">
+<meta property="article:tag" content="考古題">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://hackmd.io/_uploads/H1RzTIdB3.png">
+
+<link rel="canonical" href="https://math-steam.github.io/2023/12/07/cap112/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-TW'
+  };
+</script>
+
+  <title>cap112 | 創新數學</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切換導航欄">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">創新數學</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">Math Steam</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首頁</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>關於</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>標籤</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分類</a>
+
+  </li>
+  </ul>
+</nav>
+
+
+
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-TW">
+    <link itemprop="mainEntityOfPage" href="https://math-steam.github.io/2023/12/07/cap112/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Grace Liu">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="創新數學">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          cap112
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">發表於</span>
+              
+
+              <time title="創建時間：2023-12-07 04:07:07 / 修改時間：04:08:44" itemprop="dateCreated datePublished" datetime="2023-12-07T04:07:07+08:00">2023-12-07</time>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <h1 id="112年國中教育會考"><a href="#112年國中教育會考" class="headerlink" title="112年國中教育會考"></a>112年國中教育會考</h1><h2 id=""><a href="#" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/H1RzTIdB3.png"></h2><h2 id="spoiler-答案-（A）-spoiler-觀念-留意負號在括弧內還是外-spoiler-詳解"><a href="#spoiler-答案-（A）-spoiler-觀念-留意負號在括弧內還是外-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（A）::::::spoiler 觀念&gt;留意負號在括弧內還是外::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（A）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;留意負號在括弧內還是外<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/Sy1a2w_H3.png"><br>:::</h2><h2 id="-1"><a href="#-1" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/ByXiwIuBh.png"></h2><h2 id="spoiler-答案-（C）-spoiler-觀念-spoiler-詳解"><a href="#spoiler-答案-（C）-spoiler-觀念-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（C）::::::spoiler 觀念&gt;::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（C）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;<img src="https://hackmd.io/_uploads/ryPA6PdBh.png"><br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/rk2NpPdBn.png"><br>:::</h2><h2 id="-2"><a href="#-2" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/H1laPUOS2.png"></h2><h2 id="spoiler-答案-（B）-spoiler-觀念-spoiler-詳解"><a href="#spoiler-答案-（B）-spoiler-觀念-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（B）::::::spoiler 觀念::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（B）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/B1s9lu_rn.png"><br>:::</h2><h2 id="-3"><a href="#-3" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/SkHCP8OB2.png"></h2><h2 id="spoiler-答案-（C）-spoiler-觀念-標準分解式-spoiler-詳解"><a href="#spoiler-答案-（C）-spoiler-觀念-標準分解式-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（C）::::::spoiler 觀念&gt;標準分解式::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（C）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;標準分解式<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/ByKmZO_H3.png"><br>:::</h2><h2 id="-4"><a href="#-4" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/H1KxOLOS3.png"></h2><h2 id="spoiler-答案-（B）-spoiler-觀念-選項一一代入，等號成立即為正確答案-spoiler-詳解"><a href="#spoiler-答案-（B）-spoiler-觀念-選項一一代入，等號成立即為正確答案-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（B）::::::spoiler 觀念&gt;選項一一代入，等號成立即為正確答案::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（B）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;選項一一代入，等號成立即為正確答案<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/SySCM__Bh.png"><br>:::</h2><h2 id="-5"><a href="#-5" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/Sktmi8_Sh.png"></h2><h2 id="spoiler-答案-（A）-spoiler-觀念-在數線上，右邊的點較大-spoiler-詳解"><a href="#spoiler-答案-（A）-spoiler-觀念-在數線上，右邊的點較大-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（A）::::::spoiler 觀念&gt;在數線上，右邊的點較大::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（A）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;在數線上，右邊的點較大<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/SymlIuOS2.png"><br>:::</h2><h2 id="-6"><a href="#-6" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/S16EoIuS3.png"></h2><h2 id="spoiler-答案-（A）-spoiler-觀念-spoiler-詳解"><a href="#spoiler-答案-（A）-spoiler-觀念-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（A）::::::spoiler 觀念::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（A）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/HJ8-eFuBh.png"><br>:::</h2><h2 id="-7"><a href="#-7" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/B1AUiU_S3.png"></h2><h2 id="spoiler-答案-（C）-spoiler-觀念-兩平行線的內錯角相等-spoiler-詳解"><a href="#spoiler-答案-（C）-spoiler-觀念-兩平行線的內錯角相等-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（C）::::::spoiler 觀念&gt;兩平行線的內錯角相等::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（C）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;兩平行線的內錯角相等<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/ByH8fYdBh.png"><br>:::</h2><h2 id="-8"><a href="#-8" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/S1cdo8OH3.png"></h2><h2 id="spoiler-答案-（B）-spoiler-觀念-因數個數為標準分解式的指數-1相乘-spoiler-詳解"><a href="#spoiler-答案-（B）-spoiler-觀念-因數個數為標準分解式的指數-1相乘-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（B）::::::spoiler 觀念&gt;因數個數為標準分解式的指數+1相乘::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（B）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;因數個數為標準分解式的指數+1相乘<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/HJFtQYdBn.png"><br>:::</h2><h2 id="-9"><a href="#-9" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/rJx9o8_S3.png"></h2><h2 id="spoiler-答案-（D）-spoiler-觀念-spoiler-詳解"><a href="#spoiler-答案-（D）-spoiler-觀念-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（D）::::::spoiler 觀念&gt;::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（D）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;<img src="https://hackmd.io/_uploads/Hyvu4KuSh.png"><br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/BJgOl9c_H2.png"><br>:::</h2><h2 id="-10"><a href="#-10" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/HkSio8drh.png"></h2><h2 id="spoiler-答案-（D）-spoiler-觀念-文字多的題目要畫重點-spoiler-詳解"><a href="#spoiler-答案-（D）-spoiler-觀念-文字多的題目要畫重點-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（D）::::::spoiler 觀念&gt;文字多的題目要畫重點::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（D）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;文字多的題目要畫重點<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/BJt-vjur3.png"><br>:::</h2><h2 id="-11"><a href="#-11" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/Bku2i8_B3.png"></h2><h2 id="spoiler-答案-（A）-spoiler-觀念-spoiler-詳解-1"><a href="#spoiler-答案-（A）-spoiler-觀念-spoiler-詳解-1" class="headerlink" title=":::spoiler 答案&gt;（A）::::::spoiler 觀念::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（A）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/SyE5XgKB2.png"><br>:::</h2><h2 id="-12"><a href="#-12" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/H1OTjI_H2.png"></h2><h2 id="spoiler-答案-（A）-spoiler-觀念-大角對大邊-全等三角形-spoiler-詳解"><a href="#spoiler-答案-（A）-spoiler-觀念-大角對大邊-全等三角形-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（A）::::::spoiler 觀念&gt;大角對大邊&gt;全等三角形::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（A）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;大角對大邊<br>&gt;全等三角形<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/r1TrieKH3.png"><br>:::</h2><h2 id="-13"><a href="#-13" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/SycAiU_H3.png"></h2><p>:::spoiler <font color="#aaaaaa">答案</font></p>
+<blockquote>
+<p>（B）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>二次函數對稱軸通過頂點<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br><img src="https://hackmd.io/_uploads/SkArJWFS3.png"></p>
+</blockquote>
+<h2 id="-14"><a href="#-14" class="headerlink" title=":::"></a>:::</h2><h2 id="-15"><a href="#-15" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/ry-x28uH2.png"></h2><h2 id="spoiler-答案-（D）-spoiler-觀念-spoiler-詳解-1"><a href="#spoiler-答案-（D）-spoiler-觀念-spoiler-詳解-1" class="headerlink" title=":::spoiler 答案&gt;（D）::::::spoiler 觀念::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（D）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/SJIA7zKrh.png"><br>:::</h2><h2 id="-16"><a href="#-16" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/r1NZnUdSn.png"></h2><p>:::spoiler <font color="#aaaaaa">答案</font></p>
+<blockquote>
+<p>（C）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br><img src="https://hackmd.io/_uploads/ByGF9WKB3.png"></p>
+</blockquote>
+<h2 id="-17"><a href="#-17" class="headerlink" title=":::"></a>:::</h2><h2 id="-18"><a href="#-18" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/SJhf2I_S2.png"></h2><h2 id="spoiler-答案-（D）-spoiler-觀念-外心到三頂點等距離-spoiler-詳解"><a href="#spoiler-答案-（D）-spoiler-觀念-外心到三頂點等距離-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（D）::::::spoiler 觀念&gt;外心到三頂點等距離::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（D）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;外心到三頂點等距離<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/rkKBZGKHh.png"><br>:::</h2><h2 id="-19"><a href="#-19" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/B13XhIuHn.png"></h2><h2 id="spoiler-答案-（B）-spoiler-觀念-spoiler-詳解-1"><a href="#spoiler-答案-（B）-spoiler-觀念-spoiler-詳解-1" class="headerlink" title=":::spoiler 答案&gt;（B）::::::spoiler 觀念::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（B）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/ryPcBMtr3.png"><br>:::</h2><h2 id="-20"><a href="#-20" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/BkDS3IuHn.png"></h2><h2 id="spoiler-答案-（B）-spoiler-觀念-折線為對稱軸-圓周角為所對弧的一半-spoiler-詳解"><a href="#spoiler-答案-（B）-spoiler-觀念-折線為對稱軸-圓周角為所對弧的一半-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（B）::::::spoiler 觀念&gt;折線為對稱軸&gt;圓周角為所對弧的一半::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（B）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;折線為對稱軸<br>&gt;圓周角為所對弧的一半<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/SkEt7gcSh.png"><br>:::</h2><h2 id="-21"><a href="#-21" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/ryO838_Bn.png"></h2><h2 id="spoiler-答案-（C）-spoiler-觀念-中垂線上任一點到兩端等距離-外角-兩內對角和-spoiler-詳解"><a href="#spoiler-答案-（C）-spoiler-觀念-中垂線上任一點到兩端等距離-外角-兩內對角和-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（C）::::::spoiler 觀念&gt;中垂線上任一點到兩端等距離&gt;外角&#x3D;兩內對角和::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（C）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;中垂線上任一點到兩端等距離<br>&gt;外角&#x3D;兩內對角和<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/BkozYlcHh.png"><br>:::</h2><h2 id="-22"><a href="#-22" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/rJcDnIuB3.png"></h2><h2 id="spoiler-答案-（D）-spoiler-觀念-spoiler-詳解-2"><a href="#spoiler-答案-（D）-spoiler-觀念-spoiler-詳解-2" class="headerlink" title=":::spoiler 答案&gt;（D）::::::spoiler 觀念::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（D）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/ByxDjx9S2.png"><br>:::</h2><h2 id="-23"><a href="#-23" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/Byc_nIOS3.png"></h2><h2 id="spoiler-答案-（C）-spoiler-觀念-共頂點-共高-的三角形面積比-底邊比-三角形截線性質：上：全＝中：中下-spoiler-詳解"><a href="#spoiler-答案-（C）-spoiler-觀念-共頂點-共高-的三角形面積比-底邊比-三角形截線性質：上：全＝中：中下-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（C）::::::spoiler 觀念&gt;共頂點(共高)的三角形面積比&#x3D;底邊比&gt;三角形截線性質：上：全＝中：中下::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（C）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;共頂點(共高)的三角形面積比&#x3D;底邊比<br>&gt;三角形截線性質：上：全＝中：中下<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/r1ZcClcS3.png"><br>:::</h2><h2 id="-24"><a href="#-24" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/B1qKhIdS3.png"></h2><h2 id="spoiler-答案-（B）-spoiler-觀念-矩形對角線相等-最短距離為垂直距離-spoiler-詳解"><a href="#spoiler-答案-（B）-spoiler-觀念-矩形對角線相等-最短距離為垂直距離-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（B）::::::spoiler 觀念&gt;矩形對角線相等&gt;最短距離為垂直距離::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（B）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;矩形對角線相等<br>&gt;最短距離為垂直距離<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/SyXEWf9Hh.png"><br>:::</h2><h2 id="-25"><a href="#-25" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/Byoah8_H3.png"></h2><h2 id="spoiler-答案-（D）-spoiler-觀念-高齡化：7-～14-高齡：14-～20-超高齡：20-spoiler-詳解"><a href="#spoiler-答案-（D）-spoiler-觀念-高齡化：7-～14-高齡：14-～20-超高齡：20-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;（D）::::::spoiler 觀念&gt;高齡化：7%～14%&gt;高齡：14%～20%&gt;超高齡：20%~::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（D）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;高齡化：7%～14%<br>&gt;高齡：14%～20%<br>&gt;超高齡：20%~<br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/rJrdEfcSn.png"><br>:::</h2><h2 id="-26"><a href="#-26" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/rknA2LOSh.png"></h2><h2 id="spoiler-答案-（A）-spoiler-觀念-spoiler-詳解-2"><a href="#spoiler-答案-（A）-spoiler-觀念-spoiler-詳解-2" class="headerlink" title=":::spoiler 答案&gt;（A）::::::spoiler 觀念::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;（A）<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/ByxfNX5B2.png"><br>:::</h2><h2 id="-27"><a href="#-27" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/S101a8_S2.png"></h2><h2 id="spoiler-答案-1-90-2-否-spoiler-觀念-spoiler-詳解"><a href="#spoiler-答案-1-90-2-否-spoiler-觀念-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;(1) 90%&gt;(2) 否::::::spoiler 觀念::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;(1) 90%<br>&gt;(2) 否<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/S1xDSrcr3.png"><br>:::</h2><h2 id="-28"><a href="#-28" class="headerlink" title=""></a><img src="https://hackmd.io/_uploads/BkBWpIdSn.png"></h2><h2 id="spoiler-答案-1-135度-2-不能-spoiler-觀念-spoiler-詳解"><a href="#spoiler-答案-1-135度-2-不能-spoiler-觀念-spoiler-詳解" class="headerlink" title=":::spoiler 答案&gt;(1) 135度&gt;(2) 不能::::::spoiler 觀念&gt;::::::spoiler 詳解&gt;:::"></a>:::spoiler <font color="#aaaaaa">答案</font><br>&gt;(1) 135度<br>&gt;(2) 不能<br>:::<br>:::spoiler <font color="#aaaaaa">觀念</font><br>&gt;<img src="https://hackmd.io/_uploads/B1s18H5B2.png"><br>:::<br>:::spoiler <font color="#aaaaaa">詳解</font><br>&gt;<img src="https://hackmd.io/_uploads/B1HXirqBn.png"><br>:::</h2>
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E8%80%83%E5%8F%A4%E9%A1%8C/" rel="tag"># 考古題</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2023/12/06/junior-exam/" rel="prev" title="會考歷屆試題詳解">
+      <i class="fa fa-chevron-left"></i> 會考歷屆試題詳解
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目錄
+        </li>
+        <li class="sidebar-nav-overview">
+          本站概要
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#112%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%E8%82%B2%E6%9C%83%E8%80%83"><span class="nav-number">1.</span> <span class="nav-text">112年國中教育會考</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link"><span class="nav-number">1.1.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88A%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-%E7%95%99%E6%84%8F%E8%B2%A0%E8%99%9F%E5%9C%A8%E6%8B%AC%E5%BC%A7%E5%85%A7%E9%82%84%E6%98%AF%E5%A4%96-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.2.</span> <span class="nav-text">:::spoiler 答案&gt;（A）::::::spoiler 觀念&gt;留意負號在括弧內還是外::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-1"><span class="nav-number">1.3.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88C%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.4.</span> <span class="nav-text">:::spoiler 答案&gt;（C）::::::spoiler 觀念&gt;::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-2"><span class="nav-number">1.5.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88B%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.6.</span> <span class="nav-text">:::spoiler 答案&gt;（B）::::::spoiler 觀念::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-3"><span class="nav-number">1.7.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88C%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-%E6%A8%99%E6%BA%96%E5%88%86%E8%A7%A3%E5%BC%8F-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.8.</span> <span class="nav-text">:::spoiler 答案&gt;（C）::::::spoiler 觀念&gt;標準分解式::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-4"><span class="nav-number">1.9.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88B%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-%E9%81%B8%E9%A0%85%E4%B8%80%E4%B8%80%E4%BB%A3%E5%85%A5%EF%BC%8C%E7%AD%89%E8%99%9F%E6%88%90%E7%AB%8B%E5%8D%B3%E7%82%BA%E6%AD%A3%E7%A2%BA%E7%AD%94%E6%A1%88-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.10.</span> <span class="nav-text">:::spoiler 答案&gt;（B）::::::spoiler 觀念&gt;選項一一代入，等號成立即為正確答案::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-5"><span class="nav-number">1.11.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88A%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-%E5%9C%A8%E6%95%B8%E7%B7%9A%E4%B8%8A%EF%BC%8C%E5%8F%B3%E9%82%8A%E7%9A%84%E9%BB%9E%E8%BC%83%E5%A4%A7-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.12.</span> <span class="nav-text">:::spoiler 答案&gt;（A）::::::spoiler 觀念&gt;在數線上，右邊的點較大::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-6"><span class="nav-number">1.13.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88A%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.14.</span> <span class="nav-text">:::spoiler 答案&gt;（A）::::::spoiler 觀念::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-7"><span class="nav-number">1.15.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88C%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-%E5%85%A9%E5%B9%B3%E8%A1%8C%E7%B7%9A%E7%9A%84%E5%85%A7%E9%8C%AF%E8%A7%92%E7%9B%B8%E7%AD%89-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.16.</span> <span class="nav-text">:::spoiler 答案&gt;（C）::::::spoiler 觀念&gt;兩平行線的內錯角相等::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-8"><span class="nav-number">1.17.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88B%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-%E5%9B%A0%E6%95%B8%E5%80%8B%E6%95%B8%E7%82%BA%E6%A8%99%E6%BA%96%E5%88%86%E8%A7%A3%E5%BC%8F%E7%9A%84%E6%8C%87%E6%95%B8-1%E7%9B%B8%E4%B9%98-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.18.</span> <span class="nav-text">:::spoiler 答案&gt;（B）::::::spoiler 觀念&gt;因數個數為標準分解式的指數+1相乘::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-9"><span class="nav-number">1.19.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88D%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.20.</span> <span class="nav-text">:::spoiler 答案&gt;（D）::::::spoiler 觀念&gt;::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-10"><span class="nav-number">1.21.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88D%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-%E6%96%87%E5%AD%97%E5%A4%9A%E7%9A%84%E9%A1%8C%E7%9B%AE%E8%A6%81%E7%95%AB%E9%87%8D%E9%BB%9E-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.22.</span> <span class="nav-text">:::spoiler 答案&gt;（D）::::::spoiler 觀念&gt;文字多的題目要畫重點::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-11"><span class="nav-number">1.23.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88A%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-spoiler-%E8%A9%B3%E8%A7%A3-1"><span class="nav-number">1.24.</span> <span class="nav-text">:::spoiler 答案&gt;（A）::::::spoiler 觀念::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-12"><span class="nav-number">1.25.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88A%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-%E5%A4%A7%E8%A7%92%E5%B0%8D%E5%A4%A7%E9%82%8A-%E5%85%A8%E7%AD%89%E4%B8%89%E8%A7%92%E5%BD%A2-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.26.</span> <span class="nav-text">:::spoiler 答案&gt;（A）::::::spoiler 觀念&gt;大角對大邊&gt;全等三角形::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-13"><span class="nav-number">1.27.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-14"><span class="nav-number">1.28.</span> <span class="nav-text">:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-15"><span class="nav-number">1.29.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88D%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-spoiler-%E8%A9%B3%E8%A7%A3-1"><span class="nav-number">1.30.</span> <span class="nav-text">:::spoiler 答案&gt;（D）::::::spoiler 觀念::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-16"><span class="nav-number">1.31.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-17"><span class="nav-number">1.32.</span> <span class="nav-text">:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-18"><span class="nav-number">1.33.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88D%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-%E5%A4%96%E5%BF%83%E5%88%B0%E4%B8%89%E9%A0%82%E9%BB%9E%E7%AD%89%E8%B7%9D%E9%9B%A2-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.34.</span> <span class="nav-text">:::spoiler 答案&gt;（D）::::::spoiler 觀念&gt;外心到三頂點等距離::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-19"><span class="nav-number">1.35.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88B%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-spoiler-%E8%A9%B3%E8%A7%A3-1"><span class="nav-number">1.36.</span> <span class="nav-text">:::spoiler 答案&gt;（B）::::::spoiler 觀念::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-20"><span class="nav-number">1.37.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88B%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-%E6%8A%98%E7%B7%9A%E7%82%BA%E5%B0%8D%E7%A8%B1%E8%BB%B8-%E5%9C%93%E5%91%A8%E8%A7%92%E7%82%BA%E6%89%80%E5%B0%8D%E5%BC%A7%E7%9A%84%E4%B8%80%E5%8D%8A-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.38.</span> <span class="nav-text">:::spoiler 答案&gt;（B）::::::spoiler 觀念&gt;折線為對稱軸&gt;圓周角為所對弧的一半::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-21"><span class="nav-number">1.39.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88C%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-%E4%B8%AD%E5%9E%82%E7%B7%9A%E4%B8%8A%E4%BB%BB%E4%B8%80%E9%BB%9E%E5%88%B0%E5%85%A9%E7%AB%AF%E7%AD%89%E8%B7%9D%E9%9B%A2-%E5%A4%96%E8%A7%92-%E5%85%A9%E5%85%A7%E5%B0%8D%E8%A7%92%E5%92%8C-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.40.</span> <span class="nav-text">:::spoiler 答案&gt;（C）::::::spoiler 觀念&gt;中垂線上任一點到兩端等距離&gt;外角&#x3D;兩內對角和::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-22"><span class="nav-number">1.41.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88D%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-spoiler-%E8%A9%B3%E8%A7%A3-2"><span class="nav-number">1.42.</span> <span class="nav-text">:::spoiler 答案&gt;（D）::::::spoiler 觀念::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-23"><span class="nav-number">1.43.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88C%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-%E5%85%B1%E9%A0%82%E9%BB%9E-%E5%85%B1%E9%AB%98-%E7%9A%84%E4%B8%89%E8%A7%92%E5%BD%A2%E9%9D%A2%E7%A9%8D%E6%AF%94-%E5%BA%95%E9%82%8A%E6%AF%94-%E4%B8%89%E8%A7%92%E5%BD%A2%E6%88%AA%E7%B7%9A%E6%80%A7%E8%B3%AA%EF%BC%9A%E4%B8%8A%EF%BC%9A%E5%85%A8%EF%BC%9D%E4%B8%AD%EF%BC%9A%E4%B8%AD%E4%B8%8B-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.44.</span> <span class="nav-text">:::spoiler 答案&gt;（C）::::::spoiler 觀念&gt;共頂點(共高)的三角形面積比&#x3D;底邊比&gt;三角形截線性質：上：全＝中：中下::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-24"><span class="nav-number">1.45.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88B%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-%E7%9F%A9%E5%BD%A2%E5%B0%8D%E8%A7%92%E7%B7%9A%E7%9B%B8%E7%AD%89-%E6%9C%80%E7%9F%AD%E8%B7%9D%E9%9B%A2%E7%82%BA%E5%9E%82%E7%9B%B4%E8%B7%9D%E9%9B%A2-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.46.</span> <span class="nav-text">:::spoiler 答案&gt;（B）::::::spoiler 觀念&gt;矩形對角線相等&gt;最短距離為垂直距離::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-25"><span class="nav-number">1.47.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88D%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-%E9%AB%98%E9%BD%A1%E5%8C%96%EF%BC%9A7-%EF%BD%9E14-%E9%AB%98%E9%BD%A1%EF%BC%9A14-%EF%BD%9E20-%E8%B6%85%E9%AB%98%E9%BD%A1%EF%BC%9A20-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.48.</span> <span class="nav-text">:::spoiler 答案&gt;（D）::::::spoiler 觀念&gt;高齡化：7%～14%&gt;高齡：14%～20%&gt;超高齡：20%~::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-26"><span class="nav-number">1.49.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-%EF%BC%88A%EF%BC%89-spoiler-%E8%A7%80%E5%BF%B5-spoiler-%E8%A9%B3%E8%A7%A3-2"><span class="nav-number">1.50.</span> <span class="nav-text">:::spoiler 答案&gt;（A）::::::spoiler 觀念::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-27"><span class="nav-number">1.51.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-1-90-2-%E5%90%A6-spoiler-%E8%A7%80%E5%BF%B5-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.52.</span> <span class="nav-text">:::spoiler 答案&gt;(1) 90%&gt;(2) 否::::::spoiler 觀念::::::spoiler 詳解&gt;:::</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#-28"><span class="nav-number">1.53.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#spoiler-%E7%AD%94%E6%A1%88-1-135%E5%BA%A6-2-%E4%B8%8D%E8%83%BD-spoiler-%E8%A7%80%E5%BF%B5-spoiler-%E8%A9%B3%E8%A7%A3"><span class="nav-number">1.54.</span> <span class="nav-text">:::spoiler 答案&gt;(1) 135度&gt;(2) 不能::::::spoiler 觀念&gt;::::::spoiler 詳解&gt;:::</span></a></li></ol></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">Grace Liu</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives">
+          <span class="site-state-item-count">3</span>
+          <span class="site-state-item-name">文章</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-tags">
+        <span class="site-state-item-count">1</span>
+        <span class="site-state-item-name">標籤</span>
+      </div>
+  </nav>
+</div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2023</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Grace Liu</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 強力驅動
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
+</html>
