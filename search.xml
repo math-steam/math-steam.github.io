@@ -324,9 +324,17 @@
     <title>102年國中教育會考-數學詳解</title>
     <url>/cap102/</url>
     <content><![CDATA[<h4 id="答對題數與等級對照表">答對題數與等級對照表</h4>
-<h2 id="alt-text"><img src="image1.png" alt="Alt text" /></h2>
+<figure>
+<img src="image1.png" alt="Alt text" />
+<figcaption aria-hidden="true">Alt text</figcaption>
+</figure>
+<hr />
 <h4 id="各科各等級人數比例">各科各等級人數比例</h4>
-<h2 id="alt-text-1"><img src="image2.png" alt="Alt text" /></h2>
+<figure>
+<img src="image2.png" alt="Alt text" />
+<figcaption aria-hidden="true">Alt text</figcaption>
+</figure>
+<hr />
 <h4 id="試題">試題</h4>
 <img src="102_1.png" alt="Alt描述" /> <font size=1>
 <details>
@@ -338,19 +346,19 @@
 </blockquote>
 </details>
 </font> <img
-src="102_2.pn%3Cfont%20size=1%3E%20%3Cdetails%3E%20%3Csummary%3E答案%3C/summary%3E%20%3E%20(D"
+src="102_2.png%3Cfont%20size=1%3E%20%3Cdetails%3E%20%3Csummary%3E答案%3C/summary%3E%20%3E%20(D"
 alt="Alt描述" />
 </details>
 </font>g) <img
-src="102_3.pn%3Cfont%20size=1%3E%20%3Cdetails%3E%20%3Csummary%3E答案%3C/summary%3E%20%3E%20(D"
+src="102_3.png%3Cfont%20size=1%3E%20%3Cdetails%3E%20%3Csummary%3E答案%3C/summary%3E%20%3E%20(D"
 alt="Alt描述" />
 </details>
 </font>g) <img
-src="102_4.pn%3Cfont%20size=1%3E%20%3Cdetails%3E%20%3Csummary%3E答案%3C/summary%3E%20%3E%20(A"
+src="102_4.png%3Cfont%20size=1%3E%20%3Cdetails%3E%20%3Csummary%3E答案%3C/summary%3E%20%3E%20(A"
 alt="Alt描述" />
 </details>
 </font>g) <img
-src="102_5.pn%3Cfont%20size=1%3E%20%3Cdetails%3E%20%3Csummary%3E答案%3C/summary%3E%20%3E%20(B"
+src="102_5.png%3Cfont%20size=1%3E%20%3Cdetails%3E%20%3Csummary%3E答案%3C/summary%3E%20%3E%20(B"
 alt="Alt描述" />
 </details>
 </font>g) <img src="102_6.png" alt="Alt描述" /> <font size=1>
