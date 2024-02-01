@@ -5614,4 +5614,10 @@ href="https://cap.rcpet.edu.tw/exam/111/111%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%
         <tag>101</tag>
       </tags>
   </entry>
+  <entry>
+    <title>hello-world</title>
+    <url>/hello-world/</url>
+    <content><![CDATA[
+]]></content>
+  </entry>
 </search>
