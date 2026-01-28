@@ -7377,4 +7377,34 @@ aria-hidden="true">114各科等級加標示人數百分比統計表</figcaption>
         <tag>114</tag>
       </tags>
   </entry>
+  <entry>
+    <title>satexam1-114-report</title>
+    <url>/satexam1-114-report/</url>
+    <content><![CDATA[<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VBLJT5KBPG');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
+     crossorigin="anonymous"></script>
+<h4 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h4>
+<h3 id="學測五標">114 學測五標</h3>
+<p><img src="satexam1_114_report3.png" /></p>
+<h3 id="近三年五標比較表">近三年五標比較表</h3>
+<p><img src="satexam1_114_report2.png" /></p>
+<h3 id="學測原始總分與級分對照表">114 學測原始總分與級分對照表</h3>
+<p><img src="satexam1_114_report1.png" /></p>
+]]></content>
+      <categories>
+        <category>學測</category>
+      </categories>
+      <tags>
+        <tag>統計</tag>
+        <tag>114</tag>
+      </tags>
+  </entry>
 </search>
