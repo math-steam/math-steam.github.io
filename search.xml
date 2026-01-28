@@ -7378,7 +7378,7 @@ aria-hidden="true">114各科等級加標示人數百分比統計表</figcaption>
       </tags>
   </entry>
   <entry>
-    <title>114年學測成績統計</title>
+    <title>歷年學測成績統計</title>
     <url>/satexam1-114-report/</url>
     <content><![CDATA[<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
@@ -7391,13 +7391,319 @@ aria-hidden="true">114各科等級加標示人數百分比統計表</figcaption>
 </script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
      crossorigin="anonymous"></script>
-<h4 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h4>
-<h3 id="學測五標">114 學測五標</h3>
-<p><img src="satexam1_114_report3.png" /></p>
-<h3 id="近三年五標比較表">近三年五標比較表</h3>
-<p><img src="satexam1_114_report2.png" /></p>
-<h3 id="學測原始總分與級分對照表">114 學測原始總分與級分對照表</h3>
-<p><img src="satexam1_114_report1.png" /></p>
+<h1 id="歷年學測五標">歷年學測五標</h1>
+<h2 id="數a">數A</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">年度</th>
+<th style="text-align: right;">頂標</th>
+<th style="text-align: right;">前標</th>
+<th style="text-align: right;">均標</th>
+<th style="text-align: right;">後標</th>
+<th style="text-align: right;">底標</th>
+<th style="text-align: center;">級距</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">114</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.12667</td>
+</tr>
+<tr>
+<td style="text-align: center;">113</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.16733</td>
+</tr>
+<tr>
+<td style="text-align: center;">112</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: center;">6.37467</td>
+</tr>
+<tr>
+<td style="text-align: center;">111</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">5.56133</td>
+</tr>
+</tbody>
+</table>
+<h2 id="數b">數B</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">年度</th>
+<th style="text-align: right;">頂標</th>
+<th style="text-align: right;">前標</th>
+<th style="text-align: right;">均標</th>
+<th style="text-align: right;">後標</th>
+<th style="text-align: right;">底標</th>
+<th style="text-align: center;">級距</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">114</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.29000</td>
+</tr>
+<tr>
+<td style="text-align: center;">113</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.15000</td>
+</tr>
+<tr>
+<td style="text-align: center;">112</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.38067</td>
+</tr>
+<tr>
+<td style="text-align: center;">111</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.59867</td>
+</tr>
+</tbody>
+</table>
+<h2 id="國文">國文</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">年度</th>
+<th style="text-align: right;">頂標</th>
+<th style="text-align: right;">前標</th>
+<th style="text-align: right;">均標</th>
+<th style="text-align: right;">後標</th>
+<th style="text-align: right;">底標</th>
+<th style="text-align: center;">級距</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">114</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: center;">5.29000</td>
+</tr>
+<tr>
+<td style="text-align: center;">113</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: center;">5.29000</td>
+</tr>
+<tr>
+<td style="text-align: center;">112</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: center;">5.21933</td>
+</tr>
+<tr>
+<td style="text-align: center;">111</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: center;">5.34000</td>
+</tr>
+</tbody>
+</table>
+<h2 id="英文">英文</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">年度</th>
+<th style="text-align: right;">頂標</th>
+<th style="text-align: right;">前標</th>
+<th style="text-align: right;">均標</th>
+<th style="text-align: right;">後標</th>
+<th style="text-align: right;">底標</th>
+<th style="text-align: center;">級距</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">114</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.17067</td>
+</tr>
+<tr>
+<td style="text-align: center;">113</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.19600</td>
+</tr>
+<tr>
+<td style="text-align: center;">112</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: center;">6.11533</td>
+</tr>
+<tr>
+<td style="text-align: center;">111</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: center;">6.20867</td>
+</tr>
+</tbody>
+</table>
+<h2 id="自然">自然</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">年度</th>
+<th style="text-align: right;">頂標</th>
+<th style="text-align: right;">前標</th>
+<th style="text-align: right;">均標</th>
+<th style="text-align: right;">後標</th>
+<th style="text-align: right;">底標</th>
+<th style="text-align: center;">級距</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">114</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: center;">7.87467</td>
+</tr>
+<tr>
+<td style="text-align: center;">113</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: center;">8.03933</td>
+</tr>
+<tr>
+<td style="text-align: center;">112</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: center;">7.57200</td>
+</tr>
+<tr>
+<td style="text-align: center;">111</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: center;">8.05133</td>
+</tr>
+</tbody>
+</table>
+<h2 id="社會">社會</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">年度</th>
+<th style="text-align: right;">頂標</th>
+<th style="text-align: right;">前標</th>
+<th style="text-align: right;">均標</th>
+<th style="text-align: right;">後標</th>
+<th style="text-align: right;">底標</th>
+<th style="text-align: center;">級距</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">114</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: center;">7.68933</td>
+</tr>
+<tr>
+<td style="text-align: center;">113</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: center;">8.13667</td>
+</tr>
+<tr>
+<td style="text-align: center;">112</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: center;">7.84333</td>
+</tr>
+<tr>
+<td style="text-align: center;">111</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: center;">8.26200</td>
+</tr>
+</tbody>
+</table>
 ]]></content>
       <categories>
         <category>學測</category>
