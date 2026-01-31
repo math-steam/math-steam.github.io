@@ -7779,14 +7779,16 @@ href="https://cap.rcpet.edu.tw/exam/114/114%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%
 <summary>
 <font size=1>詳解</font>
 </summary>
-<font color=blue><br />
-&gt; 兩式相加：<br />
+<p><font color=blue></p>
+<blockquote>
+兩式相加：<br />
 <span class="math inline">\(60x=120\)</span><br />
 <span class="math inline">\(\Rightarrow x=2\)</span><br />
-&gt; <span class="math inline">\(x=2\)</span> 代入第一式：<br />
+<span class="math inline">\(x=2\)</span> 代入第一式：<br />
 <span class="math inline">\(\Rightarrow 2y=7\)</span><br />
-&gt; <span class="math inline">\(a+2b=x+2y=2+7=9\)</span> </font>
+<span class="math inline">\(a+2b=x+2y=2+7=9\)</span> </font>
 </details>
+</blockquote>
 <hr />
 <p><img src="114_5.png" /></p>
 <font size=1>
@@ -7806,11 +7808,13 @@ href="https://cap.rcpet.edu.tw/exam/114/114%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%
 <summary>
 <font size=1>詳解</font>
 </summary>
-<font color=blue><br />
-&gt; <span class="math inline">\(p+q=r\)</span> (三角形外角=兩內對角和)
-&gt; <span class="math inline">\(\therefore
-p+q+r=2r=2(180-30-70)=160\)</span> </font>
+<p><font color=blue></p>
+<blockquote>
+<span class="math inline">\(p+q=r\)</span> (三角形外角=兩內對角和) <span
+class="math inline">\(\therefore p+q+r=2r=2(180-30-70)=160\)</span>
+</font>
 </details>
+</blockquote>
 <hr />
 <p><img src="114_6.png" /></p>
 <font size=1>
@@ -8410,8 +8414,10 @@ class="math inline">\(=64^\circ-\frac12\overset{\frown}{BC}\)</span><br />
 <summary>
 <font size=1>詳解</font>
 </summary>
-<p>x <font color=blue><br />
-&gt; 齒輪比愈大愈費力</p>
+<p>x <font color=blue></p>
+<blockquote>
+<p>齒輪比愈大愈費力</p>
+</blockquote>
 <blockquote>
 <ol type="A">
 <li><span class="math inline">\(\frac{33}{18}\)</span><br />
