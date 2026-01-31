@@ -7696,8 +7696,11 @@ href="https://cap.rcpet.edu.tw/exam/114/114%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%
 <summary>
 答案
 </summary>
-</font> &gt;(C)
+<blockquote>
+<p>(C)</p>
+</blockquote>
 </details>
+</font>
 <details>
 <font size=1>
 <summary>
@@ -7725,6 +7728,7 @@ href="https://cap.rcpet.edu.tw/exam/114/114%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%
 </details>
 </font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
@@ -7746,10 +7750,13 @@ href="https://cap.rcpet.edu.tw/exam/114/114%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%
 <p>(C)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font> <font color=blue></p>
 <blockquote>
 <p><img src="114_3a.jpg" /></p>
 </blockquote>
@@ -7769,18 +7776,19 @@ href="https://cap.rcpet.edu.tw/exam/114/114%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%
 <p>(B)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
-<blockquote>
-<p>兩式相加：<br />
+</font> <font color=blue><br />
+&gt; 兩式相加：<br />
 <span class="math inline">\(60x=120\)</span><br />
 <span class="math inline">\(\Rightarrow x=2\)</span><br />
-<span class="math inline">\(x=2\)</span> 代入第一式：<br />
+&gt; <span class="math inline">\(x=2\)</span> 代入第一式：<br />
 <span class="math inline">\(\Rightarrow 2y=7\)</span><br />
-<span class="math inline">\(a+2b=x+2y=2+7=9\)</span></p>
-</blockquote>
+&gt; <span class="math inline">\(a+2b=x+2y=2+7=9\)</span>
 </details>
 <p></font></p>
 <hr />
@@ -7797,10 +7805,13 @@ href="https://cap.rcpet.edu.tw/exam/114/114%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%
 <p>(C)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font></p>
 <blockquote>
 <p><span class="math inline">\(p+q=r\)</span> (三角形外角=兩內對角和)
 <span class="math inline">\(\therefore
@@ -7822,10 +7833,13 @@ p+q+r=2r=2(180-30-70)=160\)</span></p>
 <p>(A)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font> <font color=blue></p>
 <blockquote>
 <p>向下移：<span class="math inline">\(y &lt; 2\)</span><br />
 向右移：<span class="math inline">\(x &gt; -1\)</span><br />
@@ -7847,10 +7861,13 @@ p+q+r=2r=2(180-30-70)=160\)</span></p>
 <p>(A)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font> <font color=blue></p>
 <blockquote>
 <p>60歲以上<span class="math inline">\(=(-109)+112+204=207\)</span></p>
 </blockquote>
@@ -7870,10 +7887,13 @@ p+q+r=2r=2(180-30-70)=160\)</span></p>
 <p>(C)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font> <font color=blue></p>
 <blockquote>
 <p><span class="math inline">\(\Rightarrow 2\sqrt3 \times \sqrt2+\sqrt6
 \times \sqrt2\)</span><br />
@@ -7895,10 +7915,14 @@ p+q+r=2r=2(180-30-70)=160\)</span></p>
 <p>(A)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <p>下車區比停車位少一個<br />
 <span class="math inline">\(200\times 20+150\times (20-1)\)</span><br />
@@ -7920,10 +7944,14 @@ p+q+r=2r=2(180-30-70)=160\)</span></p>
 <p>(A)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <p><span class="math inline">\((A)\Rightarrow (106+4)(106-4)\times
 (108+2)(108-2)\)</span><br />
@@ -7960,10 +7988,14 @@ p+q+r=2r=2(180-30-70)=160\)</span></p>
 <p>(B)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <p>阿嘉剩：<span class="math inline">\(2,4,5\)</span><br />
 小楊剩：<span class="math inline">\(1,3,4\)</span><br />
@@ -7991,10 +8023,13 @@ class="math inline">\((2,1),(4,1),(4,3),(5,1),(5,3),(5,4)\)</span><br />
 <p>(D)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font> <font color=blue></p>
 <blockquote>
 <p>正三角錐的側面為全等的等腰三角形，所以側邊要一樣長<br />
 乙以一邊 3 為底邊，另兩邊 2,3 不相等。<br />
@@ -8016,10 +8051,14 @@ class="math inline">\((2,1),(4,1),(4,3),(5,1),(5,3),(5,4)\)</span><br />
 <p>(A)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <p>甲：<span class="math inline">\(x-4=\pm3\therefore
 x=4\pm3=7,1\)</span><br />
@@ -8041,10 +8080,14 @@ x=4\pm3=7,1\)</span><br />
 <p>(C)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <p>設早餐組合售出 <span class="math inline">\(x\)</span> 組，<br />
 咖啡售出 <span class="math inline">\(120-x\)</span> 杯<br />
@@ -8072,10 +8115,14 @@ x=4\pm3=7,1\)</span><br />
 <p>(B)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <p>設 <span
 class="math inline">\(\overline{AB}=\overline{BC}=\overline{CD}=\overline{DE}=1\)</span><br />
@@ -8114,10 +8161,14 @@ class="math inline">\(\overline{AB}=\overline{BC}=\overline{CD}=\overline{DE}=1\
 <p>(D)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <p><span class="math inline">\(\overline{EF}//\overline{BC}\Rightarrow
 \frac{\overline{AF}}{\overline{FC}}=\frac{\overline{AE}}{\overline{EB}}=\frac73\)</span><br />
@@ -8154,10 +8205,14 @@ class="math inline">\(\overline{AD}:\overline{DE}=\frac12\overline{AB}:\frac15\o
 <p>(D)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <p>設螺紋間距 <span class="math inline">\(a\)</span>,
 為正三角形邊長<br />
@@ -8188,10 +8243,14 @@ a\)</span><br />
 <p>(B)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <p><span class="math inline">\((a,b,c)\leq(a,b)\)</span><br />
 <span class="math inline">\([a,b,c]\geq[a,b]\)</span></p>
@@ -8212,10 +8271,14 @@ a\)</span><br />
 <p>(C)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <p>設使用優惠一、優惠二各 <span class="math inline">\(x,y\)</span>
 張<br />
@@ -8244,10 +8307,14 @@ y\leq\frac{64}{11}\)</span><br />
 <p>(A)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <p><span class="math inline">\(\angle{BFP}=\angle3\)</span>,<span
 class="math inline">\(\angle{EFP}=\angle4\)</span><br />
@@ -8278,10 +8345,14 @@ class="math inline">\(2(\angle3+\angle4)=180^{\circ}\)</span><br />
 <p>(D)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <p>頂點的 <span class="math inline">\(x\)</span> 坐標為 <span
 class="math inline">\(-7\)</span> 在 <span
@@ -8308,10 +8379,14 @@ class="math inline">\(y\)</span> 軸左邊<br />
 <p>(B)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <p><span
 class="math inline">\(\overline{DE}:\overline{EG}=3:2\Rightarrow\triangle{ADG}=\frac52\triangle{AEG}\)</span><br />
@@ -8338,10 +8413,14 @@ class="math inline">\(\Rightarrow\triangle{AEG}=\frac37\triangle{ABG}=\frac37(\f
 <p>(D)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <p><span
 class="math inline">\(\overset{\frown}{AB}=54^\circ+62^\circ=116^\circ=\overset{\frown}{AB&#39;}\)</span>
@@ -8377,13 +8456,14 @@ class="math inline">\(=64^\circ-\frac12\overset{\frown}{BC}\)</span><br />
 <p>(D)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
-<blockquote>
-<p>齒輪比愈大愈費力</p>
-</blockquote>
+<p></font> <font color=blue><br />
+&gt; 齒輪比愈大愈費力</p>
 <blockquote>
 <ol type="A">
 <li><span class="math inline">\(\frac{33}{18}\)</span><br />
@@ -8410,10 +8490,14 @@ class="math inline">\(=64^\circ-\frac12\overset{\frown}{BC}\)</span><br />
 <p>(B)</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <ol type="A">
 <li><span class="math inline">\(\frac{11}{6}\)</span> 有 <span
@@ -8451,10 +8535,14 @@ class="math inline">\(\frac{22}{18}\)</span> 共 1 種</li>
 (2)18, 30</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <ol type="1">
 <li><span class="math inline">\(\frac{20%}{40%}=\frac12\)</span><br />
@@ -8484,10 +8572,14 @@ src="https://hackmd.io/_uploads/rymCKfiLZg.jpg" alt="cap114_27" /></p>
 (2) 否</p>
 </blockquote>
 </details>
+</font>
 <details>
+<font size=1>
 <summary>
 詳解
 </summary>
+<p></font><br />
+<font color=blue></p>
 <blockquote>
 <ol type="1">
 <li><span class="math inline">\((16,18)=144\)</span><br />
