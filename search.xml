@@ -7695,14 +7695,16 @@ href="https://cap.rcpet.edu.tw/exam/114/114%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%
 <summary>
 <font size=1>答案</font>
 </summary>
-<font color=red><br />
-&gt;(C) </font>
+<p><font color=red></p>
+<blockquote>
+(C) </font>
 </details>
 <details>
 <summary>
 <font size=1>詳解</font>
 </summary>
 <p><font color=blue></p>
+</blockquote>
 <blockquote>
 <span class="math inline">\(\Rightarrow 7^{10+2-4}=7^8\)</span> </font>
 </details>
@@ -7770,14 +7772,16 @@ href="https://cap.rcpet.edu.tw/exam/114/114%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%
 <summary>
 <font size=1>答案</font>
 </summary>
-<font color=red><br />
-&gt;(B) </font>
+<p><font color=red></p>
+<blockquote>
+(B) </font>
 </details>
 <details>
 <summary>
 <font size=1>詳解</font>
 </summary>
 <p><font color=blue></p>
+</blockquote>
 <blockquote>
 兩式相加：<br />
 <span class="math inline">\(60x=120\)</span><br />
@@ -7852,14 +7856,16 @@ class="math inline">\(\therefore p+q+r=2r=2(180-30-70)=160\)</span>
 <summary>
 <font size=1>答案</font>
 </summary>
-<font color=red><br />
-&gt;(A) </font>
+<p><font color=red></p>
+<blockquote>
+(A) </font>
 </details>
 <details>
 <summary>
 <font size=1>詳解</font>
 </summary>
 <p><font color=blue></p>
+</blockquote>
 <blockquote>
 60歲以上<span class="math inline">\(=(-109)+112+204=207\)</span> </font>
 </details>
