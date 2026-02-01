@@ -8491,18 +8491,15 @@ class="math inline">\(\frac{22}{18}\)</span> 共 1 種<br />
 </summary>
 <p><font color=red></p>
 <blockquote>
-<ol type="1">
-<li><span class="math inline">\(\frac12\)</span><br />
-</li>
-<li>18, 30<br />
+(1) <span class="math inline">\(\frac12\)</span><br />
+(2) 18, 30<br />
 </font>
 </details>
 <details>
 <summary>
 <font size=1>詳解</font>
 </summary>
-<font color=blue></li>
-</ol>
+<p><font color=blue></p>
 </blockquote>
 <blockquote>
 (1) <span class="math inline">\(\frac{20%}{40%}=\frac12\)</span><br />
@@ -8537,11 +8534,9 @@ class="math inline">\(=\frac{40%}{40%}=1\)</span><br />
 <p><font color=blue></p>
 </blockquote>
 <blockquote>
-<ol type="1">
-<li><span class="math inline">\((16,18)=144\)</span><br />
+(1) <span class="math inline">\((16,18)=144\)</span><br />
 <span class="math inline">\(144\div 16=9\)</span><br />
-</li>
-<li>B 一層需 <span class="math inline">\(144\div 18=8\)</span> 張<br />
+(2) B 一層需 <span class="math inline">\(144\div 18=8\)</span> 張<br />
 A 比 B 多一層，設共有 <span class="math inline">\(2x+1\)</span> 層<br />
 <span class="math inline">\(\Rightarrow 9(x+1):8x=4:3\)</span><br />
 <span class="math inline">\(\Rightarrow 27x+27=32x\)</span><br />
@@ -8549,8 +8544,7 @@ A 比 B 多一層，設共有 <span class="math inline">\(2x+1\)</span> 層<br /
 （不合）<br />
 答：（1）9 張 (2) 否<br />
 </font>
-</details></li>
-</ol>
+</details>
 </blockquote>
 <hr />
 ]]></content>
