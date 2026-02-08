@@ -1700,15 +1700,15 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </figure>
 <hr />
 <h4 id="第一部分選擇題第1-25-題">第一部分:選擇題(第1 ~ 25 題)</h4>
-<img src="105_1.png" /> <font size=1>
-<p align="right">
+<img src="105_1.png" />
+<div class="text-right text-sizec">
 通過率 0.85
-</p>
+</div>
 <details>
 <summary>
-答案
+<span class="text-sizec">答案</span>
 </summary>
-<div class="red-text">
+<div class="red-text text-sizec">
 <blockquote>
 <p>(A)</p>
 </blockquote>
