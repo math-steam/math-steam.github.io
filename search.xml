@@ -2315,10 +2315,13 @@ class="math inline">\(=\frac{5}{25}=\frac{1}{5}\)</span><br />
 <p><font color=blue></p>
 </blockquote>
 <blockquote>
-<span class="math inline">\(\overline{AC}=5&gt;r_A+r_C=4\)</span> 所以
-A、C 外離<br />
-<span class="math inline">\(\overline{BC}=4＝r_B+r_C=4\)</span> 所以
-B、C 外切<br />
+設三圓半徑分別為 <span class="math inline">\(r_a,r_b,r_c\)</span> <span
+class="math inline">\(\overline{AC}=5&gt;r_a+r_c=4\)</span> 所以 <span
+class="math inline">\(A\)</span>、<span class="math inline">\(C\)</span>
+外離<br />
+<span class="math inline">\(\overline{BC}=4＝r_b+r_c=4\)</span> 所以
+<span class="math inline">\(B\)</span>、<span
+class="math inline">\(C\)</span> 外切<br />
 </font>
 </details>
 </blockquote>
@@ -2593,9 +2596,11 @@ x=\frac{4}{3}y\)</span><br />
 </blockquote>
 <blockquote>
 <img src="106_16a.png" /><br />
-由圖（五）可知 <span
+由圖（五）可知<br />
+<span
 class="math inline">\(\angle1+\angle2=180^{\circ}-124^{\circ}=56^{\circ}\)</span><br />
-由圖（六）可知 <span class="math inline">\(\angle
+由圖（六）可知<br />
+<span class="math inline">\(\angle
 CAD=180^{\circ}-2(\angle1+\angle2)=180^{\circ}-2\times56^{\circ}=68^{\circ}\)</span><br />
 </font>
 </details>
@@ -2868,11 +2873,14 @@ class="math inline">\(x=3\)</span> 為向左平移 4 單位<br />
 水的總體積不變<br />
 注意隔板是歪的，右邊上底為梯形<br />
 設寬為 <span class="math inline">\(x\)</span><br />
-左邊的水體積 <span class="math inline">\(=(130+70-90+130)\times x \div 2
-\times 40=4800x\)</span><br />
-右邊的水體積 <span class="math inline">\(=(90+70)\times x \div 2 \times
+左邊的水體積<br />
+<span class="math inline">\(=(130+70-90+130)\times x \div 2 \times
+40=4800x\)</span><br />
+右邊的水體積<br />
+<span class="math inline">\(=(90+70)\times x \div 2 \times
 50=4000x\)</span><br />
-抽出後水高 <span class="math inline">\(=(4800x+4000x)\div (130+70)\div
+抽出後水高<br />
+<span class="math inline">\(=(4800x+4000x)\div (130+70)\div
 x=44\)</span><br />
 </font>
 </details>
@@ -2945,9 +2953,8 @@ class="math inline">\(\overline{BS}^2=\overline{RS}^2+5^2=\overline{BC}^2+(4-x)^
 <span class="math inline">\(\Rightarrow
 x^2+1^2+5^2=4^2+(4-x)^2\)</span><br />
 <span class="math inline">\(\Rightarrow x=\frac34\)</span><br />
-四邊形 <span class="math inline">\(BCRS\)</span> =正方形 <span
-class="math inline">\(ABCD\)</span> - <span
-class="math inline">\(\triangle ABR-\triangle DRS\)</span><br />
+四邊形<span class="math inline">\(BCRS=\)</span>正方形<span
+class="math inline">\(ABCD-\triangle ABR-\triangle DRS\)</span><br />
 <span class="math inline">\(4^2-3\times 4\div 2-x\div 2\)</span><br />
 <span class="math inline">\(10-\frac{x}{2} = 10-\frac{3}{8} =
 \frac{77}{8}\)</span><br />
@@ -2980,9 +2987,9 @@ class="math inline">\(\triangle ABR-\triangle DRS\)</span><br />
 (2)<br />
 第四投開票所還有 250張票未開<br />
 若 250張全部投給甲，則甲得票數為 <span
-class="math inline">\(583＋250＝833\)</span>，大於乙、丙&gt;
+class="math inline">\(583+250＝833\)</span>，大於乙、丙&gt;
 得票數，因此甲有機會當選。<br />
-若 250張全部投給乙，則乙得票數為 337＋250＝587，小於丙得票&gt;
+若 250張全部投給乙，則乙得票數為 337+250＝587，小於丙得票&gt;
 數，因此乙沒有機會當選。 </font>
 </details>
 </blockquote>
