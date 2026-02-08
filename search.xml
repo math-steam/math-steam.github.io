@@ -1708,11 +1708,11 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 <summary>
 答案
 </summary>
+<p><font color=red></p>
 <blockquote>
-<p>(A)</p>
-</blockquote>
+(A) </font>
 </details>
-<p></font></p>
+</blockquote>
 <hr />
 <img src="105_2.png" alt="Alt描述" /> <font size=1>
 <p align="right">
@@ -2124,7 +2124,7 @@ aria-hidden="true">106各科等級加標示人數百分比統計表</figcaption>
 href="https://cap.rcpet.edu.tw/exam/106/106reply_M.pdf">106年國中教育會考試題疑義表</a></p>
 <hr />
 <h4 id="第一部分選擇題第1-26-題">第一部分:選擇題(第1 ~ 26 題)</h4>
-<font size=1> <img src="106_1.png" /> <font size=1>
+<img src="106_1.png" /> <font size=1>
 <p align="right">
 通過率 0.79
 </p>
