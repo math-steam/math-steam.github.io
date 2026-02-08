@@ -1700,7 +1700,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </figure>
 <hr />
 <h4 id="第一部分選擇題第1-25-題">第一部分:選擇題(第1 ~ 25 題)</h4>
-<img src="105_1.png" alt="Alt描述" /> <font size=1>
+<img src="105_1.png" /> <font size=1>
 <p align="right">
 通過率 0.85
 </p>
@@ -1708,13 +1708,14 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 <summary>
 答案
 </summary>
-<p><font color=red></p>
+<div class="red-text">
 <blockquote>
-(A) </font>
-</details>
+<p>(A)</p>
 </blockquote>
+</div>
+</details>
 <hr />
-<img src="105_2.png" alt="Alt描述" /> <font size=1>
+<img src="105_2.png" /> <font size=1>
 <p align="right">
 通過率 0.84
 </p>
@@ -1728,7 +1729,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_3.png" alt="Alt描述" /> <font size=1>
+<img src="105_3.png" /> <font size=1>
 <p align="right">
 通過率 0.70
 </p>
@@ -1742,7 +1743,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_4.png" alt="Alt描述" /> <font size=1>
+<img src="105_4.png" /> <font size=1>
 <p align="right">
 通過率 0.77
 </p>
@@ -1756,7 +1757,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_5.png" alt="Alt描述" /> <font size=1>
+<img src="105_5.png" /> <font size=1>
 <p align="right">
 通過率 0.74
 </p>
@@ -1770,7 +1771,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_6.png" alt="Alt描述" /> <font size=1>
+<img src="105_6.png" /> <font size=1>
 <p align="right">
 通過率 0.65
 </p>
@@ -1784,7 +1785,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_7.png" alt="Alt描述" /> <font size=1>
+<img src="105_7.png" /> <font size=1>
 <p align="right">
 通過率 0.65
 </p>
@@ -1798,7 +1799,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_8.png" alt="Alt描述" /> <font size=1>
+<img src="105_8.png" /> <font size=1>
 <p align="right">
 通過率 0.64
 </p>
@@ -1812,7 +1813,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_9.png" alt="Alt描述" /> <font size=1>
+<img src="105_9.png" /> <font size=1>
 <p align="right">
 通過率 0.71
 </p>
@@ -1826,7 +1827,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_10.png" alt="Alt描述" /> <font size=1>
+<img src="105_10.png" /> <font size=1>
 <p align="right">
 通過率 0.57
 </p>
@@ -1840,7 +1841,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_11.png" alt="Alt描述" /> <font size=1>
+<img src="105_11.png" /> <font size=1>
 <p align="right">
 通過率 0.55
 </p>
@@ -1854,7 +1855,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_12.png" alt="Alt描述" /> <font size=1>
+<img src="105_12.png" /> <font size=1>
 <p align="right">
 通過率 0.46
 </p>
@@ -1868,7 +1869,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_13.png" alt="Alt描述" /> <font size=1>
+<img src="105_13.png" /> <font size=1>
 <p align="right">
 通過率 0.55
 </p>
@@ -1882,7 +1883,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_14.png" alt="Alt描述" /> <font size=1>
+<img src="105_14.png" /> <font size=1>
 <p align="right">
 通過率 0.52
 </p>
@@ -1896,7 +1897,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_15.png" alt="Alt描述" /> <font size=1>
+<img src="105_15.png" /> <font size=1>
 <p align="right">
 通過率 0.43
 </p>
@@ -1910,7 +1911,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_16.png" alt="Alt描述" /> <font size=1>
+<img src="105_16.png" /> <font size=1>
 <p align="right">
 通過率 0.46
 </p>
@@ -1924,7 +1925,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_17.png" alt="Alt描述" /> <font size=1>
+<img src="105_17.png" /> <font size=1>
 <p align="right">
 通過率 0.47
 </p>
@@ -1938,7 +1939,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_18.png" alt="Alt描述" /> <font size=1>
+<img src="105_18.png" /> <font size=1>
 <p align="right">
 通過率 0.36
 </p>
@@ -1952,7 +1953,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_19.png" alt="Alt描述" /> <font size=1>
+<img src="105_19.png" /> <font size=1>
 <p align="right">
 通過率 0.36
 </p>
@@ -1966,7 +1967,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_20.png" alt="Alt描述" /> <font size=1>
+<img src="105_20.png" /> <font size=1>
 <p align="right">
 通過率 0.39
 </p>
@@ -1980,7 +1981,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_21.png" alt="Alt描述" /> <font size=1>
+<img src="105_21.png" /> <font size=1>
 <p align="right">
 通過率 0.47
 </p>
@@ -1994,7 +1995,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_22.png" alt="Alt描述" /> <font size=1>
+<img src="105_22.png" /> <font size=1>
 <p align="right">
 通過率 0.38
 </p>
@@ -2008,7 +2009,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_23.png" alt="Alt描述" /> <font size=1>
+<img src="105_23.png" /> <font size=1>
 <p align="right">
 通過率 0.50
 </p>
@@ -2022,7 +2023,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_24.png" alt="Alt描述" /> <font size=1>
+<img src="105_24.png" /> <font size=1>
 <p align="right">
 通過率 0.37
 </p>
@@ -2036,7 +2037,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_25.png" alt="Alt描述" /> <font size=1>
+<img src="105_25.png" /> <font size=1>
 <p align="right">
 通過率 0.33
 </p>
@@ -2051,7 +2052,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 <p></font></p>
 <hr />
 <h4 id="第二部分非選擇題第1-2-題">第二部分:非選擇題(第1 ~ 2 題)</h4>
-<img src="105_26.png" alt="Alt描述" /> <font size=1>
+<img src="105_26.png" /> <font size=1>
 <details>
 <summary>
 答案
@@ -2062,7 +2063,7 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </details>
 <p></font></p>
 <hr />
-<img src="105_27.png" alt="Alt描述" /> <font size=1>
+<img src="105_27.png" /> <font size=1>
 <details>
 <summary>
 答案
