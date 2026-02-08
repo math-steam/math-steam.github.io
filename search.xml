@@ -2124,7 +2124,7 @@ aria-hidden="true">106各科等級加標示人數百分比統計表</figcaption>
 href="https://cap.rcpet.edu.tw/exam/106/106reply_M.pdf">106年國中教育會考試題疑義表</a></p>
 <hr />
 <h4 id="第一部分選擇題第1-26-題">第一部分:選擇題(第1 ~ 26 題)</h4>
-<img src="106_1.png" /> <font size=1>
+<font size=1> <img src="106_1.png" /> <font size=1>
 <p align="right">
 通過率 0.79
 </p>
@@ -2985,11 +2985,14 @@ class="math inline">\(ABCD-\triangle ABR-\triangle DRS\)</span><br />
 乙：211＋85＋41＝337<br />
 丙：147＋244＋205＝596<br />
 (2)<br />
-第四投開票所還有 250張票未開<br />
-若 250張全部投給甲，則甲得票數為 <span
+第四投開票所還有 <span class="math inline">\(250\)</span> 張票未開<br />
+若 <span class="math inline">\(250\)</span> 張全部投給甲，則甲得票數為
+<span
 class="math inline">\(583+250＝833\)</span>，大於乙、丙得票數，因此甲有機會當選。<br />
-若 250張全部投給乙，則乙得票數為
-337+250＝587，小於丙得票數，因此乙沒有機會當選。 </font>
+若 <span class="math inline">\(250\)</span> 張全部投給乙，則乙得票數為
+<span
+class="math inline">\(337+250＝587\)</span>，小於丙得票數，因此乙沒有機會當選。
+</font>
 </details>
 </blockquote>
 <hr />
