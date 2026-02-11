@@ -1984,7 +1984,14 @@ ABC\)</span><br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-
+<blockquote>
+<p><span class="math inline">\(甲=乙-x\)</span><br />
+<span class="math inline">\(丙=乙-y\)</span><br />
+<span class="math inline">\(乙=甲+丙-1-2\)</span><br />
+<span class="math inline">\(\Rightarrow
+乙=(乙-x)+(乙-y)-1-2\)</span><br />
+<span class="math inline">\(\Rightarrow 乙=x+y+3\)</span></p>
+</blockquote>
 </div>
 </details>
 <hr />
