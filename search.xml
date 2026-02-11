@@ -1949,7 +1949,18 @@ ABC\)</span><br />
 乙：連 <span class="math inline">\(\overline{AP}\Rightarrow
 \overline{BA}=\overline{BP}\)</span>（圓半徑）<br />
 <span class="math inline">\(\Rightarrow \angle BAP=\angle
-BPA\)</span></p>
+BPA\)</span><br />
+<span
+class="math inline">\(\overline{AP}&lt;\overline{AC}&lt;\overline{AB}\)</span><br />
+<span class="math inline">\(\Rightarrow
+\overline{AP}&lt;\overline{BP}\)</span><br />
+<span class="math inline">\(\Rightarrow \angle ABC&lt;\angle
+BAP\)</span> （大角對大邊）<br />
+<span class="math inline">\(\angle APC=\angle BAP+\angle
+ABC\)</span>（外角定理）<br />
+<span class="math inline">\(\Rightarrow \angle APC&gt;2\angle
+ABC\)</span><br />
+所以甲正確，乙錯誤，選 <span class="math inline">\((C)\)</span></p>
 </blockquote>
 </div>
 </details>
@@ -1973,9 +1984,7 @@ BPA\)</span></p>
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<blockquote>
-<p>$$</p>
-</blockquote>
+
 </div>
 </details>
 <hr />
@@ -10784,36 +10793,6 @@ class="math inline">\(\frac{n-2k}{n}\)</span> 分</h5>
       </tags>
   </entry>
   <entry>
-    <title>112年學測成績統計</title>
-    <url>/satexam1-112-report/</url>
-    <content><![CDATA[<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VBLJT5KBPG');
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
-     crossorigin="anonymous"></script>
-<h4 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h4>
-<h3 id="學測五標">112 學測五標</h3>
-<p><img src="satexam1_112_report3.png" /></p>
-<h3 id="近三年五標比較表">近三年五標比較表</h3>
-<p><img src="satexam1_112_report2.png" /></p>
-<h3 id="學測原始總分與級分對照表">112 學測原始總分與級分對照表</h3>
-<p><img src="satexam1_112_report1.png" /></p>
-]]></content>
-      <categories>
-        <category>學測</category>
-      </categories>
-      <tags>
-        <tag>112</tag>
-        <tag>統計</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>113年學測成績統計</title>
     <url>/satexam1-113-report/</url>
     <content><![CDATA[<!-- Google tag (gtag.js) -->
@@ -11177,6 +11156,36 @@ class="math inline">\(\frac{n-2k}{n}\)</span> 分</h5>
       <tags>
         <tag>學測</tag>
         <tag>114</tag>
+        <tag>統計</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>112年學測成績統計</title>
+    <url>/satexam1-112-report/</url>
+    <content><![CDATA[<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VBLJT5KBPG');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
+     crossorigin="anonymous"></script>
+<h4 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h4>
+<h3 id="學測五標">112 學測五標</h3>
+<p><img src="satexam1_112_report3.png" /></p>
+<h3 id="近三年五標比較表">近三年五標比較表</h3>
+<p><img src="satexam1_112_report2.png" /></p>
+<h3 id="學測原始總分與級分對照表">112 學測原始總分與級分對照表</h3>
+<p><img src="satexam1_112_report1.png" /></p>
+]]></content>
+      <categories>
+        <category>學測</category>
+      </categories>
+      <tags>
+        <tag>112</tag>
         <tag>統計</tag>
       </tags>
   </entry>
