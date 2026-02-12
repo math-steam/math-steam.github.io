@@ -1173,7 +1173,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #adffe0;
+  background: #05b90e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2577,17 +2577,65 @@ mjx-container + br {
     margin: 8px 0 0;
   }
 }
-.red-text,
-.red-text blockquote {
-  color: #e74c3c !important;
-}
-.blue-text,
-.blue-text blockquote {
-  color: #3498db !important;
-}
 .text-right {
   text-align: right;
 }
 .text-sizec {
   font-size: 12px;
+}
+/* 美化展開區塊 */
+details {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 15px;
+  transition: all 0.3s ease;
+}
+details[open] {
+  border-color: #4a90e2;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+summary {
+  font-weight: bold;
+  cursor: pointer;
+  color: #2d3748;
+  outline: none;
+}
+summary:hover {
+  color: #4a90e2;
+}
+/* 答案區：拿掉 blockquote 相關設定，改用 padding */
+.red-text {
+  color: #e74c3c !important;
+  font-weight: bold;
+  padding: 5px 10px; /* 增加一點內距，視覺上比較舒服 */
+  display: block; /* 確保佔滿整行 */
+}
+.blue-text {
+  color: #3498db !important;
+  background-color: #f7fafc !important /* 確保背景色強制執行 */;
+  border: 1px solid #e2e8f0 !important /* 增加淺色邊框強化區塊感 */;
+  padding: 15px !important;
+  border-radius: 8px !important;
+  margin-top: 10px !important;
+  line-height: 1.8 !important;
+  display: block !important /* 關鍵：強制轉為區塊元素 */;
+  overflow-x: auto !important /* 手機版公式太長可滑動 */;
+}
+/* 分隔線 --- 樣式 */
+.math-divider {
+  border: 0;
+  border-top: 1px solid #d3d3d3;
+  margin: 3em 0;
+  width: 100%;
+  display: block;
+}
+.math-item {
+  margin-bottom: 30px;
+  padding: 20px 0;
+  border-bottom: 0;
+  clear: both;
+}
+body {
+  background: #f00 !important;
 }
