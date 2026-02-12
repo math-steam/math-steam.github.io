@@ -14,89 +14,424 @@
 </script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
      crossorigin="anonymous"></script>
-<div class="line-block">001 | <a
-href="https://admissions.ntu.edu.tw/">國立臺灣大學</a><br />
-002 | 國立臺灣師範大學<br />
-003 | <a href="https://recruit.nchu.edu.tw/">國立中興大學</a> |<br />
-004 | <a
-href="https://web.ncku.edu.tw/p/412-1000-211.php?Lang=zh-tw">國立成功大學</a><br />
-005 | <a href="https://entrance.exam.scu.edu.tw/">東吳大學</a><br />
-006 | <a href="https://www.nccu.edu.tw/admission/">國立政治大學</a>
-|<br />
-007 | 高雄醫學大學<br />
-008 | 中原大學<br />
-009 | <a href="https://exam2.thu.edu.tw/EXAM/indextt.jsp">東海大學</a>
-|<br />
-011 | <a href="https://adms.site.nthu.edu.tw/">國立清華大學</a><br />
-012 | 中國醫藥大學<br />
-013 | <a href="https://exam.nycu.edu.tw/">國立陽明交通大學</a> |<br />
-014 | <a href="https://adms.tku.edu.tw/">淡江大學</a><br />
-015 | <a href="https://www.fcu.edu.tw/apply/">逢甲大學</a><br />
-016 | <a href="https://admission.ncu.edu.tw/zh-TW">國立中央大學</a>
-|<br />
-017 | <a
-href="https://futurestudent.pccu.edu.tw/">中國文化大學</a><br />
-018 | <a href="https://adms.pu.edu.tw/">靜宜大學</a><br />
-019 | <a href="https://recruit.ttu.edu.tw/">大同大學</a> |<br />
-020 | <a href="https://exam.fju.edu.tw/admission">輔仁大學</a><br />
-021 | <a
-href="https://admission.ntou.edu.tw/Default.aspx">國立臺灣海洋大學</a><br />
-022 | 國立高雄師範大學 |<br />
-023 | <a
-href="https://acadaff.ncue.edu.tw/p/412-1002-2104.php?Lang=zh-tw">國立彰化師範大學</a><br />
-026 | 中山醫學大學<br />
-027 | <a href="https://exam-oaa.nsysu.edu.tw/">國立中山大學</a> |<br />
-028 | 國立臺北藝術大學<br />
-030 | 長庚大學<br />
-031 | <a
-href="https://as.ntcu.edu.tw/redirect.php?ID=income&amp;Sn=205">國立臺中教育大學</a>
-|<br />
-032 | 國立臺北教育大學<br />
-033 | 國立臺南大學 | 034 | <a
-href="https://exam.ndhu.edu.tw/">國立東華大學</a> |<br />
-035 | <a href="https://admission.utaipei.edu.tw/">臺北市立大學</a><br />
-036 | <a href="https://admission.nptu.edu.tw/">國立屏東大學</a><br />
-038 | <a href="https://enrl.nttu.edu.tw/">國立臺東大學</a> |<br />
-039 | <a href="https://admissions.ntsu.edu.tw/">國立體育大學</a><br />
-040 | <a
-href="https://www.yzu.edu.tw/admissions/index.php/tw/">元智大學</a><br />
-041 | <a href="https://exams.ccu.edu.tw/">國立中正大學</a> |<br />
-042 | <a href="https://enroll.dyu.edu.tw/">大葉大學</a><br />
-043 | 中華大學<br />
-044 | 華梵大學 |<br />
-045 | 義守大學<br />
-046 | 銘傳大學<br />
-047 | <a
-href="https://oaa.web.shu.edu.tw/4-2/%E6%8B%9B%E7%94%9F%E7%B5%84-4">世新大學</a>
-|<br />
-050 | <a href="https://recruit.usc.edu.tw/">實踐大學</a><br />
-051 | 長榮大學<br />
-056 | 國立臺灣藝術大學 |<br />
-058 | <a
-href="https://admission.ncnu.edu.tw/">國立暨南國際大學</a><br />
-059 | 南華大學<br />
-060 | 國立臺灣體育運動大學 |<br />
-063 | 國立臺南藝術大學<br />
-065 | <a href="https://www.hcu.edu.tw/newstu">玄奘大學</a><br />
-079 | <a href="https://admissions.au.edu.tw/">真理大學</a> |<br />
-099 | <a href="https://new.ntpu.edu.tw/admission">國立臺北大學</a><br />
-100 | <a
-href="https://website.ncyu.edu.tw/admission">國立嘉義大學</a><br />
-101 | <a href="https://admissions.nuk.edu.tw/">國立高雄大學</a> |<br />
-108 | <a
-href="https://admissions.tcu.edu.tw/?page_id=44">慈濟大學</a><br />
-109 | <a
-href="https://www.tmu.edu.tw/Front/Newsall/News_01/News.aspx?id=RGjAlmzViUg=/">臺北醫學大學</a><br />
-110 | 開南大學 |<br />
-112 | 康寧大學<br />
-113 | 中信金融管理學院<br />
-130 | 佛光大學 |<br />
-134 | <a href="https://rd.asia.edu.tw/">亞洲大學</a><br />
-150 | <a href="https://admniu.niu.edu.tw/">國立宜蘭大學</a><br />
-151 | <a href="https://enroll.nuu.edu.tw/">國立聯合大學</a> |<br />
-152 | 馬偕醫學院<br />
-153 | 國立金門大學<br />
-154 | 臺北基督學院 |</div>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">代碼</th>
+<th style="text-align: left;">學校名稱</th>
+<th style="text-align: left;">所在地</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">001</td>
+<td style="text-align: left;"><a
+href="https://admissions.ntu.edu.tw/"><strong>國立臺灣大學</strong></a></td>
+<td style="text-align: left;">臺北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">002</td>
+<td style="text-align: left;"><a
+href="https://www.aa.ntnu.edu.tw/zh_tw/Admissions02/Undergraduate01"><strong>國立臺灣師範大學</strong></a></td>
+<td style="text-align: left;">臺北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">003</td>
+<td style="text-align: left;"><a
+href="https://recruit.nchu.edu.tw/"><strong>國立中興大學</strong></a></td>
+<td style="text-align: left;">臺中市</td>
+</tr>
+<tr>
+<td style="text-align: left;">004</td>
+<td style="text-align: left;"><a
+href="https://web.ncku.edu.tw/p/412-1000-211.php?Lang=zh-tw"><strong>國立成功大學</strong></a></td>
+<td style="text-align: left;">臺南市</td>
+</tr>
+<tr>
+<td style="text-align: left;">005</td>
+<td style="text-align: left;"><a
+href="https://entrance.exam.scu.edu.tw/"><strong>東吳大學</strong></a></td>
+<td style="text-align: left;">臺北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">006</td>
+<td style="text-align: left;"><a
+href="https://www.nccu.edu.tw/admission/"><strong>國立政治大學</strong></a></td>
+<td style="text-align: left;">臺北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">007</td>
+<td style="text-align: left;"><a
+href="https://enr.kmu.edu.tw/"><strong>高雄醫學大學</strong></a></td>
+<td style="text-align: left;">高雄市</td>
+</tr>
+<tr>
+<td style="text-align: left;">008</td>
+<td style="text-align: left;"><a
+href="https://icare.cycu.edu.tw/"><strong>中原大學</strong></a></td>
+<td style="text-align: left;">桃園市</td>
+</tr>
+<tr>
+<td style="text-align: left;">009</td>
+<td style="text-align: left;"><a
+href="https://exam2.thu.edu.tw/EXAM/indextt.jsp"><strong>東海大學</strong></a></td>
+<td style="text-align: left;">臺中市</td>
+</tr>
+<tr>
+<td style="text-align: left;">011</td>
+<td style="text-align: left;"><a
+href="https://adms.site.nthu.edu.tw/"><strong>國立清華大學</strong></a></td>
+<td style="text-align: left;">新竹市</td>
+</tr>
+<tr>
+<td style="text-align: left;">012</td>
+<td style="text-align: left;"><a
+href="https://adm21.cmu.edu.tw/"><strong>中國醫藥大學</strong></a></td>
+<td style="text-align: left;">臺中市</td>
+</tr>
+<tr>
+<td style="text-align: left;">013</td>
+<td style="text-align: left;"><a
+href="https://exam.nycu.edu.tw/"><strong>國立陽明交通大學</strong></a></td>
+<td style="text-align: left;">臺北市、新竹市</td>
+</tr>
+<tr>
+<td style="text-align: left;">014</td>
+<td style="text-align: left;"><a
+href="https://adms.tku.edu.tw/"><strong>淡江大學</strong></a></td>
+<td style="text-align: left;">新北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">015</td>
+<td style="text-align: left;"><a
+href="https://www.fcu.edu.tw/apply/"><strong>逢甲大學</strong></a></td>
+<td style="text-align: left;">臺中市</td>
+</tr>
+<tr>
+<td style="text-align: left;">016</td>
+<td style="text-align: left;"><a
+href="https://admission.ncu.edu.tw/zh-TW"><strong>國立中央大學</strong></a></td>
+<td style="text-align: left;">桃園市</td>
+</tr>
+<tr>
+<td style="text-align: left;">017</td>
+<td style="text-align: left;"><a
+href="https://futurestudent.pccu.edu.tw/"><strong>中國文化大學</strong></a></td>
+<td style="text-align: left;">臺北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">018</td>
+<td style="text-align: left;"><a
+href="https://adms.pu.edu.tw/"><strong>靜宜大學</strong></a></td>
+<td style="text-align: left;">臺中市</td>
+</tr>
+<tr>
+<td style="text-align: left;">019</td>
+<td style="text-align: left;"><a
+href="https://recruit.ttu.edu.tw/"><strong>大同大學</strong></a></td>
+<td style="text-align: left;">臺北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">020</td>
+<td style="text-align: left;"><a
+href="https://exam.fju.edu.tw/admission"><strong>輔仁大學</strong></a></td>
+<td style="text-align: left;">新北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">021</td>
+<td style="text-align: left;"><a
+href="https://admission.ntou.edu.tw/Default.aspx"><strong>國立臺灣海洋大學</strong></a></td>
+<td style="text-align: left;">基隆市</td>
+</tr>
+<tr>
+<td style="text-align: left;">022</td>
+<td style="text-align: left;"><a
+href="https://w3.nknu.edu.tw/zh/services"><strong>國立高雄師範大學</strong></a></td>
+<td style="text-align: left;">高雄市</td>
+</tr>
+<tr>
+<td style="text-align: left;">023</td>
+<td style="text-align: left;"><a
+href="https://acadaff.ncue.edu.tw/p/412-1002-2104.php?Lang=zh-tw"><strong>國立彰化師範大學</strong></a></td>
+<td style="text-align: left;">彰化市</td>
+</tr>
+<tr>
+<td style="text-align: left;">024</td>
+<td style="text-align: left;"><a
+href="https://website.ncyu.edu.tw/admission"><strong>國立嘉義大學</strong></a></td>
+<td style="text-align: left;">嘉義市</td>
+</tr>
+<tr>
+<td style="text-align: left;">026</td>
+<td style="text-align: left;"><a
+href="https://recruit.csmu.edu.tw/"><strong>中山醫學大學</strong></a></td>
+<td style="text-align: left;">臺中市</td>
+</tr>
+<tr>
+<td style="text-align: left;">027</td>
+<td style="text-align: left;"><a
+href="https://exam-oaa.nsysu.edu.tw/"><strong>國立中山大學</strong></a></td>
+<td style="text-align: left;">高雄市</td>
+</tr>
+<tr>
+<td style="text-align: left;">028</td>
+<td style="text-align: left;"><a
+href="https://admissionex.tnua.edu.tw/"><strong>國立臺北藝術大學</strong></a></td>
+<td style="text-align: left;">臺北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">030</td>
+<td style="text-align: left;"><a
+href="https://www.cgu.edu.tw/recruit"><strong>長庚大學</strong></a></td>
+<td style="text-align: left;">桃園市</td>
+</tr>
+<tr>
+<td style="text-align: left;">031</td>
+<td style="text-align: left;"><a
+href="https://as.ntcu.edu.tw/redirect.php?ID=income&amp;Sn=205"><strong>國立臺中教育大學</strong></a></td>
+<td style="text-align: left;">臺中市</td>
+</tr>
+<tr>
+<td style="text-align: left;">032</td>
+<td style="text-align: left;"><a
+href="https://www.ntue.edu.tw/p/412-1000-2400.php?Lang=zh-tw"><strong>國立臺北教育大學</strong></a></td>
+<td style="text-align: left;">臺北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">033</td>
+<td style="text-align: left;"><a
+href="https://admissions.nutn.edu.tw/Admissions/"><strong>國立臺南大學</strong></a></td>
+<td style="text-align: left;">臺南市</td>
+</tr>
+<tr>
+<td style="text-align: left;">034</td>
+<td style="text-align: left;"><a
+href="https://exam.ndhu.edu.tw/"><strong>國立東華大學</strong></a></td>
+<td style="text-align: left;">花蓮縣</td>
+</tr>
+<tr>
+<td style="text-align: left;">035</td>
+<td style="text-align: left;"><a
+href="https://admission.utaipei.edu.tw/"><strong>臺北市立大學</strong></a></td>
+<td style="text-align: left;">臺北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">036</td>
+<td style="text-align: left;"><a
+href="https://admission.nptu.edu.tw/"><strong>國立屏東大學</strong></a></td>
+<td style="text-align: left;">屏東市</td>
+</tr>
+<tr>
+<td style="text-align: left;">038</td>
+<td style="text-align: left;"><a
+href="https://enrl.nttu.edu.tw/"><strong>國立臺東大學</strong></a></td>
+<td style="text-align: left;">臺東市</td>
+</tr>
+<tr>
+<td style="text-align: left;">039</td>
+<td style="text-align: left;"><a
+href="https://admissions.ntsu.edu.tw/"><strong>國立體育大學</strong></a></td>
+<td style="text-align: left;">桃園市</td>
+</tr>
+<tr>
+<td style="text-align: left;">040</td>
+<td style="text-align: left;"><a
+href="https://www.yzu.edu.tw/admissions/index.php/tw/"><strong>元智大學</strong></a></td>
+<td style="text-align: left;">桃園市</td>
+</tr>
+<tr>
+<td style="text-align: left;">041</td>
+<td style="text-align: left;"><a
+href="https://exams.ccu.edu.tw/"><strong>國立中正大學</strong></a></td>
+<td style="text-align: left;">嘉義縣</td>
+</tr>
+<tr>
+<td style="text-align: left;">042</td>
+<td style="text-align: left;"><a
+href="https://enroll.dyu.edu.tw/"><strong>大葉大學</strong></a></td>
+<td style="text-align: left;">彰化縣</td>
+</tr>
+<tr>
+<td style="text-align: left;">043</td>
+<td style="text-align: left;"><a
+href="https://admission.chu.edu.tw/"><strong>中華大學</strong></a></td>
+<td style="text-align: left;">新竹市</td>
+</tr>
+<tr>
+<td style="text-align: left;">044</td>
+<td style="text-align: left;"><a
+href="https://www.hfu.edu.tw/Front/Admission/Admissions-01/Page.aspx?id=lAxlbSsJ6R4="><strong>華梵大學</strong></a></td>
+<td style="text-align: left;">新北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">045</td>
+<td style="text-align: left;"><a
+href="https://www.isu.edu.tw/admissions"><strong>義守大學</strong></a></td>
+<td style="text-align: left;">高雄市</td>
+</tr>
+<tr>
+<td style="text-align: left;">046</td>
+<td style="text-align: left;"><a
+href="https://admission.wp.mcu.edu.tw/"><strong>銘傳大學</strong></a></td>
+<td style="text-align: left;">臺北市、桃園市</td>
+</tr>
+<tr>
+<td style="text-align: left;">047</td>
+<td style="text-align: left;"><a
+href="https://oaa.web.shu.edu.tw/4-2/%E6%8B%9B%E7%94%9F%E7%B5%84-4"><strong>世新大學</strong></a></td>
+<td style="text-align: left;">臺北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">050</td>
+<td style="text-align: left;"><a
+href="https://recruit.usc.edu.tw/"><strong>實踐大學</strong></a></td>
+<td style="text-align: left;">臺北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">051</td>
+<td style="text-align: left;"><a
+href="https://admission.cjcu.edu.tw/"><strong>長榮大學</strong></a></td>
+<td style="text-align: left;">臺南市</td>
+</tr>
+<tr>
+<td style="text-align: left;">056</td>
+<td style="text-align: left;"><a
+href="https://aca.ntua.edu.tw/catalog.aspx?ca=2"><strong>國立臺灣藝術大學</strong></a></td>
+<td style="text-align: left;">臺北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">058</td>
+<td style="text-align: left;"><a
+href="https://admission.ncnu.edu.tw/"><strong>國立暨南國際大學</strong></a></td>
+<td style="text-align: left;">南投縣</td>
+</tr>
+<tr>
+<td style="text-align: left;">059</td>
+<td style="text-align: left;"><a
+href="https://admission3.nhu.edu.tw/"><strong>南華大學</strong></a></td>
+<td style="text-align: left;">嘉義縣</td>
+</tr>
+<tr>
+<td style="text-align: left;">060</td>
+<td style="text-align: left;"><a
+href="https://admission.ntus.edu.tw/"><strong>國立臺灣體育運動大學</strong></a></td>
+<td style="text-align: left;">臺中市</td>
+</tr>
+<tr>
+<td style="text-align: left;">063</td>
+<td style="text-align: left;"><a
+href="https://acad.tnnua.edu.tw/p/412-1003-3729.php?Lang=zh-tw"><strong>國立臺南藝術大學</strong></a></td>
+<td style="text-align: left;">臺南市</td>
+</tr>
+<tr>
+<td style="text-align: left;">065</td>
+<td style="text-align: left;"><a
+href="https://www.hcu.edu.tw/newstu"><strong>玄奘大學</strong></a></td>
+<td style="text-align: left;">新竹市</td>
+</tr>
+<tr>
+<td style="text-align: left;">079</td>
+<td style="text-align: left;"><a
+href="https://admissions.au.edu.tw/"><strong>真理大學</strong></a></td>
+<td style="text-align: left;">新北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">099</td>
+<td style="text-align: left;"><a
+href="https://new.ntpu.edu.tw/admission"><strong>國立臺北大學</strong></a></td>
+<td style="text-align: left;">新北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">100</td>
+<td style="text-align: left;"><a
+href="https://website.ncyu.edu.tw/admission"><strong>國立嘉義大學</strong></a></td>
+<td style="text-align: left;">嘉義市</td>
+</tr>
+<tr>
+<td style="text-align: left;">101</td>
+<td style="text-align: left;"><a
+href="https://admissions.nuk.edu.tw/"><strong>國立高雄大學</strong></a></td>
+<td style="text-align: left;">高雄市</td>
+</tr>
+<tr>
+<td style="text-align: left;">108</td>
+<td style="text-align: left;"><a
+href="https://admissions.tcu.edu.tw/?page_id=44"><strong>慈濟大學</strong></a></td>
+<td style="text-align: left;">花蓮市</td>
+</tr>
+<tr>
+<td style="text-align: left;">109</td>
+<td style="text-align: left;"><a
+href="https://www.tmu.edu.tw/Front/Newsall/News_01/News.aspx?id=RGjAlmzViUg="><strong>臺北醫學大學</strong></a></td>
+<td style="text-align: left;">臺北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">110</td>
+<td style="text-align: left;"><a
+href="https://recruit.knu.edu.tw/"><strong>開南大學</strong></a></td>
+<td style="text-align: left;">桃園市</td>
+</tr>
+<tr>
+<td style="text-align: left;">112</td>
+<td style="text-align: left;"><a
+href="https://recruit.ukn.edu.tw/"><strong>康寧大學</strong></a></td>
+<td style="text-align: left;">新北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">113</td>
+<td style="text-align: left;"><a
+href="https://admissions.ctbc.edu.tw/"><strong>中信金融管理學院</strong></a></td>
+<td style="text-align: left;">臺南市</td>
+</tr>
+<tr>
+<td style="text-align: left;">130</td>
+<td style="text-align: left;"><a
+href="https://fguas.fgu.edu.tw/"><strong>佛光大學</strong></a></td>
+<td style="text-align: left;">宜蘭縣</td>
+</tr>
+<tr>
+<td style="text-align: left;">134</td>
+<td style="text-align: left;"><a
+href="https://rd.asia.edu.tw/"><strong>亞洲大學</strong></a></td>
+<td style="text-align: left;">臺中市</td>
+</tr>
+<tr>
+<td style="text-align: left;">150</td>
+<td style="text-align: left;"><a
+href="https://admniu.niu.edu.tw/"><strong>國立宜蘭大學</strong></a></td>
+<td style="text-align: left;">宜蘭縣</td>
+</tr>
+<tr>
+<td style="text-align: left;">151</td>
+<td style="text-align: left;"><a
+href="https://enroll.nuu.edu.tw/"><strong>國立聯合大學</strong></a></td>
+<td style="text-align: left;">苗栗市</td>
+</tr>
+<tr>
+<td style="text-align: left;">152</td>
+<td style="text-align: left;"><a
+href="https://admissions.mmc.edu.tw/"><strong>馬偕醫學院</strong></a></td>
+<td style="text-align: left;">新北市</td>
+</tr>
+<tr>
+<td style="text-align: left;">153</td>
+<td style="text-align: left;"><a
+href="https://admission.nqu.edu.tw/"><strong>國立金門大學</strong></a></td>
+<td style="text-align: left;">金門縣</td>
+</tr>
+<tr>
+<td style="text-align: left;">154</td>
+<td style="text-align: left;"><a
+href="https://www.cct.edu.tw/Recruitment/recruitment.html"><strong>臺北基督學院</strong></a></td>
+<td style="text-align: left;">新北市</td>
+</tr>
+</tbody>
+</table>
 ]]></content>
       <categories>
         <category>申請入學</category>
@@ -1473,6 +1808,7 @@ aria-hidden="true">104等級加標示人數百分比統計表</figcaption>
 href="https://cap.rcpet.edu.tw/exam/104/104reply-m.pdf">104年國中教育會考試題疑義表</a></p>
 <hr />
 <h4 id="第一部分選擇題125題">第一部分：選擇題（1~25題）</h4>
+<div class="math-item">
 <img src="104_1.png" />
 <div class="text-right text-sizec">
 通過率 0.82
@@ -1497,9 +1833,8 @@ href="https://cap.rcpet.edu.tw/exam/104/104reply-m.pdf">104年國中教育會考
 <span class="math inline">\(=\frac{13}{4}\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_2.png" />
 <div class="text-right text-sizec">
 通過率 0.84
@@ -1523,9 +1858,8 @@ class="math inline">\(M\)</span> 為水平線<br />
 所以選 <span class="math inline">\((B)\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_3.png" />
 <div class="text-right text-sizec">
 通過率 0.69
@@ -1550,9 +1884,8 @@ class="math inline">\(M\)</span> 為水平線<br />
 <span class="math inline">\((D)\ Q_3-Q_1=70-50=20\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_4.png" />
 <div class="text-right text-sizec">
 通過率 0.68
@@ -1576,9 +1909,8 @@ class="math inline">\(=3^4-7^2+\frac{2^6}{2^3}\)</span><br />
 <span class="math inline">\(=40\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_5.png" />
 <div class="text-right text-sizec">
 通過率 0.62
@@ -1608,9 +1940,8 @@ class="math inline">\(\overline{OD}=\sqrt{\overline{OB}^2-\overline{BD}^2}=\sqrt
 OBD=\frac12\overline{BD}\cdot\overline{OD}=\frac12\times6\times2\sqrt7=6\sqrt7\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_6.png" />
 <div class="text-right text-sizec">
 通過率 0.66
@@ -1636,9 +1967,8 @@ class="math inline">\(-2x(3x-2)^2+3=(3x-2)[(-2x)(3x-2)]+3\)</span><br />
 class="math inline">\(=-2x(3x-2)+3=-6x^2+4x+3\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_7.png" />
 <div class="text-right text-sizec">
 通過率 0.58
@@ -1661,9 +1991,8 @@ class="math inline">\(=-2x(3x-2)+3=-6x^2+4x+3\)</span></p>
 所以選 <span class="math inline">\((A)\)</span><br />
 /div&gt;
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_8.png" />
 <div class="text-right text-sizec">
 通過率 0.62
@@ -1684,9 +2013,8 @@ class="math inline">\(=-2x(3x-2)+3=-6x^2+4x+3\)</span></p>
 <p><span class="math inline">\((B)\ \sqrt{(-5)^6}=5^3\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_9.png" />
 <div class="text-right text-sizec">
 通過率 0.58
@@ -1713,9 +2041,8 @@ class="math inline">\(222\)</span> 元的餐點<br />
 所以有 <span class="math inline">\(9\)</span> 種餐點可以選</p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_10.png" />
 <div class="text-right text-sizec">
 通過率 0.63
@@ -1746,9 +2073,8 @@ ACB=\frac12\overset\frown{CE}=30^\circ\)</span><br />
 BAC=180^\circ-20^\circ-30^\circ=130^\circ\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_11.png" />
 <div class="text-right text-sizec">
 通過率 0.64
@@ -1769,9 +2095,8 @@ BAC=180^\circ-20^\circ-30^\circ=130^\circ\)</span></p>
 <p>略</p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_12.png" />
 <div class="text-right text-sizec">
 通過率 0.65
@@ -1795,9 +2120,8 @@ BAC=180^\circ-20^\circ-30^\circ=130^\circ\)</span></p>
 class="math inline">\(\frac{8}{18}=\frac49\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_13.png" />
 <div class="text-right text-sizec">
 通過率 0.40
@@ -1823,9 +2147,8 @@ x-4=\frac{48\times21}{36}=28\)</span><br />
 <span class="math inline">\(\Rightarrow x=32\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_14.png" />
 <div class="text-right text-sizec">
 通過率 0.55
@@ -1846,9 +2169,8 @@ x-4=\frac{48\times21}{36}=28\)</span><br />
 <p><span class="math inline">\((C)\ x^2-8x-20=(x-10)(x+2)\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_15.png" />
 <div class="text-right text-sizec">
 通過率 0.42
@@ -1873,9 +2195,8 @@ class="math inline">\(x=\frac12\)</span><br />
 外心在中垂線上，所以在第四象限。</p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_16.png" />
 <div class="text-right text-sizec">
 通過率 0.55
@@ -1906,9 +2227,8 @@ class="math inline">\(9^2\times 21^2-13^2=81\times
 class="math inline">\(2^2+31^2-12^2=4+961-144=821\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_17.png" />
 <div class="text-right text-sizec">
 通過率 0.46
@@ -1938,9 +2258,8 @@ class="math inline">\(13\)</span><br />
 <span class="math inline">\(a_{13}=27\times13-15=351-15=336\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_18.png" />
 <div class="text-right text-sizec">
 通過率 0.41
@@ -1983,9 +2302,8 @@ ABC\)</span><br />
 所以甲正確，乙錯誤，選 <span class="math inline">\((C)\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_19.png" />
 <div class="text-right text-sizec">
 通過率 0.46
@@ -2011,9 +2329,8 @@ ABC\)</span><br />
 <span class="math inline">\(\Rightarrow 乙=x+y+3\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_20.png" /><br />
 
 <div class="text-right text-sizec">
@@ -2049,9 +2366,8 @@ A=180^{\circ}-114^{\circ}=66^{\circ}\)</span><br />
 B+\angle E=66^{\circ}+57^{\circ}=123^{\circ}\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_21.png" />
 <div class="text-right text-sizec">
 通過率 0.41
@@ -2084,9 +2400,8 @@ class="math inline">\(C(6, -9)\)</span><br />
 <span class="math inline">\(\Rightarrow D(9, 0)\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_22.png" />
 <div class="text-right text-sizec">
 通過率 0.31
@@ -2113,9 +2428,8 @@ class="math inline">\(3y\)</span> 人。<br />
 <span class="math inline">\(3x-3y=18\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_23.png" />
 <div class="text-right text-sizec">
 通過率 0.40
@@ -2150,9 +2464,8 @@ class="math inline">\(\overline{CG}:\overline{GF}=\overline{CD}:\overline{FH}\)<
 \frac{15}{2}\times 3=\frac{45}{4}\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_24.png" />
 <div class="text-right text-sizec">
 通過率 0.26
@@ -2185,9 +2498,8 @@ class="math inline">\(\overline{CG}:\overline{GF}=\overline{CD}:\overline{FH}\)<
 class="math inline">\(&gt;\)</span> 丙</p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
+<div class="math-item">
 <img src="104_25.png" />
 <div class="text-right text-sizec">
 通過率 0.28
@@ -2213,10 +2525,9 @@ class="math inline">\(&gt;\)</span> 丙</p>
 \text{乙的高度}&gt;\text{甲的高度}&gt;\text{丙的高度}\)</span></p>
 </div>
 </details>
-<div class="math-divider">
-
 </div>
-<h4 id="第二部分非選擇題12題">第二部分：非選擇題（1~2題）</h4>
+<section id="第二部分非選擇題12題" class="math-item">
+<h4>第二部分：非選擇題（1~2題）</h4>
 <img src="104_26.png" />
 <details>
 <summary>
@@ -2245,9 +2556,8 @@ class="math inline">\(6+7\)</span><br />
 所以 5 月 30 日為星期五、六或日</p>
 </div>
 </details>
-<div class="math-divider">
-
-</div>
+</section>
+<div class="math-item">
 <img src="104_27.png" />
 <details>
 <summary>
@@ -2278,6 +2588,7 @@ class="math inline">\(=\triangle ACE+\triangle ACF\)</span><br />
 class="math inline">\(ABCD\)</span> 面積</p>
 </div>
 </details>
+</div>
 </div>
 ]]></content>
       <categories>
