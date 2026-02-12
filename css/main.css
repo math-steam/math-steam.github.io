@@ -1173,7 +1173,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #05b90e;
+  background: #0975ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2577,13 +2577,14 @@ mjx-container + br {
     margin: 8px 0 0;
   }
 }
+/* 1. 基礎文字與對齊 */
 .text-right {
   text-align: right;
 }
 .text-sizec {
   font-size: 12px;
 }
-/* 美化展開區塊 */
+/* 2. 展開區塊 (Details/Summary) */
 details {
   border: 1px solid #e2e8f0;
   border-radius: 8px;
@@ -2604,25 +2605,26 @@ summary {
 summary:hover {
   color: #4a90e2;
 }
-/* 答案區：拿掉 blockquote 相關設定，改用 padding */
+/* 3. 答案區 (紅色) */
 .red-text {
   color: #e74c3c !important;
   font-weight: bold;
-  padding: 5px 10px; /* 增加一點內距，視覺上比較舒服 */
-  display: block; /* 確保佔滿整行 */
+  padding: 5px 10px;
+  display: block;
 }
+/* 4. 詳解區 (藍色區塊 - 修正語法) */
 .blue-text {
   color: #3498db !important;
-  background-color: #f7fafc !important /* 確保背景色強制執行 */;
-  border: 1px solid #e2e8f0 !important /* 增加淺色邊框強化區塊感 */;
+  background-color: #f7fafc !important;
+  border: 1px solid #e2e8f0 !important;
   padding: 15px !important;
   border-radius: 8px !important;
   margin-top: 10px !important;
   line-height: 1.8 !important;
-  display: block !important /* 關鍵：強制轉為區塊元素 */;
-  overflow-x: auto !important /* 手機版公式太長可滑動 */;
+  display: block !important;
+  overflow-x: auto !important;
 }
-/* 分隔線 --- 樣式 */
+/* 5. 題目間隔與分隔線 */
 .math-divider {
   border: 0;
   border-top: 1px solid #d3d3d3;
@@ -2631,11 +2633,9 @@ summary:hover {
   display: block;
 }
 .math-item {
-  margin-bottom: 30px;
+  margin-bottom: 80px;
   padding: 20px 0;
   border-bottom: 0;
   clear: both;
 }
-body {
-  background: #f00 !important;
-}
+/* 6. 測試用背景 (如果成功，網頁會變紅) */
