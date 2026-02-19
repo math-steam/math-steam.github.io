@@ -529,719 +529,6 @@ href="https://www.cac.edu.tw/apply113/schedule.php">官方公告連結</a></p>
       </tags>
   </entry>
   <entry>
-    <title>101年基測數學詳解 - 完整對照表與難題趨勢分析</title>
-    <url>/cap101/</url>
-    <content><![CDATA[<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VBLJT5KBPG');
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
-     crossorigin="anonymous"></script>
-<details>
-<summary>
-<span class="text-sizec">年度解析+等級對照表</span>
-</summary>
-</details>
-<div style="margin-top: 50px;">
-
-</div>
-<h1 id="年基測-數學詳解">101年基測-數學詳解</h1>
-<h2 id="選擇題-1-34-題">選擇題 (1 ~ 34 題)</h2>
-<div class="math-item">
-<img src="101_1.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_2.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(300-50-90-120=40\)</span><br />
-<span class="math inline">\(40\div 13\)</span> 的倍數，餘數可為 <span
-class="math inline">\(1, 14, 27\)</span> 元<br />
-只有 <span class="math inline">\((B) 14\)</span> 符合</p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_3.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>第二式整理得：<span class="math inline">\(197x+2y=19\)</span><br />
-兩式相減：<span class="math inline">\(2y=-8\Rightarrow y=-4\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_4.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>三數皆為正數，可用平方比大小。<br />
-<span
-class="math inline">\((5+\sqrt{15})^2=20+10\sqrt{15}\)</span><br />
-<span class="math inline">\((3+\sqrt{17})^2=20+6\sqrt{17}\)</span><br />
-<span class="math inline">\((1+\sqrt{19}^2=20+2\sqrt{19})\)</span><br />
-<span class="math inline">\(\Rightarrow\)</span> 丙 &lt; 乙 &lt; 甲</p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_5.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(2x\)</span> 為買兩件的定價<br />
-<span class="math inline">\(2x-100\)</span> 為買兩件減 <span
-class="math inline">\(100\)</span> 元<br />
-<span class="math inline">\(0.3(2x-100)\)</span> 為買兩件減 <span
-class="math inline">\(100\)</span> 元再打 3 折<br />
-<span class="math inline">\(0.3(2x-100) &lt; 1000\)</span> 為買兩件減
-<span class="math inline">\(100\)</span> 元再打 3 折，不到 1000 元</p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_6.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_7.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(4070\)</span> 億 <span
-class="math inline">\(=4070\times 10^8=4.07\times 10^{11}\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_8.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>六人份需砂糖 <span class="math inline">\(20\times 6=120\)</span>
-克<br />
-還差 <span class="math inline">\(120-50=70\)</span> 克<br />
-<span class="math inline">\(70 \div 20 \times 6=21\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_9.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_10.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_11.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_12.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_13.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\Rightarrow (-1000-\frac15)\times
-(-5)=5000+1=5001\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_14.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span
-class="math inline">\(8x^2-10x+2=2(4x-1)(x-1)=(4x-1)(2x-2)\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_15.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_16.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_17.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_18.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>二次函數有最低點，表示開口向上，<span
-class="math inline">\(x^2\)</span> 係數大於 <span
-class="math inline">\(0\)</span><br />
-原式 <span class="math inline">\(=(a-5)x^2+(b-3)x+c+7\)</span> <span
-class="math inline">\(\Rightarrow a &gt; 5\)</span><br />
-只有 <span class="math inline">\((D)\)</span> 符合。</p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_19.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_20.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_21.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_22.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_23.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\Rightarrow \frac{2^6}{3^6}\times
-\frac{3^4}{2^4}\)</span><br />
-<span class="math inline">\(=\frac{2^2}{3^2}\)</span><br />
-<span class="math inline">\(=(\frac23)^2\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_24.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_25.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_26.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(=
-\sqrt{(114+64)(114-64)-50^2}\)</span><br />
-<span class="math inline">\(= \sqrt{178\times 50-50^2}\)</span><br />
-<span class="math inline">\(= \sqrt{50(178-50)}\)</span><br />
-<span class="math inline">\(= \sqrt{50\times 128}\)</span><br />
-<span class="math inline">\(=80\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_27.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_28.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_29.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_30.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_31.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_32.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_33.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="101_34.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-
-</div>
-</details>
-</div>
-]]></content>
-      <categories>
-        <category>國中會考</category>
-      </categories>
-      <tags>
-        <tag>詳解</tag>
-        <tag>101</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>102年基測數學詳解 - 完整對照表與難題趨勢分析</title>
     <url>/cap102/</url>
     <content><![CDATA[<!-- Google tag (gtag.js) -->
@@ -1969,6 +1256,719 @@ class="math inline">\(\overset{\LARGE{\frown}}{AD}=180^\circ-62^\circ\times
       <tags>
         <tag>詳解</tag>
         <tag>102</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>101年基測數學詳解 - 完整對照表與難題趨勢分析</title>
+    <url>/cap101/</url>
+    <content><![CDATA[<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VBLJT5KBPG');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
+     crossorigin="anonymous"></script>
+<details>
+<summary>
+<span class="text-sizec">年度解析+等級對照表</span>
+</summary>
+</details>
+<div style="margin-top: 50px;">
+
+</div>
+<h1 id="年基測-數學詳解">101年基測-數學詳解</h1>
+<h2 id="選擇題-1-34-題">選擇題 (1 ~ 34 題)</h2>
+<div class="math-item">
+<img src="101_1.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_2.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(300-50-90-120=40\)</span><br />
+<span class="math inline">\(40\div 13\)</span> 的倍數，餘數可為 <span
+class="math inline">\(1, 14, 27\)</span> 元<br />
+只有 <span class="math inline">\((B) 14\)</span> 符合</p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_3.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>第二式整理得：<span class="math inline">\(197x+2y=19\)</span><br />
+兩式相減：<span class="math inline">\(2y=-8\Rightarrow y=-4\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_4.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>三數皆為正數，可用平方比大小。<br />
+<span
+class="math inline">\((5+\sqrt{15})^2=20+10\sqrt{15}\)</span><br />
+<span class="math inline">\((3+\sqrt{17})^2=20+6\sqrt{17}\)</span><br />
+<span class="math inline">\((1+\sqrt{19}^2=20+2\sqrt{19})\)</span><br />
+<span class="math inline">\(\Rightarrow\)</span> 丙 &lt; 乙 &lt; 甲</p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_5.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(2x\)</span> 為買兩件的定價<br />
+<span class="math inline">\(2x-100\)</span> 為買兩件減 <span
+class="math inline">\(100\)</span> 元<br />
+<span class="math inline">\(0.3(2x-100)\)</span> 為買兩件減 <span
+class="math inline">\(100\)</span> 元再打 3 折<br />
+<span class="math inline">\(0.3(2x-100) &lt; 1000\)</span> 為買兩件減
+<span class="math inline">\(100\)</span> 元再打 3 折，不到 1000 元</p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_6.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_7.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(4070\)</span> 億 <span
+class="math inline">\(=4070\times 10^8=4.07\times 10^{11}\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_8.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>六人份需砂糖 <span class="math inline">\(20\times 6=120\)</span>
+克<br />
+還差 <span class="math inline">\(120-50=70\)</span> 克<br />
+<span class="math inline">\(70 \div 20 \times 6=21\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_9.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_10.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_11.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_12.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_13.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\Rightarrow (-1000-\frac15)\times
+(-5)=5000+1=5001\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_14.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span
+class="math inline">\(8x^2-10x+2=2(4x-1)(x-1)=(4x-1)(2x-2)\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_15.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_16.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_17.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_18.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>二次函數有最低點，表示開口向上，<span
+class="math inline">\(x^2\)</span> 係數大於 <span
+class="math inline">\(0\)</span><br />
+原式 <span class="math inline">\(=(a-5)x^2+(b-3)x+c+7\)</span> <span
+class="math inline">\(\Rightarrow a &gt; 5\)</span><br />
+只有 <span class="math inline">\((D)\)</span> 符合。</p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_19.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_20.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_21.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_22.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_23.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\Rightarrow \frac{2^6}{3^6}\times
+\frac{3^4}{2^4}\)</span><br />
+<span class="math inline">\(=\frac{2^2}{3^2}\)</span><br />
+<span class="math inline">\(=(\frac23)^2\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_24.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_25.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_26.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(=
+\sqrt{(114+64)(114-64)-50^2}\)</span><br />
+<span class="math inline">\(= \sqrt{178\times 50-50^2}\)</span><br />
+<span class="math inline">\(= \sqrt{50(178-50)}\)</span><br />
+<span class="math inline">\(= \sqrt{50\times 128}\)</span><br />
+<span class="math inline">\(=80\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_27.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_28.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_29.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_30.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_31.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_32.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_33.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="101_34.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+
+</div>
+</details>
+</div>
+]]></content>
+      <categories>
+        <category>國中會考</category>
+      </categories>
+      <tags>
+        <tag>詳解</tag>
+        <tag>101</tag>
       </tags>
   </entry>
   <entry>
@@ -2827,851 +2827,6 @@ DEC\)</span> (AAS)</p>
       <tags>
         <tag>詳解</tag>
         <tag>103</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>104年會考數學詳解 - 完整對照表與難題趨勢分析</title>
-    <url>/cap104/</url>
-    <content><![CDATA[<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VBLJT5KBPG');
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
-     crossorigin="anonymous"></script>
-<details>
-<summary>
-<span class="text-sizec">年度解析+等級對照表</span>
-</summary>
-<h1 id="年會考數學解析選擇題的高壓與末端天險">104
-年會考數學解析：選擇題的高壓與末端天險</h1>
-<p>104
-年會考數學呈現出鮮明的難度分佈特性，全卷在選擇題區間設下了多重障礙。</p>
-<ul>
-<li><p><strong>選擇題難度密集</strong>：全卷共有 11 題通過率低於
-0.5，顯示中段以後的題目皆具備相當的鑑別度。</p></li>
-<li><p><strong>壓軸魔王（第 24、25
-題）</strong>：本年度最強的鑑別度高度集中在選擇題最後兩題。這兩題的通過率跌破
-0.3 的「極難區間」，是決定頂尖標示 A++ 的絕對分水嶺。</p></li>
-<li><p><strong>非選題難度回穩</strong>：相較於選擇題的密集打擊，該年度的非選擇題敘述簡潔、難度定位在「普通」，主要側重於基礎邏輯與計算的完整呈現。</p></li>
-</ul>
-<p><strong>NUMA 策略提醒：</strong> 104
-年的考題告訴我們，即便前面的選擇題壓力極大，也要為非選題預留體力，因為非選反而是該年的補分熱區。</p>
-<h2 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h2>
-<figure>
-<img src="image1.png" alt="104等級加標示與答對題數對照表" />
-<figcaption
-aria-hidden="true">104等級加標示與答對題數對照表</figcaption>
-</figure>
-<hr />
-<h2 id="等級加標示人數百分比統計表">等級加標示人數百分比統計表</h2>
-<figure>
-<img src="image2.png" alt="104等級加標示人數百分比統計表" />
-<figcaption
-aria-hidden="true">104等級加標示人數百分比統計表</figcaption>
-</figure>
-<hr />
-<h2 id="試題疑義">試題疑義</h2>
-<a
-href="https://cap.rcpet.edu.tw/exam/104/104reply-m.pdf">104年國中教育會考試題疑義表</a>
-</details>
-<div style="margin-top: 50px;">
-
-</div>
-<h1 id="年會考-數學詳解">104年會考-數學詳解</h1>
-<h2 id="第一部分選擇題125題">第一部分：選擇題（1~25題）</h2>
-<div class="math-item">
-<img src="104_1.png" />
-<div class="text-right text-sizec">
-通過率 0.82
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>原式 <span class="math inline">\(=(-\frac32)\times
-(-\frac{13}{4})\times \frac23\)</span><br />
-<span class="math inline">\(=\frac32\times \frac{13}{4}\times
-\frac23\)</span><br />
-<span class="math inline">\(=\frac{13}{4}\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_2.png" />
-<div class="text-right text-sizec">
-通過率 0.84
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(L\)</span> 為垂直線，<span
-class="math inline">\(M\)</span> 為水平線<br />
-兩線交於 <span class="math inline">\((3, -2)\)</span><br />
-所以選 <span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_3.png" />
-<div class="text-right text-sizec">
-通過率 0.69
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>四分位距 <span class="math inline">\(=Q_3-Q_1\)</span><br />
-<span class="math inline">\((A)\ Q_3-Q_1=50-20=30\)</span><br />
-<span class="math inline">\((B)\ Q_3-Q_1=70-20=50\)</span> (最大)<br />
-<span class="math inline">\((C)\ Q_3-Q_1=80-40=40\)</span><br />
-<span class="math inline">\((D)\ Q_3-Q_1=70-50=20\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_4.png" />
-<div class="text-right text-sizec">
-通過率 0.68
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>原式 <span
-class="math inline">\(=3^4-7^2+\frac{2^6}{2^3}\)</span><br />
-<span class="math inline">\(=81-49+8\)</span><br />
-<span class="math inline">\(=40\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_5.png" />
-<div class="text-right text-sizec">
-通過率 0.62
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\overline{OD}\)</span> 為弦心距，所以
-<span class="math inline">\(D\)</span> 為中點。<br />
-<span
-class="math inline">\(\overline{BD}=\frac12\overline{BC}=6\)</span><br />
-<span
-class="math inline">\(\overline{OB}=\frac12\overline{AB}=8\)</span><br />
-<span
-class="math inline">\(\overline{OD}=\sqrt{\overline{OB}^2-\overline{BD}^2}=\sqrt{8^2-6^2}=2\sqrt7\)</span><br />
-<span class="math inline">\(\triangle
-OBD=\frac12\overline{BD}\cdot\overline{OD}=\frac12\times6\times2\sqrt7=6\sqrt7\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_6.png" />
-<div class="text-right text-sizec">
-通過率 0.66
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span
-class="math inline">\(-2x(3x-2)^2+3=(3x-2)[(-2x)(3x-2)]+3\)</span><br />
-商式 <span class="math inline">\(=-2x(3x-2)\)</span><br />
-餘式 <span class="math inline">\(=3\)</span><br />
-商式+餘式 <span
-class="math inline">\(=-2x(3x-2)+3=-6x^2+4x+3\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_7.png" />
-<div class="text-right text-sizec">
-通過率 0.58
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>右邊魷魚形狀為從 <span class="math inline">\(A\)</span> 開始，<br />
-剪兩個相鄰的側邊，再剪兩個相對的底邊。<br />
-所以選 <span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_8.png" />
-<div class="text-right text-sizec">
-通過率 0.62
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\((B)\ \sqrt{(-5)^6}=5^3\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_9.png" />
-<div class="text-right text-sizec">
-通過率 0.58
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(200\div 0.9\approx 222\)</span><br />
-<span class="math inline">\(200\)</span> 元可以買原價 <span
-class="math inline">\(222\)</span> 元的餐點<br />
-<span class="math inline">\(222-120＝102\)</span> 元<br />
-只要小於 <span class="math inline">\(102\)</span>
-元的餐點，打九折後都可以買到<br />
-所以有 <span class="math inline">\(9\)</span> 種餐點可以選</p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_10.png" />
-<div class="text-right text-sizec">
-通過率 0.63
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>弦切角＝所夾弧的一半<br />
-<span class="math inline">\(\angle BO_1D=40^\circ\Rightarrow
-\overset\frown{BD}=40^\circ\)</span><br />
-<span class="math inline">\(\angle CO_2E=60^\circ\Rightarrow
-\overset\frown{CE}=60^\circ\)</span><br />
-<span class="math inline">\(\angle
-ABC=\frac12\overset\frown{BD}=20^\circ\)</span><br />
-<span class="math inline">\(\angle
-ACB=\frac12\overset\frown{CE}=30^\circ\)</span><br />
-<span class="math inline">\(\angle
-BAC=180^\circ-20^\circ-30^\circ=130^\circ\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_11.png" />
-<div class="text-right text-sizec">
-通過率 0.64
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>略</p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_12.png" />
-<div class="text-right text-sizec">
-通過率 0.65
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>剩下 <span class="math inline">\(24-6=18\)</span> 張<br />
-其中 O 有 <span class="math inline">\(12-4=8\)</span> 張<br />
-所以抽出 O 的機率為 <span
-class="math inline">\(\frac{8}{18}=\frac49\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_13.png" />
-<div class="text-right text-sizec">
-通過率 0.40
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(36:48=21:(x-4)\)</span><br />
-<span class="math inline">\(\Rightarrow
-36(x-4)=48\times21\)</span><br />
-<span class="math inline">\(\Rightarrow
-x-4=\frac{48\times21}{36}=28\)</span><br />
-<span class="math inline">\(\Rightarrow x=32\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_14.png" />
-<div class="text-right text-sizec">
-通過率 0.55
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\((C)\ x^2-8x-20=(x-10)(x+2)\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_15.png" />
-<div class="text-right text-sizec">
-通過率 0.42
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\triangle ABC\)</span>
-為鈍角三角形，所以外心在三角形外部。<br />
-<span class="math inline">\(\overline{BC}\)</span> 中垂線 <span
-class="math inline">\(x=\frac12\)</span><br />
-外心在中垂線上，所以在第四象限。</p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_16.png" />
-<div class="text-right text-sizec">
-通過率 0.55
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\((A)\)</span> <span
-class="math inline">\((5\times 13)^2-15^2=(65+15)(65-15)=80\times
-50=4000\)</span><br />
-<span class="math inline">\((B)\)</span> <span
-class="math inline">\(4^2\times 17-18^2=16\times
-17-324=272-324=-52\)</span><br />
-<span class="math inline">\((C)\)</span> <span
-class="math inline">\(9^2\times 21^2-13^2=81\times
-441-169=35721-169=35552\)</span><br />
-<span class="math inline">\((D)\)</span> <span
-class="math inline">\(2^2+31^2-12^2=4+961-144=821\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_17.png" />
-<div class="text-right text-sizec">
-通過率 0.46
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(a_1=12\)</span>, <span
-class="math inline">\(d=27\)</span><br />
-<span
-class="math inline">\(a_n=a_1+(n-1)d=12+(n-1)\times27=27n-15\)</span><br />
-<span class="math inline">\(19+320=339\)</span><br />
-<span class="math inline">\(a_n&lt;339\Rightarrow
-27n-15&lt;339\Rightarrow 27n&lt;354\Rightarrow n&lt;13.1\)</span><br />
-所以 <span class="math inline">\(n\)</span> 的最大整數值為 <span
-class="math inline">\(13\)</span><br />
-<span class="math inline">\(a_{13}=27\times13-15=351-15=336\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_18.png" />
-<div class="text-right text-sizec">
-通過率 0.41
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="104_18a.png" /><br />
-如圖：<br />
-甲：連 <span class="math inline">\(\overline{AP}\Rightarrow
-\overline{AP}=\overline{AC}\)</span>（中垂線性質）<br />
-<span class="math inline">\(\angle APC=\angle PAB+\angle
-ABC\)</span>（外角定理）<br />
-<span class="math inline">\(\Rightarrow \angle APC=2\angle
-ABC\)</span><br />
-乙：連 <span class="math inline">\(\overline{AP}\Rightarrow
-\overline{BA}=\overline{BP}\)</span>（圓半徑）<br />
-<span class="math inline">\(\Rightarrow \angle BAP=\angle
-BPA\)</span><br />
-<span
-class="math inline">\(\overline{AP}&lt;\overline{AC}&lt;\overline{AB}\)</span><br />
-<span class="math inline">\(\Rightarrow
-\overline{AP}&lt;\overline{BP}\)</span><br />
-<span class="math inline">\(\Rightarrow \angle ABC&lt;\angle
-BAP\)</span> （大角對大邊）<br />
-<span class="math inline">\(\angle APC=\angle BAP+\angle
-ABC\)</span>（外角定理）<br />
-<span class="math inline">\(\Rightarrow \angle APC&gt;2\angle
-ABC\)</span><br />
-所以甲正確，乙錯誤，選 <span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_19.png" />
-<div class="text-right text-sizec">
-通過率 0.46
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(甲=乙-x\)</span><br />
-<span class="math inline">\(丙=乙-y\)</span><br />
-<span class="math inline">\(乙=甲+丙-1-2\)</span><br />
-<span class="math inline">\(\Rightarrow
-乙=(乙-x)+(乙-y)-1-2\)</span><br />
-<span class="math inline">\(\Rightarrow 乙=x+y+3\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_20.png" /><br />
-
-<div class="text-right text-sizec">
-通過率 0.40
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\overline{BD}=\overline{CD}\Rightarrow
-\angle B=\angle BCD\)</span><br />
-<span class="math inline">\(\overline{CD}=\overline{CE}\Rightarrow
-\angle CDE=\angle E\)</span><br />
-<span class="math inline">\(\angle ADC+\angle
-ACD=114^{\circ}\)</span><br />
-<span class="math inline">\(\Rightarrow (\angle B+\angle BCD)+(\angle
-CDE+\angle E)=114^{\circ}\)</span><br />
-<span class="math inline">\(\Rightarrow 2\angle B+2\angle
-E=114^{\circ}\)</span> <span class="math inline">\(\Rightarrow \angle
-B+\angle E=57^{\circ}\)</span><br />
-<span class="math inline">\(\angle
-A=180^{\circ}-114^{\circ}=66^{\circ}\)</span><br />
-<span class="math inline">\(\angle DFC=\angle BFE=\angle A+\angle
-B+\angle E=66^{\circ}+57^{\circ}=123^{\circ}\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_21.png" />
-<div class="text-right text-sizec">
-通過率 0.41
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(y=-(x-3)^2\Rightarrow A(3, 0)\)</span>
-頂點在 <span class="math inline">\(x\)</span> 軸上<br />
-交 <span class="math inline">\(y\)</span> 軸於 <span
-class="math inline">\(B(0, -9)\)</span><br />
-<span class="math inline">\(D\)</span> 為 <span
-class="math inline">\(x\)</span> 軸上的點，所以 <span
-class="math inline">\(D\)</span> 為 <span
-class="math inline">\(A\)</span> 水平移動的點<br />
-則 <span class="math inline">\(C\)</span> 為 <span
-class="math inline">\(B\)</span> 在抛物線上的對稱點 <span
-class="math inline">\(C(6, -9)\)</span><br />
-<span class="math inline">\(\overline{AD}=\overline{BC}=6\)</span><br />
-<span class="math inline">\(\Rightarrow D(9, 0)\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_22.png" />
-<div class="text-right text-sizec">
-通過率 0.31
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>設甲校轉出 <span class="math inline">\(x\)</span> 人，乙校轉出 <span
-class="math inline">\(3x\)</span> 人，則甲校轉入 <span
-class="math inline">\(y\)</span> 人，乙校轉入 <span
-class="math inline">\(3y\)</span> 人。<br />
-<span class="math inline">\(1016-x+y=1028-3x+3y\)</span><br />
-<span class="math inline">\(\Rightarrow x-y=6\)</span><br />
-<span class="math inline">\(3x-3y=18\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_23.png" />
-<div class="text-right text-sizec">
-通過率 0.40
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\angle CGH+\angle CGD=\angle CGH+\angle
-FGH=90^{\circ}\)</span><br />
-<span class="math inline">\(\Rightarrow \angle CGD=\angle
-FGH\)</span><br />
-<span class="math inline">\(\angle C=\angle F =90^{\circ}\)</span><br />
-<span class="math inline">\(\Rightarrow \triangle CGD \sim \triangle
-FGH\)</span> <span class="math inline">\((AA)\)</span><br />
-<span
-class="math inline">\(\overline{CG}:\overline{GF}=\overline{CD}:\overline{FH}\)</span><br />
-<span class="math inline">\(\Rightarrow
-(5-3):3=5:\overline{FH}\)</span><br />
-<span class="math inline">\(\Rightarrow
-\overline{FH}=\frac{15}{2}\)</span><br />
-<span class="math inline">\(\triangle FGH=\frac12\times
-\frac{15}{2}\times 3=\frac{45}{4}\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_24.png" />
-<div class="text-right text-sizec">
-通過率 0.26
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(360=2^3\times 3^2\times 5\)</span>
-質因數為 <span class="math inline">\(2, 3, 5\)</span><br />
-甲的分子質因數為 <span class="math inline">\(2, 3\)</span><br />
-乙的分子質因數為 <span class="math inline">\(3, 5\)</span><br />
-丙的分子質因數為 <span class="math inline">\(2, 5\)</span><br />
-所以甲的分母不可有 <span class="math inline">\(2, 3 \Rightarrow\)</span>
-甲 <span class="math inline">\(=\frac{6}{5}\)</span><br />
-乙的分母不可有 <span class="math inline">\(3, 5\Rightarrow\)</span> 乙
-<span class="math inline">\(=\frac{15}{8}\)</span><br />
-丙的分母不可有 <span class="math inline">\(2, 5\Rightarrow\)</span> 丙
-<span class="math inline">\(=\frac{10}{9}\)</span><br />
-所以 乙 <span class="math inline">\(&gt;\)</span> 甲 <span
-class="math inline">\(&gt;\)</span> 丙</p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="104_25.png" />
-<div class="text-right text-sizec">
-通過率 0.28
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="104_25a.png" /> 如圖：<br />
-甲乙丙為梯形，所以各邊互相平行，利用同位角定出每個角的大小。<br />
-三個梯形面積相等，只要比較上底＋下底的長度，就可以比較出每個梯形的高度。<br />
-大角對大邊，所以丙的上底＋下底最長，甲次之，乙最短。<br />
-<span class="math inline">\(\Rightarrow
-\text{乙的高度}&gt;\text{甲的高度}&gt;\text{丙的高度}\)</span></p>
-</div>
-</details>
-</div>
-<section id="第二部分非選擇題12題" class="math-item">
-<h2>第二部分：非選擇題（1~2題）</h2>
-<img src="104_26.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<blockquote>
-
-</blockquote>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(30\div 7=4\)</span> 餘 <span
-class="math inline">\(2\)</span> 5 月有四個星期多兩天<br />
-每星期可寫 <span class="math inline">\(1＋2+3+4+5+6+7=28\)</span>
-張<br />
-<span class="math inline">\(120-4\times 28=120-112=8\)</span> 張<br />
-所以多的兩天可寫超過 <span class="math inline">\(8\)</span> 張<br />
-可能為 <span class="math inline">\(4+5\)</span>, <span
-class="math inline">\(5+6\)</span> 或 <span
-class="math inline">\(6+7\)</span><br />
-所以 5 月 30 日為星期五、六或日</p>
-</div>
-</details>
-</section>
-<div class="math-item">
-<img src="104_27.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="104_27a.png" /> 由 <span class="math inline">\(C\)</span>
-點向 <span class="math inline">\(\overline{AB}\)</span>、<span
-class="math inline">\(\overline{AD}\)</span>
-畫垂線，兩高相等。（角平分線性質）<br />
-<span class="math inline">\(\overline{AE}=\overline{DF}\Rightarrow
-\triangle ACE=\triangle CDF\)</span><br />
-<span class="math inline">\(\overline{AB}=\overline{AD}\Rightarrow
-\triangle ABC=\triangle ADC\)</span><br />
-四邊形 <span class="math inline">\(AECF\)</span> 面積 <span
-class="math inline">\(=\triangle ACE+\triangle ACF\)</span><br />
-<span class="math inline">\(=\triangle CDF+\triangle ACF\)</span><br />
-<span class="math inline">\(=\triangle ACD\)</span><br />
-<span class="math inline">\(=\frac12\)</span> 四邊形 <span
-class="math inline">\(ABCD\)</span> 面積</p>
-</div>
-</details>
-</div>
-]]></content>
-      <categories>
-        <category>國中會考</category>
-      </categories>
-      <tags>
-        <tag>詳解</tag>
-        <tag>104</tag>
       </tags>
   </entry>
   <entry>
@@ -7237,6 +6392,851 @@ class="math inline">\(150+180=330\)</span> cm<br />
       </tags>
   </entry>
   <entry>
+    <title>104年會考數學詳解 - 完整對照表與難題趨勢分析</title>
+    <url>/cap104/</url>
+    <content><![CDATA[<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VBLJT5KBPG');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
+     crossorigin="anonymous"></script>
+<details>
+<summary>
+<span class="text-sizec">年度解析+等級對照表</span>
+</summary>
+<h1 id="年會考數學解析選擇題的高壓與末端天險">104
+年會考數學解析：選擇題的高壓與末端天險</h1>
+<p>104
+年會考數學呈現出鮮明的難度分佈特性，全卷在選擇題區間設下了多重障礙。</p>
+<ul>
+<li><p><strong>選擇題難度密集</strong>：全卷共有 11 題通過率低於
+0.5，顯示中段以後的題目皆具備相當的鑑別度。</p></li>
+<li><p><strong>壓軸魔王（第 24、25
+題）</strong>：本年度最強的鑑別度高度集中在選擇題最後兩題。這兩題的通過率跌破
+0.3 的「極難區間」，是決定頂尖標示 A++ 的絕對分水嶺。</p></li>
+<li><p><strong>非選題難度回穩</strong>：相較於選擇題的密集打擊，該年度的非選擇題敘述簡潔、難度定位在「普通」，主要側重於基礎邏輯與計算的完整呈現。</p></li>
+</ul>
+<p><strong>NUMA 策略提醒：</strong> 104
+年的考題告訴我們，即便前面的選擇題壓力極大，也要為非選題預留體力，因為非選反而是該年的補分熱區。</p>
+<h2 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h2>
+<figure>
+<img src="image1.png" alt="104等級加標示與答對題數對照表" />
+<figcaption
+aria-hidden="true">104等級加標示與答對題數對照表</figcaption>
+</figure>
+<hr />
+<h2 id="等級加標示人數百分比統計表">等級加標示人數百分比統計表</h2>
+<figure>
+<img src="image2.png" alt="104等級加標示人數百分比統計表" />
+<figcaption
+aria-hidden="true">104等級加標示人數百分比統計表</figcaption>
+</figure>
+<hr />
+<h2 id="試題疑義">試題疑義</h2>
+<a
+href="https://cap.rcpet.edu.tw/exam/104/104reply-m.pdf">104年國中教育會考試題疑義表</a>
+</details>
+<div style="margin-top: 50px;">
+
+</div>
+<h1 id="年會考-數學詳解">104年會考-數學詳解</h1>
+<h2 id="第一部分選擇題125題">第一部分：選擇題（1~25題）</h2>
+<div class="math-item">
+<img src="104_1.png" />
+<div class="text-right text-sizec">
+通過率 0.82
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>原式 <span class="math inline">\(=(-\frac32)\times
+(-\frac{13}{4})\times \frac23\)</span><br />
+<span class="math inline">\(=\frac32\times \frac{13}{4}\times
+\frac23\)</span><br />
+<span class="math inline">\(=\frac{13}{4}\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_2.png" />
+<div class="text-right text-sizec">
+通過率 0.84
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(L\)</span> 為垂直線，<span
+class="math inline">\(M\)</span> 為水平線<br />
+兩線交於 <span class="math inline">\((3, -2)\)</span><br />
+所以選 <span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_3.png" />
+<div class="text-right text-sizec">
+通過率 0.69
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>四分位距 <span class="math inline">\(=Q_3-Q_1\)</span><br />
+<span class="math inline">\((A)\ Q_3-Q_1=50-20=30\)</span><br />
+<span class="math inline">\((B)\ Q_3-Q_1=70-20=50\)</span> (最大)<br />
+<span class="math inline">\((C)\ Q_3-Q_1=80-40=40\)</span><br />
+<span class="math inline">\((D)\ Q_3-Q_1=70-50=20\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_4.png" />
+<div class="text-right text-sizec">
+通過率 0.68
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>原式 <span
+class="math inline">\(=3^4-7^2+\frac{2^6}{2^3}\)</span><br />
+<span class="math inline">\(=81-49+8\)</span><br />
+<span class="math inline">\(=40\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_5.png" />
+<div class="text-right text-sizec">
+通過率 0.62
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\overline{OD}\)</span> 為弦心距，所以
+<span class="math inline">\(D\)</span> 為中點。<br />
+<span
+class="math inline">\(\overline{BD}=\frac12\overline{BC}=6\)</span><br />
+<span
+class="math inline">\(\overline{OB}=\frac12\overline{AB}=8\)</span><br />
+<span
+class="math inline">\(\overline{OD}=\sqrt{\overline{OB}^2-\overline{BD}^2}=\sqrt{8^2-6^2}=2\sqrt7\)</span><br />
+<span class="math inline">\(\triangle
+OBD=\frac12\overline{BD}\cdot\overline{OD}=\frac12\times6\times2\sqrt7=6\sqrt7\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_6.png" />
+<div class="text-right text-sizec">
+通過率 0.66
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span
+class="math inline">\(-2x(3x-2)^2+3=(3x-2)[(-2x)(3x-2)]+3\)</span><br />
+商式 <span class="math inline">\(=-2x(3x-2)\)</span><br />
+餘式 <span class="math inline">\(=3\)</span><br />
+商式+餘式 <span
+class="math inline">\(=-2x(3x-2)+3=-6x^2+4x+3\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_7.png" />
+<div class="text-right text-sizec">
+通過率 0.58
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>右邊魷魚形狀為從 <span class="math inline">\(A\)</span> 開始，<br />
+剪兩個相鄰的側邊，再剪兩個相對的底邊。<br />
+所以選 <span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_8.png" />
+<div class="text-right text-sizec">
+通過率 0.62
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\((B)\ \sqrt{(-5)^6}=5^3\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_9.png" />
+<div class="text-right text-sizec">
+通過率 0.58
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(200\div 0.9\approx 222\)</span><br />
+<span class="math inline">\(200\)</span> 元可以買原價 <span
+class="math inline">\(222\)</span> 元的餐點<br />
+<span class="math inline">\(222-120＝102\)</span> 元<br />
+只要小於 <span class="math inline">\(102\)</span>
+元的餐點，打九折後都可以買到<br />
+所以有 <span class="math inline">\(9\)</span> 種餐點可以選</p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_10.png" />
+<div class="text-right text-sizec">
+通過率 0.63
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>弦切角＝所夾弧的一半<br />
+<span class="math inline">\(\angle BO_1D=40^\circ\Rightarrow
+\overset\frown{BD}=40^\circ\)</span><br />
+<span class="math inline">\(\angle CO_2E=60^\circ\Rightarrow
+\overset\frown{CE}=60^\circ\)</span><br />
+<span class="math inline">\(\angle
+ABC=\frac12\overset\frown{BD}=20^\circ\)</span><br />
+<span class="math inline">\(\angle
+ACB=\frac12\overset\frown{CE}=30^\circ\)</span><br />
+<span class="math inline">\(\angle
+BAC=180^\circ-20^\circ-30^\circ=130^\circ\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_11.png" />
+<div class="text-right text-sizec">
+通過率 0.64
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>略</p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_12.png" />
+<div class="text-right text-sizec">
+通過率 0.65
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>剩下 <span class="math inline">\(24-6=18\)</span> 張<br />
+其中 O 有 <span class="math inline">\(12-4=8\)</span> 張<br />
+所以抽出 O 的機率為 <span
+class="math inline">\(\frac{8}{18}=\frac49\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_13.png" />
+<div class="text-right text-sizec">
+通過率 0.40
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(36:48=21:(x-4)\)</span><br />
+<span class="math inline">\(\Rightarrow
+36(x-4)=48\times21\)</span><br />
+<span class="math inline">\(\Rightarrow
+x-4=\frac{48\times21}{36}=28\)</span><br />
+<span class="math inline">\(\Rightarrow x=32\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_14.png" />
+<div class="text-right text-sizec">
+通過率 0.55
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\((C)\ x^2-8x-20=(x-10)(x+2)\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_15.png" />
+<div class="text-right text-sizec">
+通過率 0.42
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\triangle ABC\)</span>
+為鈍角三角形，所以外心在三角形外部。<br />
+<span class="math inline">\(\overline{BC}\)</span> 中垂線 <span
+class="math inline">\(x=\frac12\)</span><br />
+外心在中垂線上，所以在第四象限。</p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_16.png" />
+<div class="text-right text-sizec">
+通過率 0.55
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\((A)\)</span> <span
+class="math inline">\((5\times 13)^2-15^2=(65+15)(65-15)=80\times
+50=4000\)</span><br />
+<span class="math inline">\((B)\)</span> <span
+class="math inline">\(4^2\times 17-18^2=16\times
+17-324=272-324=-52\)</span><br />
+<span class="math inline">\((C)\)</span> <span
+class="math inline">\(9^2\times 21^2-13^2=81\times
+441-169=35721-169=35552\)</span><br />
+<span class="math inline">\((D)\)</span> <span
+class="math inline">\(2^2+31^2-12^2=4+961-144=821\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_17.png" />
+<div class="text-right text-sizec">
+通過率 0.46
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(a_1=12\)</span>, <span
+class="math inline">\(d=27\)</span><br />
+<span
+class="math inline">\(a_n=a_1+(n-1)d=12+(n-1)\times27=27n-15\)</span><br />
+<span class="math inline">\(19+320=339\)</span><br />
+<span class="math inline">\(a_n&lt;339\Rightarrow
+27n-15&lt;339\Rightarrow 27n&lt;354\Rightarrow n&lt;13.1\)</span><br />
+所以 <span class="math inline">\(n\)</span> 的最大整數值為 <span
+class="math inline">\(13\)</span><br />
+<span class="math inline">\(a_{13}=27\times13-15=351-15=336\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_18.png" />
+<div class="text-right text-sizec">
+通過率 0.41
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="104_18a.png" /><br />
+如圖：<br />
+甲：連 <span class="math inline">\(\overline{AP}\Rightarrow
+\overline{AP}=\overline{AC}\)</span>（中垂線性質）<br />
+<span class="math inline">\(\angle APC=\angle PAB+\angle
+ABC\)</span>（外角定理）<br />
+<span class="math inline">\(\Rightarrow \angle APC=2\angle
+ABC\)</span><br />
+乙：連 <span class="math inline">\(\overline{AP}\Rightarrow
+\overline{BA}=\overline{BP}\)</span>（圓半徑）<br />
+<span class="math inline">\(\Rightarrow \angle BAP=\angle
+BPA\)</span><br />
+<span
+class="math inline">\(\overline{AP}&lt;\overline{AC}&lt;\overline{AB}\)</span><br />
+<span class="math inline">\(\Rightarrow
+\overline{AP}&lt;\overline{BP}\)</span><br />
+<span class="math inline">\(\Rightarrow \angle ABC&lt;\angle
+BAP\)</span> （大角對大邊）<br />
+<span class="math inline">\(\angle APC=\angle BAP+\angle
+ABC\)</span>（外角定理）<br />
+<span class="math inline">\(\Rightarrow \angle APC&gt;2\angle
+ABC\)</span><br />
+所以甲正確，乙錯誤，選 <span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_19.png" />
+<div class="text-right text-sizec">
+通過率 0.46
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(甲=乙-x\)</span><br />
+<span class="math inline">\(丙=乙-y\)</span><br />
+<span class="math inline">\(乙=甲+丙-1-2\)</span><br />
+<span class="math inline">\(\Rightarrow
+乙=(乙-x)+(乙-y)-1-2\)</span><br />
+<span class="math inline">\(\Rightarrow 乙=x+y+3\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_20.png" /><br />
+
+<div class="text-right text-sizec">
+通過率 0.40
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\overline{BD}=\overline{CD}\Rightarrow
+\angle B=\angle BCD\)</span><br />
+<span class="math inline">\(\overline{CD}=\overline{CE}\Rightarrow
+\angle CDE=\angle E\)</span><br />
+<span class="math inline">\(\angle ADC+\angle
+ACD=114^{\circ}\)</span><br />
+<span class="math inline">\(\Rightarrow (\angle B+\angle BCD)+(\angle
+CDE+\angle E)=114^{\circ}\)</span><br />
+<span class="math inline">\(\Rightarrow 2\angle B+2\angle
+E=114^{\circ}\)</span> <span class="math inline">\(\Rightarrow \angle
+B+\angle E=57^{\circ}\)</span><br />
+<span class="math inline">\(\angle
+A=180^{\circ}-114^{\circ}=66^{\circ}\)</span><br />
+<span class="math inline">\(\angle DFC=\angle BFE=\angle A+\angle
+B+\angle E=66^{\circ}+57^{\circ}=123^{\circ}\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_21.png" />
+<div class="text-right text-sizec">
+通過率 0.41
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(y=-(x-3)^2\Rightarrow A(3, 0)\)</span>
+頂點在 <span class="math inline">\(x\)</span> 軸上<br />
+交 <span class="math inline">\(y\)</span> 軸於 <span
+class="math inline">\(B(0, -9)\)</span><br />
+<span class="math inline">\(D\)</span> 為 <span
+class="math inline">\(x\)</span> 軸上的點，所以 <span
+class="math inline">\(D\)</span> 為 <span
+class="math inline">\(A\)</span> 水平移動的點<br />
+則 <span class="math inline">\(C\)</span> 為 <span
+class="math inline">\(B\)</span> 在抛物線上的對稱點 <span
+class="math inline">\(C(6, -9)\)</span><br />
+<span class="math inline">\(\overline{AD}=\overline{BC}=6\)</span><br />
+<span class="math inline">\(\Rightarrow D(9, 0)\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_22.png" />
+<div class="text-right text-sizec">
+通過率 0.31
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>設甲校轉出 <span class="math inline">\(x\)</span> 人，乙校轉出 <span
+class="math inline">\(3x\)</span> 人，則甲校轉入 <span
+class="math inline">\(y\)</span> 人，乙校轉入 <span
+class="math inline">\(3y\)</span> 人。<br />
+<span class="math inline">\(1016-x+y=1028-3x+3y\)</span><br />
+<span class="math inline">\(\Rightarrow x-y=6\)</span><br />
+<span class="math inline">\(3x-3y=18\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_23.png" />
+<div class="text-right text-sizec">
+通過率 0.40
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\angle CGH+\angle CGD=\angle CGH+\angle
+FGH=90^{\circ}\)</span><br />
+<span class="math inline">\(\Rightarrow \angle CGD=\angle
+FGH\)</span><br />
+<span class="math inline">\(\angle C=\angle F =90^{\circ}\)</span><br />
+<span class="math inline">\(\Rightarrow \triangle CGD \sim \triangle
+FGH\)</span> <span class="math inline">\((AA)\)</span><br />
+<span
+class="math inline">\(\overline{CG}:\overline{GF}=\overline{CD}:\overline{FH}\)</span><br />
+<span class="math inline">\(\Rightarrow
+(5-3):3=5:\overline{FH}\)</span><br />
+<span class="math inline">\(\Rightarrow
+\overline{FH}=\frac{15}{2}\)</span><br />
+<span class="math inline">\(\triangle FGH=\frac12\times
+\frac{15}{2}\times 3=\frac{45}{4}\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_24.png" />
+<div class="text-right text-sizec">
+通過率 0.26
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(360=2^3\times 3^2\times 5\)</span>
+質因數為 <span class="math inline">\(2, 3, 5\)</span><br />
+甲的分子質因數為 <span class="math inline">\(2, 3\)</span><br />
+乙的分子質因數為 <span class="math inline">\(3, 5\)</span><br />
+丙的分子質因數為 <span class="math inline">\(2, 5\)</span><br />
+所以甲的分母不可有 <span class="math inline">\(2, 3 \Rightarrow\)</span>
+甲 <span class="math inline">\(=\frac{6}{5}\)</span><br />
+乙的分母不可有 <span class="math inline">\(3, 5\Rightarrow\)</span> 乙
+<span class="math inline">\(=\frac{15}{8}\)</span><br />
+丙的分母不可有 <span class="math inline">\(2, 5\Rightarrow\)</span> 丙
+<span class="math inline">\(=\frac{10}{9}\)</span><br />
+所以 乙 <span class="math inline">\(&gt;\)</span> 甲 <span
+class="math inline">\(&gt;\)</span> 丙</p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="104_25.png" />
+<div class="text-right text-sizec">
+通過率 0.28
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="104_25a.png" /> 如圖：<br />
+甲乙丙為梯形，所以各邊互相平行，利用同位角定出每個角的大小。<br />
+三個梯形面積相等，只要比較上底＋下底的長度，就可以比較出每個梯形的高度。<br />
+大角對大邊，所以丙的上底＋下底最長，甲次之，乙最短。<br />
+<span class="math inline">\(\Rightarrow
+\text{乙的高度}&gt;\text{甲的高度}&gt;\text{丙的高度}\)</span></p>
+</div>
+</details>
+</div>
+<section id="第二部分非選擇題12題" class="math-item">
+<h2>第二部分：非選擇題（1~2題）</h2>
+<img src="104_26.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<blockquote>
+
+</blockquote>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(30\div 7=4\)</span> 餘 <span
+class="math inline">\(2\)</span> 5 月有四個星期多兩天<br />
+每星期可寫 <span class="math inline">\(1＋2+3+4+5+6+7=28\)</span>
+張<br />
+<span class="math inline">\(120-4\times 28=120-112=8\)</span> 張<br />
+所以多的兩天可寫超過 <span class="math inline">\(8\)</span> 張<br />
+可能為 <span class="math inline">\(4+5\)</span>, <span
+class="math inline">\(5+6\)</span> 或 <span
+class="math inline">\(6+7\)</span><br />
+所以 5 月 30 日為星期五、六或日</p>
+</div>
+</details>
+</section>
+<div class="math-item">
+<img src="104_27.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="104_27a.png" /> 由 <span class="math inline">\(C\)</span>
+點向 <span class="math inline">\(\overline{AB}\)</span>、<span
+class="math inline">\(\overline{AD}\)</span>
+畫垂線，兩高相等。（角平分線性質）<br />
+<span class="math inline">\(\overline{AE}=\overline{DF}\Rightarrow
+\triangle ACE=\triangle CDF\)</span><br />
+<span class="math inline">\(\overline{AB}=\overline{AD}\Rightarrow
+\triangle ABC=\triangle ADC\)</span><br />
+四邊形 <span class="math inline">\(AECF\)</span> 面積 <span
+class="math inline">\(=\triangle ACE+\triangle ACF\)</span><br />
+<span class="math inline">\(=\triangle CDF+\triangle ACF\)</span><br />
+<span class="math inline">\(=\triangle ACD\)</span><br />
+<span class="math inline">\(=\frac12\)</span> 四邊形 <span
+class="math inline">\(ABCD\)</span> 面積</p>
+</div>
+</details>
+</div>
+]]></content>
+      <categories>
+        <category>國中會考</category>
+      </categories>
+      <tags>
+        <tag>詳解</tag>
+        <tag>104</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>109年會考數學詳解 - 完整對照表與難題趨勢分析</title>
     <url>/cap109/</url>
     <content><![CDATA[<!-- Google tag (gtag.js) -->
@@ -8825,835 +8825,6 @@ class="math inline">\(90\%\)</span>：<br />
       </tags>
   </entry>
   <entry>
-    <title>111年會考數學詳解 - 完整對照表與難題趨勢分析</title>
-    <url>/cap111/</url>
-    <content><![CDATA[<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VBLJT5KBPG');
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
-     crossorigin="anonymous"></script>
-<details>
-<summary>
-<span class="text-sizec">年度解析+等級對照表</span>
-</summary>
-<h1 id="年會考數學解析決戰高資訊量的長文本挑戰">111
-年會考數學解析：決戰「高資訊量」的長文本挑戰</h1>
-<p>111 年的考題分布呈現明顯的「後重」趨勢，難題高度集中在選擇題第 21 至
-25 題。</p>
-<ul>
-<li><p><strong>末端難題集中營</strong>：第 21
-題開始進入高壓區，難度階梯陡升，極度考驗考生的耐力。。</p></li>
-<li><p><strong>壓軸組合題（24、25
-題）</strong>：這兩題是該年度最致命的陷阱。其特色在於資訊量極其龐大，且帶有大量陌生的專有名詞。這不僅考驗數學邏輯，更考驗學生的「文本解讀」能力。若不能冷靜將文字轉譯成數學模型，很容易在閱讀中迷失。</p></li>
-</ul>
-<p><strong>NUMA 策略建議：</strong> 面111
-年的關鍵心法在於「不要被專業術語嚇到」。即使題目包裝得像科學論文，核心邏輯依然是課本知識。學會從長文中提取有效資訊，才是攻克
-A++ 的捷徑。</p>
-<h2 id="等級加標示與加權分數對照表">等級加標示與加權分數對照表</h2>
-<figure>
-<img src="image3.png" alt="111等級加標示與加權分數對照表" />
-<figcaption
-aria-hidden="true">111等級加標示與加權分數對照表</figcaption>
-</figure>
-<hr />
-<h2 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h2>
-<figure>
-<img src="image2.png" alt="111等級加標示與答對題數對照表" />
-<figcaption
-aria-hidden="true">111等級加標示與答對題數對照表</figcaption>
-</figure>
-<hr />
-<h2
-id="各科等級加標示人數百分比統計表">各科等級加標示人數百分比統計表</h2>
-<figure>
-<img src="image.png" alt="111各科等級加標示人數百分比統計表" />
-<figcaption
-aria-hidden="true">111各科等級加標示人數百分比統計表</figcaption>
-</figure>
-<hr />
-<h2 id="試題疑義">試題疑義</h2>
-<a
-href="https://cap.rcpet.edu.tw/exam/111/111%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%E8%82%B2%E6%9C%83%E8%80%83%E8%A9%A6%E9%A1%8C%E7%96%91%E7%BE%A9%E8%A1%A8-%E6%95%B8%E5%AD%B8.pdf">111年國中教育會考試題疑義表</a>
-</details>
-<div style="margin-top: 50px;">
-
-</div>
-<h1 id="年會考-數學詳解">111年會考-數學詳解</h1>
-<h2 id="第一部分選擇題-1-25-題">第一部分:選擇題 (1 ~ 25 題)</h2>
-<div class="math-item">
-<img src="111_1.png" />
-<div class="text-right text-sizec">
-通過率 0.87
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(|a|=\overline{OA}\)</span><br />
-<span class="math inline">\(|b|=\overline{OB}\)</span><br />
-<span class="math inline">\(|c|=\overline{OC}\)</span><br />
-<span class="math inline">\(|d|=\overline{OD}\)</span><br />
-看圖得知 <span class="math inline">\(|a|=\overline{OA}\)</span> 最小</p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_2.png" />
-<div class="text-right text-sizec">
-通過率 0.82
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(6x^2+4x=2x^2\times 3+4x\)</span><br />
-商式 <span class="math inline">\(=3\)</span><br />
-餘式 <span class="math inline">\(=4x\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_3.png" />
-<div class="text-right text-sizec">
-通過率 0.80
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\((B),(D)\)</span> 皆為偶數，可先刪去<br />
-<span class="math inline">\(156=2^2\times 3\times 13\)</span><br />
-<span class="math inline">\(2,3,13\)</span> 皆為 <span
-class="math inline">\(156\)</span> 的質因數</p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_4.png" />
-<div class="text-right text-sizec">
-通過率 0.78
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="111_4a.png" /></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_5.png" />
-<div class="text-right text-sizec">
-通過率 0.81
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>同分母的放一起<br />
-<span
-class="math inline">\(\frac{9}{22}+\frac{11}{18}-(\frac{23}{22}-\frac{7}{18})\)</span><br />
-<span
-class="math inline">\(=\frac{9}{22}-\frac{23}{22}+\frac{11}{18}+\frac{7}{18}\)</span><br />
-<span class="math inline">\(=-\frac{14}{22}+\frac{18}{18}\)</span><br />
-<span class="math inline">\(=-\frac{14}{22}+1\)</span><br />
-<span class="math inline">\(=\frac{8}{22}\)</span><br />
-<span class="math inline">\(=\frac{4}{11}\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_6.png" />
-<div class="text-right text-sizec">
-通過率 0.75
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(40=\sqrt{40^2}=\sqrt{1600}\)</span><br />
-<span class="math inline">\(45=\sqrt{45^2}=\sqrt{2500}\)</span><br />
-<span class="math inline">\(\sqrt{1600} &lt; \sqrt{2022} &lt;
-\sqrt{2500}\)</span><br />
-<span class="math inline">\(\Rightarrow 40 &lt; \sqrt{2022} &lt;
-45\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_7.png" />
-<div class="text-right text-sizec">
-通過率 0.69
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="111_7a.png" /></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_8.png" />
-<div class="text-right text-sizec">
-通過率 0.71
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span
-class="math inline">\((3x+a)(bx+c)=3bx^2+(ab+3c)x+ac\)</span><br />
-<span class="math inline">\(x^2\)</span> 項係數：<span
-class="math inline">\(3b=39\Rightarrow b=13\)</span><br />
-<span class="math inline">\(x\)</span> 項係數：<span
-class="math inline">\(ab+3c=5\Rightarrow 13a+3c=5\)</span><br />
-常數項：<span class="math inline">\(ac=-14\)</span><br />
-已知 <span class="math inline">\(a,c\)</span> 為整數 <span
-class="math inline">\(\Rightarrow (a,c)=(1,
--14),(-1,14),(2,-7),(-2,7)\)</span><br />
-代入 <span class="math inline">\(13a+3c=5\)</span> 得 <span
-class="math inline">\((a,c)=(2,-7)\)</span><br />
-<span class="math inline">\(a+2c=-12\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_9.png" />
-<div class="text-right text-sizec">
-通過率 0.73
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>箱內剩下：<span class="math inline">\(1,3,4,4,5,6,6\)</span>
-共七顆球<br />
-其中與 <span class="math inline">\(1,2,2,3,5\)</span> 相同的有 <span
-class="math inline">\(1,3,5\)</span> 三顆球<br />
-機率 <span class="math inline">\(=\frac37\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_10.png" />
-<div class="text-right text-sizec">
-通過率 0.64
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\((x-2)^2=3\)</span><br />
-<span class="math inline">\(\Rightarrow x-2=\pm \sqrt3\)</span><br />
-<span class="math inline">\(\Rightarrow x=2\pm\sqrt3\)</span><br />
-<span class="math inline">\(\because a&gt;b\)</span><br />
-<span class="math inline">\(\therefore a=2+\sqrt3, \
-b=2-\sqrt3\)</span><br />
-<span class="math inline">\(2a+b=6+\sqrt3\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_11.png" />
-<div class="text-right text-sizec">
-通過率 0.70
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>設預算 <span class="math inline">\(x\)</span> 元，售價 <span
-class="math inline">\(=x+1200\)</span><br />
-<span class="math inline">\(0.8(x+1200)=x-200\)</span><br />
-<span class="math inline">\(\Rightarrow x=5800\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_12.png" />
-<div class="text-right text-sizec">
-通過率 0.64
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(p=7.52\times 10^{-6}=\frac{7.52}{10^6}
-&lt; \frac12\)</span> 且 <span
-class="math inline">\(p&gt;0\)</span><br />
-所以在 <span class="math inline">\(0, 1\)</span> 之間，較接近 <span
-class="math inline">\(0\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_13.png" />
-<div class="text-right text-sizec">
-通過率 0.56
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="111_13a.png" /></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_14.png" />
-<div class="text-right text-sizec">
-通過率 0.74
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>低於 <span class="math inline">\(60\)</span> 萬元的人數：<br />
-<span
-class="math inline">\(5+5+10+40+80+100+80+80+65+45=510\)</span><br />
-<span class="math inline">\(\frac{510}{750}\times
-100\%=68\%\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_15.png" />
-<div class="text-right text-sizec">
-通過率 0.53
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\overline{AE}=\overline{BE}\)</span>
-(中垂線上任一點到兩端等距離)<br />
-<span class="math inline">\(\triangle ABE\)</span> 為等腰三角形 <span
-class="math inline">\(\Rightarrow \angle 1=\angle 2,\ \angle B=\angle
-BAE\)</span><br />
-<span class="math inline">\(\angle A+\angle B+\angle
-C=180^\circ\)</span><br />
-<span class="math inline">\(\Rightarrow \angle BAE+\angle EAC+\angle
-B+\angle C=180^\circ\)</span><br />
-<span class="math inline">\(\Rightarrow \angle B+\angle EAC+\angle
-B+\angle B=180^\circ\)</span><br />
-<span class="math inline">\(\because \angle EAC &gt;
-90^\circ\)</span><br />
-<span class="math inline">\(\therefore 3\angle B &lt; 90^\circ
-\Rightarrow \angle B &lt; 30^\circ\)</span><br />
-在 <span class="math inline">\(\triangle BDE\)</span> 中：<span
-class="math inline">\(\angle 1+\angle B=90^\circ \Rightarrow \angle 1
-&gt; 60^\circ\)</span><br />
-<span class="math inline">\(\angle 1+\angle 2+\angle
-3=180^\circ\)</span><br />
-<span class="math inline">\(\Rightarrow 2\angle 1+\angle
-3=180^\circ\)</span><br />
-<span class="math inline">\(\Rightarrow \angle 3=180^\circ-2\angle 1
-&lt; 60^\circ\)</span><br />
-<span class="math inline">\(\therefore \angle 1 &gt; \angle
-3\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_16.png" />
-<div class="text-right text-sizec">
-通過率 0.55
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>一樓地板到八樓地板只有七層樓高<br />
-<span class="math inline">\(3\times 7+1.6-0.4-0.5=21.7\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_17.png" />
-<div class="text-right text-sizec">
-通過率 0.49
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="111_17a.png" /></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_18.png" />
-<div class="text-right text-sizec">
-通過率 0.51
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>設兩雙鞋各為 <span class="math inline">\(x,y\)</span> 元，且 <span
-class="math inline">\(x &gt; y\)</span><br />
-特惠活動價格：<span class="math inline">\(x+0.6y\)</span><br />
-折價券價格：<span class="math inline">\(0.8(x+y)\)</span><br />
-兩者花費差 <span class="math inline">\(50\)</span> 元 (特惠活動 <span
-class="math inline">\(-\)</span> 折價券價格)：<br />
-<span class="math inline">\(x+0.6y-0.8(x+y)=50\)</span><br />
-<span class="math inline">\(\Rightarrow
-x+0.6y-0.8x-0.8y=50\)</span><br />
-<span class="math inline">\(\Rightarrow 0.2x-0.2y=50\)</span><br />
-<span class="math inline">\(\Rightarrow x-y=250 &gt; 0\)</span><br />
-所以特惠活動價格多 <span class="math inline">\(250\)</span> 元</p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_19.png" />
-<div class="text-right text-sizec">
-通過率 0.50
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="111_19a.png" /></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_20.png" />
-<div class="text-right text-sizec">
-通過率 0.50
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>摺線兩邊為全等圖形<br />
-留意有對頂角的兩個三角形，可能會相似。<br />
-圖 (十二) 中，<span class="math inline">\(\angle A+\angle B=60^\circ, \
-\angle AFD=\angle BFG\)</span> (對頂角)<br />
-<span class="math inline">\(\therefore \triangle ADF \sim \triangle
-BGF\)</span><br />
-<span class="math inline">\(\Rightarrow \overline
-{AF}:\overline{BF}=\overline{DF}:\overline{GF}\)</span><br />
-<span class="math inline">\(\Rightarrow
-16:8=14:\overline{GF}\)</span><br />
-<span class="math inline">\(\Rightarrow \overline{GF}=7\)</span><br />
-<span
-class="math inline">\(\overline{AB}=\overline{AD}+\overline{DF}+\overline{FB}=10+14+8=32\)</span><br />
-<span class="math inline">\(\overline{AC}=\overline{AB}=32\)</span>
-(<span class="math inline">\(\triangle ABC\)</span> 為正三角形)<br />
-<span
-class="math inline">\(\overline{CG}=\overline{AC}-\overline{AF}-\overline{FC}=32-16-7=9\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_21.png" />
-<div class="text-right text-sizec">
-通過率 0.41
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="111_21a.png" /></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_22.png" />
-<div class="text-right text-sizec">
-通過率 0.40
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="111_22a.png" /></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_23.png" />
-<div class="text-right text-sizec">
-通過率 0.33
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\angle B=\angle FAC, \
-\overline{BD}=\overline{AC}, \ \angle{BDE}=\angle C\)</span><br />
-<span class="math inline">\(\Rightarrow \triangle ACF \cong \triangle
-BDE\)</span><br />
-<span class="math inline">\(\triangle ABF:\triangle ACF=11:5\)</span>
-(共頂點等高，面積比=底邊比)<br />
-設 <span class="math inline">\(\triangle ABF=11x, \ \triangle
-ACF=\triangle BDE=5x\)</span><br />
-四邊形 <span class="math inline">\(ADEF\)</span> 面積 <span
-class="math inline">\(=\triangle ABF-\triangle
-BDE=11x-5x=6x\)</span><br />
-四邊形 <span class="math inline">\(ADEF:\triangle
-ABC=6x:(11x+5x)=3:8\)</span></p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_24.png" />
-<div class="text-right text-sizec">
-通過率 0.44
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(PA-20\)</span> 發光效率 <span
-class="math inline">\(=\frac{1440}{20}=72\)</span><br />
-<span class="math inline">\(PB-14\)</span> 發光效率 <span
-class="math inline">\(=\frac{1200}{14}=85.7\)</span><br />
-所以 <span class="math inline">\(PB-14\)</span> 發光效率較高<br />
-<span class="math inline">\(PA-30\)</span> 發光效率 <span
-class="math inline">\(=\frac{2340}{30}=78\)</span><br />
-<span class="math inline">\(PA-40\)</span> 發光效率 <span
-class="math inline">\(=\frac{3360}{40}=84\)</span><br />
-所以 <span class="math inline">\(PA\)</span>
-燈管功率大的發光效率較高</p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_25.png" />
-<div class="text-right text-sizec">
-通過率 0.42
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>基本方案電費 <span class="math inline">\(=\frac{90}{1000}\times
-40\times t\times 5\)</span><br />
-省電方案電費 <span class="math inline">\(=\frac{120}{1000}\times
-28\times t\times 5\)</span><br />
-基本方案電費 <span class="math inline">\(-\)</span> 省電方案電費 <span
-class="math inline">\(&gt; 60000-45000\)</span><br />
-<span class="math inline">\(\Rightarrow (\frac{90}{1000}\times 40\times
-t\times 5)-(\frac{120}{1000}\times 28\times t\times 5) &gt;
-15000\)</span><br />
-<span class="math inline">\(\Rightarrow t &gt; 12500\)</span></p>
-</div>
-</details>
-</div>
-<h2 id="第二部分非選擇題-1-2-題">第二部分:非選擇題 (1 ~ 2 題 )</h2>
-<div class="math-item">
-<img src="111_26.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((1) 18\)</span> <span
-class="math inline">\((2)\)</span> 是</p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\((1)\)</span> <span
-class="math inline">\(15\times 24=360\)</span> (小時)<br />
-<span class="math inline">\(k=360\div 20=18\)</span> (次)<br />
-<span class="math inline">\((2)\)</span> <span
-class="math inline">\(8\)</span> 公克需要 <span
-class="math inline">\(8\times 60\)</span> 億個細胞<br />
-<span class="math inline">\(8\times 2^{32} &lt; 8\times 60\times 10^8
-&lt; 8\times 2^{33}\)</span><br />
-<span class="math inline">\(\Rightarrow 2^{35} &lt; 8 \times 60\times
-10^8 &lt; 2^{36}\)</span><br />
-<span class="math inline">\(4^k=4^{18}=2^{36} &gt; 8\times 60\times
-10^8\)</span><br />
-所以是足夠的</p>
-</div>
-</details>
-</div>
-<div class="math-item">
-<img src="111_27.png" />
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((1)\)</span> <span
-class="math inline">\(7\)</span><br />
-<span class="math inline">\((2)\)</span> <span
-class="math inline">\(\frac{11}{24}\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\((1)\)</span> <span
-class="math inline">\(0+11-4=7\)</span><br />
-<span class="math inline">\((2)\)</span> 設已發出 <span
-class="math inline">\(x\)</span> 張大牌，<span
-class="math inline">\(y\)</span> 張小牌<br />
-<span class="math inline">\(\begin{cases}
-x + y &amp;=  28 \quad\\
--x + y &amp;=  10 \quad
-\end{cases}\)</span> <span class="math inline">\(\Rightarrow
-(x,y)=(9,19)\)</span><br />
-原來大牌有 <span class="math inline">\(5\times 4=20\)</span> 張，已發出
-<span class="math inline">\(x=9\)</span> 張<br />
-剩下大牌 <span class="math inline">\(20-9=11\)</span> 張<br />
-剩下總牌數 <span class="math inline">\(52-28=24\)</span> 張<br />
-發出大牌機率 <span class="math inline">\(=\frac{11}{24}\)</span></p>
-</div>
-</details>
-</div>
-]]></content>
-      <categories>
-        <category>國中會考</category>
-      </categories>
-      <tags>
-        <tag>詳解</tag>
-        <tag>111</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>112年會考數學詳解 - 完整對照表與難題趨勢分析</title>
     <url>/cap112/</url>
     <content><![CDATA[<!-- Google tag (gtag.js) -->
@@ -11220,8 +10391,837 @@ class="math inline">\(30 cm\)</span><br />
       </tags>
   </entry>
   <entry>
-    <title>113學年度學科能力測驗試題 - 數A</title>
-    <url>/sat113a/</url>
+    <title>111年會考數學詳解 - 完整對照表與難題趨勢分析</title>
+    <url>/cap111/</url>
+    <content><![CDATA[<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VBLJT5KBPG');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
+     crossorigin="anonymous"></script>
+<details>
+<summary>
+<span class="text-sizec">年度解析+等級對照表</span>
+</summary>
+<h1 id="年會考數學解析決戰高資訊量的長文本挑戰">111
+年會考數學解析：決戰「高資訊量」的長文本挑戰</h1>
+<p>111 年的考題分布呈現明顯的「後重」趨勢，難題高度集中在選擇題第 21 至
+25 題。</p>
+<ul>
+<li><p><strong>末端難題集中營</strong>：第 21
+題開始進入高壓區，難度階梯陡升，極度考驗考生的耐力。。</p></li>
+<li><p><strong>壓軸組合題（24、25
+題）</strong>：這兩題是該年度最致命的陷阱。其特色在於資訊量極其龐大，且帶有大量陌生的專有名詞。這不僅考驗數學邏輯，更考驗學生的「文本解讀」能力。若不能冷靜將文字轉譯成數學模型，很容易在閱讀中迷失。</p></li>
+</ul>
+<p><strong>NUMA 策略建議：</strong> 面111
+年的關鍵心法在於「不要被專業術語嚇到」。即使題目包裝得像科學論文，核心邏輯依然是課本知識。學會從長文中提取有效資訊，才是攻克
+A++ 的捷徑。</p>
+<h2 id="等級加標示與加權分數對照表">等級加標示與加權分數對照表</h2>
+<figure>
+<img src="image3.png" alt="111等級加標示與加權分數對照表" />
+<figcaption
+aria-hidden="true">111等級加標示與加權分數對照表</figcaption>
+</figure>
+<hr />
+<h2 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h2>
+<figure>
+<img src="image2.png" alt="111等級加標示與答對題數對照表" />
+<figcaption
+aria-hidden="true">111等級加標示與答對題數對照表</figcaption>
+</figure>
+<hr />
+<h2
+id="各科等級加標示人數百分比統計表">各科等級加標示人數百分比統計表</h2>
+<figure>
+<img src="image.png" alt="111各科等級加標示人數百分比統計表" />
+<figcaption
+aria-hidden="true">111各科等級加標示人數百分比統計表</figcaption>
+</figure>
+<hr />
+<h2 id="試題疑義">試題疑義</h2>
+<a
+href="https://cap.rcpet.edu.tw/exam/111/111%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%E8%82%B2%E6%9C%83%E8%80%83%E8%A9%A6%E9%A1%8C%E7%96%91%E7%BE%A9%E8%A1%A8-%E6%95%B8%E5%AD%B8.pdf">111年國中教育會考試題疑義表</a>
+</details>
+<div style="margin-top: 50px;">
+
+</div>
+<h1 id="年會考-數學詳解">111年會考-數學詳解</h1>
+<h2 id="第一部分選擇題-1-25-題">第一部分:選擇題 (1 ~ 25 題)</h2>
+<div class="math-item">
+<img src="111_1.png" />
+<div class="text-right text-sizec">
+通過率 0.87
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(|a|=\overline{OA}\)</span><br />
+<span class="math inline">\(|b|=\overline{OB}\)</span><br />
+<span class="math inline">\(|c|=\overline{OC}\)</span><br />
+<span class="math inline">\(|d|=\overline{OD}\)</span><br />
+看圖得知 <span class="math inline">\(|a|=\overline{OA}\)</span> 最小</p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_2.png" />
+<div class="text-right text-sizec">
+通過率 0.82
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(6x^2+4x=2x^2\times 3+4x\)</span><br />
+商式 <span class="math inline">\(=3\)</span><br />
+餘式 <span class="math inline">\(=4x\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_3.png" />
+<div class="text-right text-sizec">
+通過率 0.80
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\((B),(D)\)</span> 皆為偶數，可先刪去<br />
+<span class="math inline">\(156=2^2\times 3\times 13\)</span><br />
+<span class="math inline">\(2,3,13\)</span> 皆為 <span
+class="math inline">\(156\)</span> 的質因數</p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_4.png" />
+<div class="text-right text-sizec">
+通過率 0.78
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="111_4a.png" /></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_5.png" />
+<div class="text-right text-sizec">
+通過率 0.81
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>同分母的放一起<br />
+<span
+class="math inline">\(\frac{9}{22}+\frac{11}{18}-(\frac{23}{22}-\frac{7}{18})\)</span><br />
+<span
+class="math inline">\(=\frac{9}{22}-\frac{23}{22}+\frac{11}{18}+\frac{7}{18}\)</span><br />
+<span class="math inline">\(=-\frac{14}{22}+\frac{18}{18}\)</span><br />
+<span class="math inline">\(=-\frac{14}{22}+1\)</span><br />
+<span class="math inline">\(=\frac{8}{22}\)</span><br />
+<span class="math inline">\(=\frac{4}{11}\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_6.png" />
+<div class="text-right text-sizec">
+通過率 0.75
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(40=\sqrt{40^2}=\sqrt{1600}\)</span><br />
+<span class="math inline">\(45=\sqrt{45^2}=\sqrt{2500}\)</span><br />
+<span class="math inline">\(\sqrt{1600} &lt; \sqrt{2022} &lt;
+\sqrt{2500}\)</span><br />
+<span class="math inline">\(\Rightarrow 40 &lt; \sqrt{2022} &lt;
+45\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_7.png" />
+<div class="text-right text-sizec">
+通過率 0.69
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="111_7a.png" /></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_8.png" />
+<div class="text-right text-sizec">
+通過率 0.71
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span
+class="math inline">\((3x+a)(bx+c)=3bx^2+(ab+3c)x+ac\)</span><br />
+<span class="math inline">\(x^2\)</span> 項係數：<span
+class="math inline">\(3b=39\Rightarrow b=13\)</span><br />
+<span class="math inline">\(x\)</span> 項係數：<span
+class="math inline">\(ab+3c=5\Rightarrow 13a+3c=5\)</span><br />
+常數項：<span class="math inline">\(ac=-14\)</span><br />
+已知 <span class="math inline">\(a,c\)</span> 為整數 <span
+class="math inline">\(\Rightarrow (a,c)=(1,
+-14),(-1,14),(2,-7),(-2,7)\)</span><br />
+代入 <span class="math inline">\(13a+3c=5\)</span> 得 <span
+class="math inline">\((a,c)=(2,-7)\)</span><br />
+<span class="math inline">\(a+2c=-12\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_9.png" />
+<div class="text-right text-sizec">
+通過率 0.73
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>箱內剩下：<span class="math inline">\(1,3,4,4,5,6,6\)</span>
+共七顆球<br />
+其中與 <span class="math inline">\(1,2,2,3,5\)</span> 相同的有 <span
+class="math inline">\(1,3,5\)</span> 三顆球<br />
+機率 <span class="math inline">\(=\frac37\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_10.png" />
+<div class="text-right text-sizec">
+通過率 0.64
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\((x-2)^2=3\)</span><br />
+<span class="math inline">\(\Rightarrow x-2=\pm \sqrt3\)</span><br />
+<span class="math inline">\(\Rightarrow x=2\pm\sqrt3\)</span><br />
+<span class="math inline">\(\because a&gt;b\)</span><br />
+<span class="math inline">\(\therefore a=2+\sqrt3, \
+b=2-\sqrt3\)</span><br />
+<span class="math inline">\(2a+b=6+\sqrt3\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_11.png" />
+<div class="text-right text-sizec">
+通過率 0.70
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>設預算 <span class="math inline">\(x\)</span> 元，售價 <span
+class="math inline">\(=x+1200\)</span><br />
+<span class="math inline">\(0.8(x+1200)=x-200\)</span><br />
+<span class="math inline">\(\Rightarrow x=5800\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_12.png" />
+<div class="text-right text-sizec">
+通過率 0.64
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(p=7.52\times 10^{-6}=\frac{7.52}{10^6}
+&lt; \frac12\)</span> 且 <span
+class="math inline">\(p&gt;0\)</span><br />
+所以在 <span class="math inline">\(0, 1\)</span> 之間，較接近 <span
+class="math inline">\(0\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_13.png" />
+<div class="text-right text-sizec">
+通過率 0.56
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="111_13a.png" /></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_14.png" />
+<div class="text-right text-sizec">
+通過率 0.74
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>低於 <span class="math inline">\(60\)</span> 萬元的人數：<br />
+<span
+class="math inline">\(5+5+10+40+80+100+80+80+65+45=510\)</span><br />
+<span class="math inline">\(\frac{510}{750}\times
+100\%=68\%\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_15.png" />
+<div class="text-right text-sizec">
+通過率 0.53
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\overline{AE}=\overline{BE}\)</span>
+(中垂線上任一點到兩端等距離)<br />
+<span class="math inline">\(\triangle ABE\)</span> 為等腰三角形 <span
+class="math inline">\(\Rightarrow \angle 1=\angle 2,\ \angle B=\angle
+BAE\)</span><br />
+<span class="math inline">\(\angle A+\angle B+\angle
+C=180^\circ\)</span><br />
+<span class="math inline">\(\Rightarrow \angle BAE+\angle EAC+\angle
+B+\angle C=180^\circ\)</span><br />
+<span class="math inline">\(\Rightarrow \angle B+\angle EAC+\angle
+B+\angle B=180^\circ\)</span><br />
+<span class="math inline">\(\because \angle EAC &gt;
+90^\circ\)</span><br />
+<span class="math inline">\(\therefore 3\angle B &lt; 90^\circ
+\Rightarrow \angle B &lt; 30^\circ\)</span><br />
+在 <span class="math inline">\(\triangle BDE\)</span> 中：<span
+class="math inline">\(\angle 1+\angle B=90^\circ \Rightarrow \angle 1
+&gt; 60^\circ\)</span><br />
+<span class="math inline">\(\angle 1+\angle 2+\angle
+3=180^\circ\)</span><br />
+<span class="math inline">\(\Rightarrow 2\angle 1+\angle
+3=180^\circ\)</span><br />
+<span class="math inline">\(\Rightarrow \angle 3=180^\circ-2\angle 1
+&lt; 60^\circ\)</span><br />
+<span class="math inline">\(\therefore \angle 1 &gt; \angle
+3\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_16.png" />
+<div class="text-right text-sizec">
+通過率 0.55
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>一樓地板到八樓地板只有七層樓高<br />
+<span class="math inline">\(3\times 7+1.6-0.4-0.5=21.7\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_17.png" />
+<div class="text-right text-sizec">
+通過率 0.49
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="111_17a.png" /></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_18.png" />
+<div class="text-right text-sizec">
+通過率 0.51
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>設兩雙鞋各為 <span class="math inline">\(x,y\)</span> 元，且 <span
+class="math inline">\(x &gt; y\)</span><br />
+特惠活動價格：<span class="math inline">\(x+0.6y\)</span><br />
+折價券價格：<span class="math inline">\(0.8(x+y)\)</span><br />
+兩者花費差 <span class="math inline">\(50\)</span> 元 (特惠活動 <span
+class="math inline">\(-\)</span> 折價券價格)：<br />
+<span class="math inline">\(x+0.6y-0.8(x+y)=50\)</span><br />
+<span class="math inline">\(\Rightarrow
+x+0.6y-0.8x-0.8y=50\)</span><br />
+<span class="math inline">\(\Rightarrow 0.2x-0.2y=50\)</span><br />
+<span class="math inline">\(\Rightarrow x-y=250 &gt; 0\)</span><br />
+所以特惠活動價格多 <span class="math inline">\(250\)</span> 元</p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_19.png" />
+<div class="text-right text-sizec">
+通過率 0.50
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="111_19a.png" /></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_20.png" />
+<div class="text-right text-sizec">
+通過率 0.50
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>摺線兩邊為全等圖形<br />
+留意有對頂角的兩個三角形，可能會相似。<br />
+圖 (十二) 中，<span class="math inline">\(\angle A+\angle B=60^\circ, \
+\angle AFD=\angle BFG\)</span> (對頂角)<br />
+<span class="math inline">\(\therefore \triangle ADF \sim \triangle
+BGF\)</span><br />
+<span class="math inline">\(\Rightarrow \overline
+{AF}:\overline{BF}=\overline{DF}:\overline{GF}\)</span><br />
+<span class="math inline">\(\Rightarrow
+16:8=14:\overline{GF}\)</span><br />
+<span class="math inline">\(\Rightarrow \overline{GF}=7\)</span><br />
+<span
+class="math inline">\(\overline{AB}=\overline{AD}+\overline{DF}+\overline{FB}=10+14+8=32\)</span><br />
+<span class="math inline">\(\overline{AC}=\overline{AB}=32\)</span>
+(<span class="math inline">\(\triangle ABC\)</span> 為正三角形)<br />
+<span
+class="math inline">\(\overline{CG}=\overline{AC}-\overline{AF}-\overline{FC}=32-16-7=9\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_21.png" />
+<div class="text-right text-sizec">
+通過率 0.41
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="111_21a.png" /></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_22.png" />
+<div class="text-right text-sizec">
+通過率 0.40
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="111_22a.png" /></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_23.png" />
+<div class="text-right text-sizec">
+通過率 0.33
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\angle B=\angle FAC, \
+\overline{BD}=\overline{AC}, \ \angle{BDE}=\angle C\)</span><br />
+<span class="math inline">\(\Rightarrow \triangle ACF \cong \triangle
+BDE\)</span><br />
+<span class="math inline">\(\triangle ABF:\triangle ACF=11:5\)</span>
+(共頂點等高，面積比=底邊比)<br />
+設 <span class="math inline">\(\triangle ABF=11x, \ \triangle
+ACF=\triangle BDE=5x\)</span><br />
+四邊形 <span class="math inline">\(ADEF\)</span> 面積 <span
+class="math inline">\(=\triangle ABF-\triangle
+BDE=11x-5x=6x\)</span><br />
+四邊形 <span class="math inline">\(ADEF:\triangle
+ABC=6x:(11x+5x)=3:8\)</span></p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_24.png" />
+<div class="text-right text-sizec">
+通過率 0.44
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(PA-20\)</span> 發光效率 <span
+class="math inline">\(=\frac{1440}{20}=72\)</span><br />
+<span class="math inline">\(PB-14\)</span> 發光效率 <span
+class="math inline">\(=\frac{1200}{14}=85.7\)</span><br />
+所以 <span class="math inline">\(PB-14\)</span> 發光效率較高<br />
+<span class="math inline">\(PA-30\)</span> 發光效率 <span
+class="math inline">\(=\frac{2340}{30}=78\)</span><br />
+<span class="math inline">\(PA-40\)</span> 發光效率 <span
+class="math inline">\(=\frac{3360}{40}=84\)</span><br />
+所以 <span class="math inline">\(PA\)</span>
+燈管功率大的發光效率較高</p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_25.png" />
+<div class="text-right text-sizec">
+通過率 0.42
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>基本方案電費 <span class="math inline">\(=\frac{90}{1000}\times
+40\times t\times 5\)</span><br />
+省電方案電費 <span class="math inline">\(=\frac{120}{1000}\times
+28\times t\times 5\)</span><br />
+基本方案電費 <span class="math inline">\(-\)</span> 省電方案電費 <span
+class="math inline">\(&gt; 60000-45000\)</span><br />
+<span class="math inline">\(\Rightarrow (\frac{90}{1000}\times 40\times
+t\times 5)-(\frac{120}{1000}\times 28\times t\times 5) &gt;
+15000\)</span><br />
+<span class="math inline">\(\Rightarrow t &gt; 12500\)</span></p>
+</div>
+</details>
+</div>
+<h2 id="第二部分非選擇題-1-2-題">第二部分:非選擇題 (1 ~ 2 題 )</h2>
+<div class="math-item">
+<img src="111_26.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((1) 18\)</span> <span
+class="math inline">\((2)\)</span> 是</p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\((1)\)</span> <span
+class="math inline">\(15\times 24=360\)</span> (小時)<br />
+<span class="math inline">\(k=360\div 20=18\)</span> (次)<br />
+<span class="math inline">\((2)\)</span> <span
+class="math inline">\(8\)</span> 公克需要 <span
+class="math inline">\(8\times 60\)</span> 億個細胞<br />
+<span class="math inline">\(8\times 2^{32} &lt; 8\times 60\times 10^8
+&lt; 8\times 2^{33}\)</span><br />
+<span class="math inline">\(\Rightarrow 2^{35} &lt; 8 \times 60\times
+10^8 &lt; 2^{36}\)</span><br />
+<span class="math inline">\(4^k=4^{18}=2^{36} &gt; 8\times 60\times
+10^8\)</span><br />
+所以是足夠的</p>
+</div>
+</details>
+</div>
+<div class="math-item">
+<img src="111_27.png" />
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((1)\)</span> <span
+class="math inline">\(7\)</span><br />
+<span class="math inline">\((2)\)</span> <span
+class="math inline">\(\frac{11}{24}\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\((1)\)</span> <span
+class="math inline">\(0+11-4=7\)</span><br />
+<span class="math inline">\((2)\)</span> 設已發出 <span
+class="math inline">\(x\)</span> 張大牌，<span
+class="math inline">\(y\)</span> 張小牌<br />
+<span class="math inline">\(\begin{cases}
+x + y &amp;=  28 \quad\\
+-x + y &amp;=  10 \quad
+\end{cases}\)</span> <span class="math inline">\(\Rightarrow
+(x,y)=(9,19)\)</span><br />
+原來大牌有 <span class="math inline">\(5\times 4=20\)</span> 張，已發出
+<span class="math inline">\(x=9\)</span> 張<br />
+剩下大牌 <span class="math inline">\(20-9=11\)</span> 張<br />
+剩下總牌數 <span class="math inline">\(52-28=24\)</span> 張<br />
+發出大牌機率 <span class="math inline">\(=\frac{11}{24}\)</span></p>
+</div>
+</details>
+</div>
+]]></content>
+      <categories>
+        <category>國中會考</category>
+      </categories>
+      <tags>
+        <tag>詳解</tag>
+        <tag>111</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>112年學測成績統計</title>
+    <url>/satexam1-112-report/</url>
     <content><![CDATA[<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
 <script>
@@ -11234,405 +11234,386 @@ class="math inline">\(30 cm\)</span><br />
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
      crossorigin="anonymous"></script>
 <h4 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h4>
-<h4 id="第壹部分選擇填題占-85-分">第壹部分、選擇(填)題(占 85 分)</h4>
-<h5 id="一單選題占-30-分">一、單選題(占 30 分)</h5>
-<img src="sat113a_1.png" /> <font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p>(2)</p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<p><img src="sat113a_1a.png" /></p>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_2.png" /> <font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p>(5)</p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_2a.png" /> 定出各點坐標</p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_3.png" /> <font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p>(1)</p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_3a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_4.png" /> <font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p>(2)</p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_4a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_5.png" /> <font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p>(4)</p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_5a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_6.png" /> <font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p>(3)</p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_6a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<h5 id="二多選題占-30-分-答錯-k-個選項得-fracn-2kn-分">二、多選題(占 30
-分) 答錯 <span class="math inline">\(k\)</span> 個選項，得 <span
-class="math inline">\(\frac{n-2k}{n}\)</span> 分</h5>
-<img src="sat113a_7.png" /> <font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p>(3)(4)</p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_7a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_8.png" /> <font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p>(2)(3)</p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_8a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_9.png" /> <font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p>(3)</p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_9a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_10.png" /> <font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p>(3)(5)</p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_10a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_11.png" /> <font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p>(2)(3)</p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_11a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_12.png" /> <font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p>(2)(4)(5)</p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_12a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-三、選填題(占 25 分)<br />
-<img src="sat113a_13.png" /><br />
-<font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p><span class="math inline">\(2:3:5\)</span></p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_13a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_14.png" /> <font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p><span class="math inline">\(a=-3, \ b=3\)</span></p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_14a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_15.png" /><br />
-<font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p>25</p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_15a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_16.png" /><br />
-<font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p><span class="math inline">\(\frac{2\sqrt 5}{5}\)</span></p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_16a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_17.png" /><br />
-<font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p><span class="math inline">\(\frac{1}{3}\)</span></p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_17a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<h4 id="第貳部分混合題或非選擇題占-15-分">第貳部分、混合題或非選擇題(占
-15 分)</h4>
-<h5 id="題為題組">18-20 題為題組</h5>
-<img src="sat113a_18.png" /><br />
-<font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-<p>(4)</p>
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_18a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_19.png" /><br />
-<font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_19a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
-<img src="sat113a_20.png" /> <font size=1>
-<details>
-<summary>
-答案
-</summary>
-<blockquote>
-
-</blockquote>
-</details>
-<details>
-<summary>
-詳解
-</summary>
-<blockquote>
-<p><img src="sat113a_20a.png" /></p>
-</blockquote>
-</details>
-<p></font></p>
-<hr />
+<h3 id="學測五標">112 學測五標</h3>
+<p><img src="satexam1_112_report3.png" /></p>
+<h3 id="近三年五標比較表">近三年五標比較表</h3>
+<p><img src="satexam1_112_report2.png" /></p>
+<h3 id="學測原始總分與級分對照表">112 學測原始總分與級分對照表</h3>
+<p><img src="satexam1_112_report1.png" /></p>
 ]]></content>
       <categories>
         <category>學測</category>
       </categories>
       <tags>
-        <tag>詳解</tag>
+        <tag>112</tag>
+        <tag>統計</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歷年學測成績統計</title>
+    <url>/satexam1-report/</url>
+    <content><![CDATA[<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VBLJT5KBPG');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
+     crossorigin="anonymous"></script>
+<h1 id="歷年學測五標與級距">歷年學測五標與級距</h1>
+<h2 id="數a">數A</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">年度</th>
+<th style="text-align: right;">頂標</th>
+<th style="text-align: right;">前標</th>
+<th style="text-align: right;">均標</th>
+<th style="text-align: right;">後標</th>
+<th style="text-align: right;">底標</th>
+<th style="text-align: center;">級距</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">114</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.12667</td>
+</tr>
+<tr>
+<td style="text-align: center;">113</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.16733</td>
+</tr>
+<tr>
+<td style="text-align: center;">112</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: center;">6.37467</td>
+</tr>
+<tr>
+<td style="text-align: center;">111</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">5.56133</td>
+</tr>
+</tbody>
+</table>
+<h2 id="數b">數B</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">年度</th>
+<th style="text-align: right;">頂標</th>
+<th style="text-align: right;">前標</th>
+<th style="text-align: right;">均標</th>
+<th style="text-align: right;">後標</th>
+<th style="text-align: right;">底標</th>
+<th style="text-align: center;">級距</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">114</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.29000</td>
+</tr>
+<tr>
+<td style="text-align: center;">113</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.15000</td>
+</tr>
+<tr>
+<td style="text-align: center;">112</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.38067</td>
+</tr>
+<tr>
+<td style="text-align: center;">111</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.59867</td>
+</tr>
+</tbody>
+</table>
+<h2 id="國文">國文</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">年度</th>
+<th style="text-align: right;">頂標</th>
+<th style="text-align: right;">前標</th>
+<th style="text-align: right;">均標</th>
+<th style="text-align: right;">後標</th>
+<th style="text-align: right;">底標</th>
+<th style="text-align: center;">級距</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">114</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: center;">5.29000</td>
+</tr>
+<tr>
+<td style="text-align: center;">113</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: center;">5.29000</td>
+</tr>
+<tr>
+<td style="text-align: center;">112</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: center;">5.21933</td>
+</tr>
+<tr>
+<td style="text-align: center;">111</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: center;">5.34000</td>
+</tr>
+</tbody>
+</table>
+<h2 id="英文">英文</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">年度</th>
+<th style="text-align: right;">頂標</th>
+<th style="text-align: right;">前標</th>
+<th style="text-align: right;">均標</th>
+<th style="text-align: right;">後標</th>
+<th style="text-align: right;">底標</th>
+<th style="text-align: center;">級距</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">114</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.17067</td>
+</tr>
+<tr>
+<td style="text-align: center;">113</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: center;">6.19600</td>
+</tr>
+<tr>
+<td style="text-align: center;">112</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: center;">6.11533</td>
+</tr>
+<tr>
+<td style="text-align: center;">111</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: center;">6.20867</td>
+</tr>
+</tbody>
+</table>
+<h2 id="自然">自然</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">年度</th>
+<th style="text-align: right;">頂標</th>
+<th style="text-align: right;">前標</th>
+<th style="text-align: right;">均標</th>
+<th style="text-align: right;">後標</th>
+<th style="text-align: right;">底標</th>
+<th style="text-align: center;">級距</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">114</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: center;">7.87467</td>
+</tr>
+<tr>
+<td style="text-align: center;">113</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: center;">8.03933</td>
+</tr>
+<tr>
+<td style="text-align: center;">112</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: center;">7.57200</td>
+</tr>
+<tr>
+<td style="text-align: center;">111</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: center;">8.05133</td>
+</tr>
+</tbody>
+</table>
+<h2 id="社會">社會</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">年度</th>
+<th style="text-align: right;">頂標</th>
+<th style="text-align: right;">前標</th>
+<th style="text-align: right;">均標</th>
+<th style="text-align: right;">後標</th>
+<th style="text-align: right;">底標</th>
+<th style="text-align: center;">級距</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">114</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: center;">7.68933</td>
+</tr>
+<tr>
+<td style="text-align: center;">113</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: center;">8.13667</td>
+</tr>
+<tr>
+<td style="text-align: center;">112</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: center;">7.84333</td>
+</tr>
+<tr>
+<td style="text-align: center;">111</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: center;">8.26200</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+      <categories>
+        <category>學測</category>
+      </categories>
+      <tags>
+        <tag>學測</tag>
+        <tag>統計</tag>
+        <tag>114</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>113年學測成績統計</title>
+    <url>/satexam1-113-report/</url>
+    <content><![CDATA[<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VBLJT5KBPG');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
+     crossorigin="anonymous"></script>
+<h4 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h4>
+<h3 id="學測五標">113 學測五標</h3>
+<p><img src="satexam1_113_report3.png" /></p>
+<h3 id="近三年五標比較表">近三年五標比較表</h3>
+<p><img src="satexam1_113_report2.png" /></p>
+<h3 id="學測原始總分與級分對照表">113 學測原始總分與級分對照表</h3>
+<p><img src="satexam1_113_report1.png" /></p>
+]]></content>
+      <categories>
+        <category>學測</category>
+      </categories>
+      <tags>
+        <tag>113</tag>
+        <tag>統計</tag>
       </tags>
   </entry>
   <entry>
@@ -12477,403 +12458,6 @@ A 比 B 多一層，設共有 <span class="math inline">\(2x+1\)</span> 層<br /
       <tags>
         <tag>詳解</tag>
         <tag>114</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>112年學測成績統計</title>
-    <url>/satexam1-112-report/</url>
-    <content><![CDATA[<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VBLJT5KBPG');
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
-     crossorigin="anonymous"></script>
-<h4 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h4>
-<h3 id="學測五標">112 學測五標</h3>
-<p><img src="satexam1_112_report3.png" /></p>
-<h3 id="近三年五標比較表">近三年五標比較表</h3>
-<p><img src="satexam1_112_report2.png" /></p>
-<h3 id="學測原始總分與級分對照表">112 學測原始總分與級分對照表</h3>
-<p><img src="satexam1_112_report1.png" /></p>
-]]></content>
-      <categories>
-        <category>學測</category>
-      </categories>
-      <tags>
-        <tag>112</tag>
-        <tag>統計</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>113年學測成績統計</title>
-    <url>/satexam1-113-report/</url>
-    <content><![CDATA[<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VBLJT5KBPG');
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
-     crossorigin="anonymous"></script>
-<h4 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h4>
-<h3 id="學測五標">113 學測五標</h3>
-<p><img src="satexam1_113_report3.png" /></p>
-<h3 id="近三年五標比較表">近三年五標比較表</h3>
-<p><img src="satexam1_113_report2.png" /></p>
-<h3 id="學測原始總分與級分對照表">113 學測原始總分與級分對照表</h3>
-<p><img src="satexam1_113_report1.png" /></p>
-]]></content>
-      <categories>
-        <category>學測</category>
-      </categories>
-      <tags>
-        <tag>113</tag>
-        <tag>統計</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>歷年學測成績統計</title>
-    <url>/satexam1-report/</url>
-    <content><![CDATA[<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VBLJT5KBPG');
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
-     crossorigin="anonymous"></script>
-<h1 id="歷年學測五標與級距">歷年學測五標與級距</h1>
-<h2 id="數a">數A</h2>
-<table>
-<thead>
-<tr>
-<th style="text-align: center;">年度</th>
-<th style="text-align: right;">頂標</th>
-<th style="text-align: right;">前標</th>
-<th style="text-align: right;">均標</th>
-<th style="text-align: right;">後標</th>
-<th style="text-align: right;">底標</th>
-<th style="text-align: center;">級距</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">114</td>
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">6</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: center;">6.12667</td>
-</tr>
-<tr>
-<td style="text-align: center;">113</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">10</td>
-<td style="text-align: right;">7</td>
-<td style="text-align: right;">5</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: center;">6.16733</td>
-</tr>
-<tr>
-<td style="text-align: center;">112</td>
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">7</td>
-<td style="text-align: right;">5</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: center;">6.37467</td>
-</tr>
-<tr>
-<td style="text-align: center;">111</td>
-<td style="text-align: right;">10</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">6</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: center;">5.56133</td>
-</tr>
-</tbody>
-</table>
-<h2 id="數b">數B</h2>
-<table>
-<thead>
-<tr>
-<th style="text-align: center;">年度</th>
-<th style="text-align: right;">頂標</th>
-<th style="text-align: right;">前標</th>
-<th style="text-align: right;">均標</th>
-<th style="text-align: right;">後標</th>
-<th style="text-align: right;">底標</th>
-<th style="text-align: center;">級距</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">114</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">10</td>
-<td style="text-align: right;">6</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: center;">6.29000</td>
-</tr>
-<tr>
-<td style="text-align: center;">113</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">6</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: center;">6.15000</td>
-</tr>
-<tr>
-<td style="text-align: center;">112</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">10</td>
-<td style="text-align: right;">7</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: center;">6.38067</td>
-</tr>
-<tr>
-<td style="text-align: center;">111</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: center;">6.59867</td>
-</tr>
-</tbody>
-</table>
-<h2 id="國文">國文</h2>
-<table>
-<thead>
-<tr>
-<th style="text-align: center;">年度</th>
-<th style="text-align: right;">頂標</th>
-<th style="text-align: right;">前標</th>
-<th style="text-align: right;">均標</th>
-<th style="text-align: right;">後標</th>
-<th style="text-align: right;">底標</th>
-<th style="text-align: center;">級距</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">114</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">10</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">7</td>
-<td style="text-align: center;">5.29000</td>
-</tr>
-<tr>
-<td style="text-align: center;">113</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: center;">5.29000</td>
-</tr>
-<tr>
-<td style="text-align: center;">112</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: center;">5.21933</td>
-</tr>
-<tr>
-<td style="text-align: center;">111</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">10</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">7</td>
-<td style="text-align: center;">5.34000</td>
-</tr>
-</tbody>
-</table>
-<h2 id="英文">英文</h2>
-<table>
-<thead>
-<tr>
-<th style="text-align: center;">年度</th>
-<th style="text-align: right;">頂標</th>
-<th style="text-align: right;">前標</th>
-<th style="text-align: right;">均標</th>
-<th style="text-align: right;">後標</th>
-<th style="text-align: right;">底標</th>
-<th style="text-align: center;">級距</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">114</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: center;">6.17067</td>
-</tr>
-<tr>
-<td style="text-align: center;">113</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">5</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: center;">6.19600</td>
-</tr>
-<tr>
-<td style="text-align: center;">112</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">5</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: center;">6.11533</td>
-</tr>
-<tr>
-<td style="text-align: center;">111</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">5</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: center;">6.20867</td>
-</tr>
-</tbody>
-</table>
-<h2 id="自然">自然</h2>
-<table>
-<thead>
-<tr>
-<th style="text-align: center;">年度</th>
-<th style="text-align: right;">頂標</th>
-<th style="text-align: right;">前標</th>
-<th style="text-align: right;">均標</th>
-<th style="text-align: right;">後標</th>
-<th style="text-align: right;">底標</th>
-<th style="text-align: center;">級距</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">114</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">7</td>
-<td style="text-align: right;">5</td>
-<td style="text-align: center;">7.87467</td>
-</tr>
-<tr>
-<td style="text-align: center;">113</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">6</td>
-<td style="text-align: right;">5</td>
-<td style="text-align: center;">8.03933</td>
-</tr>
-<tr>
-<td style="text-align: center;">112</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">6</td>
-<td style="text-align: right;">5</td>
-<td style="text-align: center;">7.57200</td>
-</tr>
-<tr>
-<td style="text-align: center;">111</td>
-<td style="text-align: right;">14</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">10</td>
-<td style="text-align: right;">7</td>
-<td style="text-align: right;">5</td>
-<td style="text-align: center;">8.05133</td>
-</tr>
-</tbody>
-</table>
-<h2 id="社會">社會</h2>
-<table>
-<thead>
-<tr>
-<th style="text-align: center;">年度</th>
-<th style="text-align: right;">頂標</th>
-<th style="text-align: right;">前標</th>
-<th style="text-align: right;">均標</th>
-<th style="text-align: right;">後標</th>
-<th style="text-align: right;">底標</th>
-<th style="text-align: center;">級距</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">114</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">10</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">7</td>
-<td style="text-align: center;">7.68933</td>
-</tr>
-<tr>
-<td style="text-align: center;">113</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">10</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">6</td>
-<td style="text-align: center;">8.13667</td>
-</tr>
-<tr>
-<td style="text-align: center;">112</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">6</td>
-<td style="text-align: center;">7.84333</td>
-</tr>
-<tr>
-<td style="text-align: center;">111</td>
-<td style="text-align: right;">13</td>
-<td style="text-align: right;">12</td>
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">7</td>
-<td style="text-align: center;">8.26200</td>
-</tr>
-</tbody>
-</table>
-]]></content>
-      <categories>
-        <category>學測</category>
-      </categories>
-      <tags>
-        <tag>學測</tag>
-        <tag>114</tag>
-        <tag>統計</tag>
       </tags>
   </entry>
 </search>
