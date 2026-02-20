@@ -1173,7 +1173,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a3d429;
+  background: #6bff9f;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2582,7 +2582,7 @@ mjx-container + br {
   text-align: right;
 }
 .text-sizec {
-  font-size: 12px;
+  font-size: 1rem;
 }
 /* 2. 展開區塊 (Details/Summary) */
 details {
@@ -2605,14 +2605,15 @@ summary {
 summary:hover {
   color: #4a90e2;
 }
-/* 3. 答案區 (紅色) */
+/* 答案區（紅色） */
 .red-text {
   color: #e74c3c !important;
   font-weight: bold;
-  padding: 5px 10px;
+  font-size: 1.1rem !important;
+  padding: 5px 0;
   display: block;
 }
-/* 4. 詳解區 (藍色區塊 - 修正語法) */
+/* 詳解區（藍色背景區塊） */
 .blue-text {
   color: #3498db !important;
   background-color: #f7fafc !important;
@@ -2620,6 +2621,8 @@ summary:hover {
   padding: 15px !important;
   border-radius: 8px !important;
   margin-top: 10px !important;
+  font-size: 1.1rem !important;
+  font-weight: 500 !important;
   line-height: 1.8 !important;
   display: block !important;
   overflow-x: auto !important;

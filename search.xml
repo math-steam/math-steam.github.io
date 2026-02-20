@@ -3731,8 +3731,12 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 </div>
 <h1 id="年會考-數學詳解">105年會考-數學詳解</h1>
 <h2 id="第一部分選擇題第1-25-題">第一部分:選擇題(第1 ~ 25 題)</h2>
-<div class="math-item">
-<img src="105_1.png" />
+<section id="section" class="math-item">
+<h3>1.</h3>
+<figure>
+<img src="cap105_1.jpeg" alt="105年會考數學第1題" />
+<figcaption aria-hidden="true">105年會考數學第1題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.85
 </div>
@@ -3755,9 +3759,13 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 <span class="math inline">\(2\times (-3)-3\times 1\neq 6\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_2.png" />
+</section>
+<section id="section-1" class="math-item">
+<h3>2.</h3>
+<figure>
+<img src="cap105_2.jpeg" alt="105年會考數學第2題" />
+<figcaption aria-hidden="true">105年會考數學第2題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.84
 </div>
@@ -3777,9 +3785,13 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 <p>原式 <span class="math inline">\(=6\div6=1\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_3.png" />
+</section>
+<section id="section-2" class="math-item">
+<h3>3.</h3>
+<figure>
+<img src="cap105_3.jpeg" alt="105年會考數學第3題" />
+<figcaption aria-hidden="true">105年會考數學第3題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.70
 </div>
@@ -3800,9 +3812,13 @@ aria-hidden="true">105各科等級加標示人數百分比統計表</figcaption>
 class="math inline">\(=2x^2-x-1-x^2-x+2=x^2-2x+1\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_4.png" />
+</section>
+<section id="section-3" class="math-item">
+<h3>4.</h3>
+<figure>
+<img src="cap105_4.jpeg" alt="105年會考數學第4題" />
+<figcaption aria-hidden="true">105年會考數學第4題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.77
 </div>
@@ -3824,9 +3840,13 @@ class="math inline">\(=2x^2-x-1-x^2-x+2=x^2-2x+1\)</span></p>
 <span class="math inline">\(x=15\pi\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_5.png" />
+</section>
+<section id="section-4" class="math-item">
+<h3>5.</h3>
+<figure>
+<img src="cap105_5.jpeg" alt="105年會考數學第5題" />
+<figcaption aria-hidden="true">105年會考數學第5題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.74
 </div>
@@ -3846,9 +3866,13 @@ class="math inline">\(=2x^2-x-1-x^2-x+2=x^2-2x+1\)</span></p>
 <p>絕對值表示兩點之間的距離</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_6.png" />
+</section>
+<section id="section-5" class="math-item">
+<h3>6.</h3>
+<figure>
+<img src="cap105_6.jpeg" alt="105年會考數學第6題" />
+<figcaption aria-hidden="true">105年會考數學第6題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.65
 </div>
@@ -3870,9 +3894,13 @@ a=-5, b=11, c=6<br />
 a+b+c=12</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_7.png" />
+</section>
+<section id="section-6" class="math-item">
+<h3>7.</h3>
+<figure>
+<img src="cap105_7.jpeg" alt="105年會考數學第7題" />
+<figcaption aria-hidden="true">105年會考數學第7題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.65
 </div>
@@ -3908,9 +3936,13 @@ class="math inline">\(d=7\)</span><br />
 class="math inline">\(c &gt; d\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_8.png" />
+</section>
+<section id="section-7" class="math-item">
+<h3>8.</h3>
+<figure>
+<img src="cap105_8.jpeg" alt="105年會考數學第8題" />
+<figcaption aria-hidden="true">105年會考數學第8題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.64
 </div>
@@ -3933,9 +3965,13 @@ class="math inline">\(c &gt; d\)</span></p>
 35^\circ = 70^\circ\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_9.png" />
+</section>
+<section id="section-8" class="math-item">
+<h3>9.</h3>
+<figure>
+<img src="cap105_9.jpeg" alt="105年會考數學第9題" />
+<figcaption aria-hidden="true">105年會考數學第9題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.71
 </div>
@@ -3964,9 +4000,13 @@ n=51\)</span><br />
 7=351\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_10.png" />
+</section>
+<section id="section-9" class="math-item">
+<h3>10.</h3>
+<figure>
+<img src="cap105_10.jpeg" alt="105年會考數學第10題" />
+<figcaption aria-hidden="true">105年會考數學第10題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.57
 </div>
@@ -4000,9 +4040,13 @@ class="math inline">\(\frac{1}{12}+\frac{1}{12}=\frac{1}{6}\)</span><br />
 class="math inline">\(＝\frac{符合條件的數量}{總數量}=\frac{2}{12}=\frac{1}{6}\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_11.png" />
+</section>
+<section id="section-10" class="math-item">
+<h3>11.</h3>
+<figure>
+<img src="cap105_11.jpeg" alt="105年會考數學第11題" />
+<figcaption aria-hidden="true">105年會考數學第11題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.55
 </div>
@@ -4019,12 +4063,19 @@ class="math inline">\(＝\frac{符合條件的數量}{總數量}=\frac{2}{12}=\f
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="105_11a.png" /></p>
+<figure>
+<img src="cap105_11a.png" alt="105年會考數學第11題詳解" />
+<figcaption aria-hidden="true">105年會考數學第11題詳解</figcaption>
+</figure>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_12.png" />
+</section>
+<section id="section-11" class="math-item">
+<h3>12.</h3>
+<figure>
+<img src="cap105_12.jpeg" alt="105年會考數學第12題" />
+<figcaption aria-hidden="true">105年會考數學第12題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.46
 </div>
@@ -4041,7 +4092,8 @@ class="math inline">\(＝\frac{符合條件的數量}{總數量}=\frac{2}{12}=\f
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="105_12a.png" /> 中垂線上任一點到兩端點等距離<br />
+<p><img src="cap105_12a.png" alt="105年會考數學第12題詳解" />
+中垂線上任一點到兩端點等距離<br />
 <span class="math inline">\(\Rightarrow
 \overline{DC}=\overline{DB}\)</span><br />
 <span
@@ -4054,9 +4106,13 @@ class="math inline">\(\angle{DBE}=\angle{DCE}=\angle1\)</span><br />
 62^\circ\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_13.png" />
+</section>
+<section id="section-12" class="math-item">
+<h3>13.</h3>
+<figure>
+<img src="cap105_13.jpeg" alt="105年會考數學第13題" />
+<figcaption aria-hidden="true">105年會考數學第13題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.55
 </div>
@@ -4082,9 +4138,13 @@ x^2=320\)</span><br />
 x &lt; 18\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_14.png" />
+</section>
+<section id="section-13" class="math-item">
+<h3>14.</h3>
+<figure>
+<img src="cap105_14.jpeg" alt="105年會考數學第14題" />
+<figcaption aria-hidden="true">105年會考數學第14題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.52
 </div>
@@ -4101,7 +4161,7 @@ x &lt; 18\)</span></p>
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="105_14a.png" /><br />
+<p><img src="cap105_14a.png" alt="105年會考數學第14題詳解" /><br />
 連 <span class="math inline">\(\overline{OB}\)</span>、<span
 class="math inline">\(\overline{OC}\)</span><br />
 <span class="math inline">\(\overline{OA}=\overline{OB}\Rightarrow
@@ -4116,9 +4176,13 @@ BOC+\angle2\)</span><br />
 = 40^\circ\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_15.png" />
+</section>
+<section id="section-14" class="math-item">
+<h3>15.</h3>
+<figure>
+<img src="cap105_15.jpeg" alt="105年會考數學第15題" />
+<figcaption aria-hidden="true">105年會考數學第15題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.43
 </div>
@@ -4144,9 +4208,13 @@ BOC+\angle2\)</span><br />
 <span class="math inline">\(4+2\sqrt 3\)</span> 不合</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_16.png" />
+</section>
+<section id="section-15" class="math-item">
+<h3>16.</h3>
+<figure>
+<img src="cap105_16.jpeg" alt="105年會考數學第16題" />
+<figcaption aria-hidden="true">105年會考數學第16題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.46
 </div>
@@ -4163,7 +4231,7 @@ BOC+\angle2\)</span><br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="105_16a.png" /><br />
+<p><img src="cap105_16a.png" alt="105年會考數學第16題詳解" /><br />
 <span
 class="math inline">\(\overline{AP}:\overline{PD}=\overline{AQ}:\overline{QE}=4:1\)</span><br />
 <span class="math inline">\(\Rightarrow
@@ -4177,9 +4245,13 @@ class="math inline">\(\overline{RC}=\frac15\overline{AC}\)</span><br />
 \overline{QE}&lt;\overline{RC}\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_17.png" />
+</section>
+<section id="section-16" class="math-item">
+<h3>17.</h3>
+<figure>
+<img src="cap105_17.jpeg" alt="105年會考數學第17題" />
+<figcaption aria-hidden="true">105年會考數學第17題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.47
 </div>
@@ -4204,9 +4276,13 @@ class="math inline">\(a=72\)</span><br />
 class="math inline">\(b\)</span> 的因數</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_18.png" />
+</section>
+<section id="section-17" class="math-item">
+<h3>18.</h3>
+<figure>
+<img src="cap105_18.jpeg" alt="105年會考數學第18題" />
+<figcaption aria-hidden="true">105年會考數學第18題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.36
 </div>
@@ -4231,9 +4307,13 @@ class="math inline">\(r\)</span><br />
 \pi(2r)^2=9\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_19.png" />
+</section>
+<section id="section-18" class="math-item">
+<h3>19.</h3>
+<figure>
+<img src="cap105_19.jpeg" alt="105年會考數學第19題" />
+<figcaption aria-hidden="true">105年會考數學第19題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.36
 </div>
@@ -4258,9 +4338,13 @@ x&gt;516.67\)</span><br />
 <span class="math inline">\(x=517\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_20.png" />
+</section>
+<section id="section-19" class="math-item">
+<h3>20.</h3>
+<figure>
+<img src="cap105_20.jpeg" alt="105年會考數學第20題" />
+<figcaption aria-hidden="true">105年會考數學第20題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.39
 </div>
@@ -4277,7 +4361,7 @@ x&gt;516.67\)</span><br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="105_20a.png" /><br />
+<p><img src="cap105_20a.png" alt="105年會考數學第20題詳解" /><br />
 連 <span class="math inline">\(\overline{CE}\)</span><br />
 <span
 class="math inline">\(\overline{CE}=\overline{CD}=\frac{17}{3}\)</span><br />
@@ -4291,9 +4375,13 @@ class="math inline">\(\overline{BF}=\overline{AB}-\overline{AF}=\frac{17}{3}-5=\
 class="math inline">\(\overline{EF}=\overline{BE}-\overline{BF}=\frac83-\frac23=2\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_21.png" />
+</section>
+<section id="section-20" class="math-item">
+<h3>21.</h3>
+<figure>
+<img src="cap105_21.jpeg" alt="105年會考數學第21題" />
+<figcaption aria-hidden="true">105年會考數學第21題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.47
 </div>
@@ -4334,9 +4422,13 @@ class="math inline">\(d=\frac{1}{9}(-3-2)^2-1\Rightarrow
 d=\frac{16}{9}\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_22.png" />
+</section>
+<section id="section-21" class="math-item">
+<h3>22.</h3>
+<figure>
+<img src="cap105_22.jpeg" alt="105年會考數學第22題" />
+<figcaption aria-hidden="true">105年會考數學第22題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.38
 </div>
@@ -4367,9 +4459,13 @@ class="math inline">\(\triangle CDE\)</span>為等腰三角形）<br />
 兩直徑的交點為圓心</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_23.png" />
+</section>
+<section id="section-22" class="math-item">
+<h3>23.</h3>
+<figure>
+<img src="cap105_23.jpeg" alt="105年會考數學第23題" />
+<figcaption aria-hidden="true">105年會考數學第23題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.50
 </div>
@@ -4386,7 +4482,7 @@ class="math inline">\(\triangle CDE\)</span>為等腰三角形）<br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="105_23a.png" /><br />
+<p><img src="cap105_23a.png" alt="105年會考數學第23題詳解" /><br />
 <span class="math inline">\(\triangle ACF\)</span> 為 30-60-90
 直角三角形<br />
 <span class="math inline">\(\overline{AF}=2\)</span>，<span
@@ -4400,9 +4496,13 @@ class="math inline">\(r\)</span><br />
 <span class="math inline">\(\overline{PQ}=2r=2\sqrt 3-2\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_24.png" />
+</section>
+<section id="section-23" class="math-item">
+<h3>24.</h3>
+<figure>
+<img src="cap105_24.jpeg" alt="105年會考數學第24題" />
+<figcaption aria-hidden="true">105年會考數學第24題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.37
 </div>
@@ -4419,7 +4519,7 @@ class="math inline">\(r\)</span><br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="105_24a.png" /><br />
+<p><img src="cap105_24a.png" alt="105年會考數學第24題詳解" /><br />
 如圖，切為三段：<span
 class="math inline">\(\overline{OA}\)</span>、<span
 class="math inline">\(\overline{AA&#39;}\)</span>，<span
@@ -4436,9 +4536,13 @@ class="math inline">\(\overline{A&#39;P}=\overline{BP}-\overline{BA&#39;}=\frac5
 class="math inline">\(\overline{OA}:\overline{AA&#39;}:\overline{A&#39;P}=\frac14\overline{OP}:\frac14\overline{OP}:\frac12\overline{OP}=1:1:2\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_25.png" />
+</section>
+<section id="section-24" class="math-item">
+<h3>25.</h3>
+<figure>
+<img src="cap105_25.jpeg" alt="105年會考數學第25題" />
+<figcaption aria-hidden="true">105年會考數學第25題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.33
 </div>
@@ -4468,10 +4572,14 @@ class="math inline">\(\overline{CD}=24,\overline{CE}&gt;\overline{CD}\)</span>)�
 class="math inline">\(\overline{FA}=32-7=25=\overline{FC}\)</span>(合)</p>
 </div>
 </details>
-</div>
+</section>
 <h2 id="第二部分非選擇題第1-2-題">第二部分:非選擇題(第1 ~ 2 題)</h2>
-<div class="math-item">
-<img src="105_26.png" />
+<section id="section-25" class="math-item">
+<h3>1.</h3>
+<figure>
+<img src="cap105_26.jpeg" alt="105年會考數學非選第1題" />
+<figcaption aria-hidden="true">105年會考數學非選第1題</figcaption>
+</figure>
 <details>
 <summary>
 <span class="text-sizec">答案</span>
@@ -4499,17 +4607,21 @@ C=90^\circ\)</span><br />
 \overline{CD}=2\overline{AD}=2\overline{BD}\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="105_27.png" />
+</section>
+<section id="section-26" class="math-item">
+<h3>2.</h3>
+<figure>
+<img src="cap105_27.jpeg" alt="105年會考數學非選第2題" />
+<figcaption aria-hidden="true">105年會考數學非選第2題</figcaption>
+</figure>
 <details>
 <summary>
 <span class="text-sizec">答案</span>
 </summary>
 <div class="red-text text-sizec">
 <p><span class="math inline">\((1)\)</span> <span
-class="math inline">\(x^2\)</span> <span
-class="math inline">\((2)\)</span> 4</p>
+class="math inline">\(x^2\)</span><br />
+<span class="math inline">\((2)\)</span> 4</p>
 </div>
 </details>
 <details>
@@ -4531,7 +4643,7 @@ CPR\)</span><br />
 <span class="math inline">\(x=4\)</span> 時有最大值 120平方公分</p>
 </div>
 </details>
-</div>
+</section>
 ]]></content>
       <categories>
         <category>國中會考</category>
@@ -4602,8 +4714,12 @@ href="https://cap.rcpet.edu.tw/exam/106/106reply_M.pdf">106年國中教育會考
 </div>
 <h1 id="年會考-數學詳解">106年會考-數學詳解</h1>
 <h2 id="第一部分選擇題第1-26-題">第一部分:選擇題(第1 ~ 26 題)</h2>
-<div class="math-item">
-<img src="106_1.png" />
+<section id="section" class="math-item">
+<h3>1.</h3>
+<figure>
+<img src="cap106_1.jpeg" alt="106年會考數學第1題" />
+<figcaption aria-hidden="true">106年會考數學第1題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.79
 </div>
@@ -4624,9 +4740,13 @@ href="https://cap.rcpet.edu.tw/exam/106/106reply_M.pdf">106年國中教育會考
 <span class="math inline">\(=(-2)\times 5-3=-10-3=-13\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_2.png" />
+</section>
+<section id="section-1" class="math-item">
+<h3>2.</h3>
+<figure>
+<img src="cap106_2.jpeg" alt="106年會考數學第2題" />
+<figcaption aria-hidden="true">106年會考數學第2題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.88
 </div>
@@ -4650,9 +4770,13 @@ href="https://cap.rcpet.edu.tw/exam/106/106reply_M.pdf">106年國中教育會考
 <span class="math inline">\(5^5\neq 5^2\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_3.png" />
+</section>
+<section id="section-2" class="math-item">
+<h3>3.</h3>
+<figure>
+<img src="cap106_3.jpeg" alt="106年會考數學第3題" />
+<figcaption aria-hidden="true">106年會考數學第3題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.80
 </div>
@@ -4675,9 +4799,13 @@ href="https://cap.rcpet.edu.tw/exam/106/106reply_M.pdf">106年國中教育會考
 <span class="math inline">\(=-12x^2+18x\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_4.png" />
+</section>
+<section id="section-3" class="math-item">
+<h3>4.</h3>
+<figure>
+<img src="cap106_4.jpeg" alt="106年會考數學第4題" />
+<figcaption aria-hidden="true">106年會考數學第4題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.80
 </div>
@@ -4697,9 +4825,13 @@ href="https://cap.rcpet.edu.tw/exam/106/106reply_M.pdf">106年國中教育會考
 <p>略</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_5.png" />
+</section>
+<section id="section-4" class="math-item">
+<h3>5.</h3>
+<figure>
+<img src="cap106_5.jpeg" alt="106年會考數學第5題" />
+<figcaption aria-hidden="true">106年會考數學第5題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.78
 </div>
@@ -4728,9 +4860,13 @@ class="math inline">\(3x-2y=b\)</span><br />
 <span class="math inline">\(a+b=1+4=5\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_6.png" />
+</section>
+<section id="section-5" class="math-item">
+<h3>6.</h3>
+<figure>
+<img src="cap106_6.jpeg" alt="106年會考數學第6題" />
+<figcaption aria-hidden="true">106年會考數學第6題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.68
 </div>
@@ -4757,9 +4893,13 @@ class="math inline">\(=\frac{符合條件個數}{總個數}\)</span><br />
 class="math inline">\(=\frac{5}{25}=\frac{1}{5}\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_7.png" />
+</section>
+<section id="section-6" class="math-item">
+<h3>7.</h3>
+<figure>
+<img src="cap106_7.jpeg" alt="106年會考數學第7題" />
+<figcaption aria-hidden="true">106年會考數學第7題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.67
 </div>
@@ -4785,9 +4925,13 @@ class="math inline">\(C\)</span> 外離<br />
 class="math inline">\(C\)</span> 外切</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_8.png" />
+</section>
+<section id="section-7" class="math-item">
+<h3>8.</h3>
+<figure>
+<img src="cap106_8.jpeg" alt="106年會考數學第8題" />
+<figcaption aria-hidden="true">106年會考數學第8題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.52
 </div>
@@ -4811,9 +4955,13 @@ class="math inline">\(C\)</span> 外切</p>
 只有 <span class="math inline">\((A)\)</span> 符合</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_9.png" />
+</section>
+<section id="section-8" class="math-item">
+<h3>9.</h3>
+<figure>
+<img src="cap106_9.jpeg" alt="106年會考數學第9題" />
+<figcaption aria-hidden="true">106年會考數學第9題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.59
 </div>
@@ -4845,9 +4993,13 @@ class="math inline">\(8\)</span> 公分)<br />
 <span class="math inline">\(\Rightarrow 178+8=186\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_10.png" />
+</section>
+<section id="section-9" class="math-item">
+<h3>10.</h3>
+<figure>
+<img src="cap106_10.jpeg" alt="106年會考數學第10題" />
+<figcaption aria-hidden="true">106年會考數學第10題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.73
 </div>
@@ -4870,9 +5022,13 @@ x=\frac{250}{9}\)</span><br />
 <span class="math inline">\(x=27\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_11.png" />
+</section>
+<section id="section-10" class="math-item">
+<h3>11.</h3>
+<figure>
+<img src="cap106_11.jpeg" alt="106年會考數學第11題" />
+<figcaption aria-hidden="true">106年會考數學第11題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.51
 </div>
@@ -4903,9 +5059,13 @@ ABC\)</span><br />
 ADC=\frac{9}{25}:\frac{2}{5}=9:10\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_12.png" />
+</section>
+<section id="section-11" class="math-item">
+<h3>12.</h3>
+<figure>
+<img src="cap106_12.jpeg" alt="106年會考數學第12題" />
+<figcaption aria-hidden="true">106年會考數學第12題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.49
 </div>
@@ -4929,9 +5089,13 @@ ADC=\frac{9}{25}:\frac{2}{5}=9:10\)</span></p>
 <span class="math inline">\(a+b=4+16=20\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_13.png" />
+</section>
+<section id="section-12" class="math-item">
+<h3>13.</h3>
+<figure>
+<img src="cap106_13.jpeg" alt="106年會考數學第13題" />
+<figcaption aria-hidden="true">106年會考數學第13題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.64
 </div>
@@ -4948,15 +5112,19 @@ ADC=\frac{9}{25}:\frac{2}{5}=9:10\)</span></p>
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="106_13a.png" /><br />
+<p><img src="cap106_13a.png" alt="106年會考數學第13題詳解" /><br />
 <span class="math inline">\(\overline{AB}=2=\overline{CD}\)</span><br />
 <span class="math inline">\(C&#39;(3,0)\Rightarrow
 D&#39;(3,2)\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_14.png" />
+</section>
+<section id="section-13" class="math-item">
+<h3>14.</h3>
+<figure>
+<img src="cap106_14.jpeg" alt="106年會考數學第14題" />
+<figcaption aria-hidden="true">106年會考數學第14題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.62
 </div>
@@ -4982,9 +5150,13 @@ class="math inline">\(88^{\circ}\)</span><br />
 class="math inline">\(88^{\circ}\)</span>，所以平行。</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_15.png" />
+</section>
+<section id="section-14" class="math-item">
+<h3>15.</h3>
+<figure>
+<img src="cap106_15.jpeg" alt="106年會考數學第15題" />
+<figcaption aria-hidden="true">106年會考數學第15題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.53
 </div>
@@ -5011,9 +5183,13 @@ x=\frac{4}{3}y\)</span><br />
 可以買 <span class="math inline">\(8\)</span> 粒韭菜水餃</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_16.png" />
+</section>
+<section id="section-15" class="math-item">
+<h3>16.</h3>
+<figure>
+<img src="cap106_16.jpeg" alt="106年會考數學第16題" />
+<figcaption aria-hidden="true">106年會考數學第16題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.56
 </div>
@@ -5030,7 +5206,7 @@ x=\frac{4}{3}y\)</span><br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="106_16a.png" /><br />
+<p><img src="cap106_16a.png" alt="106年會考數學第16題詳解" /><br />
 由圖（五）可知<br />
 <span
 class="math inline">\(\angle1+\angle2=180^{\circ}-124^{\circ}=56^{\circ}\)</span><br />
@@ -5039,9 +5215,13 @@ class="math inline">\(\angle1+\angle2=180^{\circ}-124^{\circ}=56^{\circ}\)</span
 CAD=180^{\circ}-2(\angle1+\angle2)=180^{\circ}-2\times56^{\circ}=68^{\circ}\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_17.png" />
+</section>
+<section id="section-16" class="math-item">
+<h3>17.</h3>
+<figure>
+<img src="cap106_17.jpeg" alt="106年會考數學第17題" />
+<figcaption aria-hidden="true">106年會考數學第17題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.49
 </div>
@@ -5064,9 +5244,13 @@ class="math inline">\(ab+1=a(a+2)+1=a^2+2a+1=(a+1)^2\)</span><br />
 <span class="math inline">\(a+1\)</span> 為質數+1，只有 42符合</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_18.png" />
+</section>
+<section id="section-17" class="math-item">
+<h3>18.</h3>
+<figure>
+<img src="cap106_18.jpeg" alt="106年會考數學第18題" />
+<figcaption aria-hidden="true">106年會考數學第18題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.43
 </div>
@@ -5097,9 +5281,13 @@ class="math inline">\(\triangle AEB\)</span> 的外心<br />
 <span class="math inline">\(\triangle AED\)</span> 的外心</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_19.png" />
+</section>
+<section id="section-18" class="math-item">
+<h3>19.</h3>
+<figure>
+<img src="cap106_19.jpeg" alt="106年會考數學第19題" />
+<figcaption aria-hidden="true">106年會考數學第19題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.40
 </div>
@@ -5116,7 +5304,7 @@ class="math inline">\(\triangle AEB\)</span> 的外心<br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="106_19a.png" /><br />
+<p><img src="cap106_19a.png" alt="106年會考數學第19題詳解" /><br />
 <span class="math inline">\(\angle1+\angle5=180^{\circ}\)</span><br />
 <span class="math inline">\(\angle2+\angle5=180^{\circ}\)</span><br />
 <span class="math inline">\(\Rightarrow \angle1=\angle2\)</span><br />
@@ -5132,9 +5320,13 @@ class="math inline">\(\triangle AEB\)</span> 的外心<br />
 2\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_20.png" />
+</section>
+<section id="section-19" class="math-item">
+<h3>20.</h3>
+<figure>
+<img src="cap106_20.jpeg" alt="106年會考數學第20題" />
+<figcaption aria-hidden="true">106年會考數學第20題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.49
 </div>
@@ -5158,9 +5350,13 @@ class="math inline">\(\triangle AEB\)</span> 的外心<br />
 10^6=2\times 10^7\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_21.png" />
+</section>
+<section id="section-20" class="math-item">
+<h3>21.</h3>
+<figure>
+<img src="cap106_21.jpeg" alt="106年會考數學第21題" />
+<figcaption aria-hidden="true">106年會考數學第21題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.45
 </div>
@@ -5177,7 +5373,7 @@ class="math inline">\(\triangle AEB\)</span> 的外心<br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="106_21a.png" /><br />
+<p><img src="cap106_21a.png" alt="106年會考數學第21題詳解" /><br />
 <span class="math inline">\(\angle1=90^{\circ}+\angle
 B=90^{\circ}+30^{\circ}=120^{\circ}\)</span> (外角定理)<br />
 <span
@@ -5201,9 +5397,13 @@ class="math inline">\(=\overline{AE}+\overline{EF}+\overline{FC}+\overline{CA}\)
 <span class="math inline">\(=2\sqrt3\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_22.png" />
+</section>
+<section id="section-21" class="math-item">
+<h3>22.</h3>
+<figure>
+<img src="cap106_22.jpeg" alt="106年會考數學第22題" />
+<figcaption aria-hidden="true">106年會考數學第22題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.37
 </div>
@@ -5237,9 +5437,13 @@ class="math inline">\((-1,0),(15,0)\)</span><br />
 class="math inline">\(x=3\)</span> 為向左平移 4 單位</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_23.png" />
+</section>
+<section id="section-22" class="math-item">
+<h3>23.</h3>
+<figure>
+<img src="cap106_23.jpeg" alt="106年會考數學第23題" />
+<figcaption aria-hidden="true">106年會考數學第23題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.38
 </div>
@@ -5263,9 +5467,13 @@ class="math inline">\(x=3\)</span> 為向左平移 4 單位</p>
 阿輝買了 <span class="math inline">\(880\div 40=22\)</span> 杯</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_24.png" />
+</section>
+<section id="section-23" class="math-item">
+<h3>24.</h3>
+<figure>
+<img src="cap106_24.jpeg" alt="106年會考數學第24題" />
+<figcaption aria-hidden="true">106年會考數學第24題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.49
 </div>
@@ -5296,9 +5504,13 @@ class="math inline">\(x=3\)</span> 為向左平移 4 單位</p>
 x=44\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_25.png" />
+</section>
+<section id="section-24" class="math-item">
+<h3>25.</h3>
+<figure>
+<img src="cap106_25.jpeg" alt="106年會考數學第25題" />
+<figcaption aria-hidden="true">106年會考數學第25題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.38
 </div>
@@ -5323,9 +5535,13 @@ x=44\)</span></p>
 第4次為 0.1</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_26.png" />
+</section>
+<section id="section-25" class="math-item">
+<h3>26.</h3>
+<figure>
+<img src="cap106_26.jpeg" alt="106年會考數學第26題" />
+<figcaption aria-hidden="true">106年會考數學第26題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.33
 </div>
@@ -5342,7 +5558,7 @@ x=44\)</span></p>
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="106_26a.png" /><br />
+<p><img src="cap106_26a.png" alt="106年會考數學第26題詳解" /><br />
 正方形 <span class="math inline">\(ABCD\)</span> 面積為 <span
 class="math inline">\(16\)</span>，邊長為 <span
 class="math inline">\(4\)</span><br />
@@ -5366,10 +5582,14 @@ class="math inline">\(ABCD-\triangle ABR-\triangle DRS\)</span><br />
 \frac{77}{8}\)</span></p>
 </div>
 </details>
-</div>
+</section>
 <h2 id="第二部分非選擇題第1-2-題">第二部分:非選擇題(第1 ~ 2 題)</h2>
-<div class="math-item">
-<img src="106_27.png" />
+<section id="section-26" class="math-item">
+<h3>1.</h3>
+<figure>
+<img src="cap106_27.jpeg" alt="106年會考數學非選第1題" />
+<figcaption aria-hidden="true">106年會考數學非選第1題</figcaption>
+</figure>
 <details>
 <summary>
 <span class="text-sizec">答案</span>
@@ -5398,9 +5618,13 @@ class="math inline">\(583+250＝833\)</span>，大於乙、丙得票數，因此
 class="math inline">\(337+250＝587\)</span>，小於丙得票數，因此乙沒有機會當選。</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="106_28.png" />
+</section>
+<section id="section-27" class="math-item">
+<h3>2.</h3>
+<figure>
+<img src="cap106_28.jpeg" alt="106年會考數學非選第2題" />
+<figcaption aria-hidden="true">106年會考數學非選第2題</figcaption>
+</figure>
 <details>
 <summary>
 <span class="text-sizec">答案</span>
@@ -5435,7 +5659,7 @@ COD=90^{\circ}\)</span><br />
 COD(SAS)\)</span></p>
 </div>
 </details>
-</div>
+</section>
 ]]></content>
       <categories>
         <category>國中會考</category>
@@ -5511,7 +5735,10 @@ href="https://cap.rcpet.edu.tw/exam/107/107%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%
 <h1 id="年會考-數學詳解">107年會考-數學詳解</h1>
 <h2 id="第一部分選擇題第1-26-題">第一部分:選擇題(第1 ~ 26 題)</h2>
 <div class="math-item">
-<img src="107_1.png" />
+<figure>
+<img src="cap107_1.jpeg" alt="107年會考數學第1題" />
+<figcaption aria-hidden="true">107年會考數學第1題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.92
 </div>
@@ -5534,7 +5761,10 @@ href="https://cap.rcpet.edu.tw/exam/107/107%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%
 </details>
 </div>
 <div class="math-item">
-<img src="107_2.png" />
+<figure>
+<img src="cap107_2.jpeg" alt="107年會考數學第2題" />
+<figcaption aria-hidden="true">107年會考數學第2題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.75
 </div>
@@ -5563,7 +5793,10 @@ class="math inline">\(c=\frac{3}{14}-\frac{2}{15}-\frac{1}{16}\)</span><br />
 </details>
 </div>
 <div class="math-item">
-<img src="107_3.png" />
+<figure>
+<img src="cap107_3.jpeg" alt="107年會考數學第3題" />
+<figcaption aria-hidden="true">107年會考數學第3題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.80
 </div>
@@ -5586,7 +5819,10 @@ class="math inline">\(c=\frac{3}{14}-\frac{2}{15}-\frac{1}{16}\)</span><br />
 </details>
 </div>
 <div class="math-item">
-<img src="107_4.png" />
+<figure>
+<img src="cap107_4.jpeg" alt="107年會考數學第4題" />
+<figcaption aria-hidden="true">107年會考數學第4題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.79
 </div>
@@ -5617,7 +5853,10 @@ class="math inline">\(c=\frac{3}{14}-\frac{2}{15}-\frac{1}{16}\)</span><br />
 </details>
 </div>
 <div class="math-item">
-<img src="107_5.png" />
+<figure>
+<img src="cap107_5.jpeg" alt="107年會考數學第5題" />
+<figcaption aria-hidden="true">107年會考數學第5題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.71
 </div>
@@ -5643,7 +5882,10 @@ class="math inline">\(c=\frac{3}{14}-\frac{2}{15}-\frac{1}{16}\)</span><br />
 </details>
 </div>
 <div class="math-item">
-<img src="107_6.png" />
+<figure>
+<img src="cap107_6.jpeg" alt="107年會考數學第6題" />
+<figcaption aria-hidden="true">107年會考數學第6題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.73
 </div>
@@ -5674,7 +5916,10 @@ class="math inline">\(=\frac{2}{10}=\frac{1}{5}\)</span></p>
 </details>
 </div>
 <div class="math-item">
-<img src="107_7.png" />
+<figure>
+<img src="cap107_7.jpeg" alt="107年會考數學第7題" />
+<figcaption aria-hidden="true">107年會考數學第7題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.62
 </div>
@@ -5700,7 +5945,10 @@ class="math inline">\(=\frac{2}{10}=\frac{1}{5}\)</span></p>
 </details>
 </div>
 <div class="math-item">
-<img src="107_8.png" />
+<figure>
+<img src="cap107_8.jpeg" alt="107年會考數學第8題" />
+<figcaption aria-hidden="true">107年會考數學第8題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.65
 </div>
@@ -5725,7 +5973,10 @@ class="math inline">\(=\frac{2}{10}=\frac{1}{5}\)</span></p>
 </details>
 </div>
 <div class="math-item">
-<img src="107_9.png" />
+<figure>
+<img src="cap107_9.jpeg" alt="107年會考數學第9題" />
+<figcaption aria-hidden="true">107年會考數學第9題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.71
 </div>
@@ -5753,7 +6004,10 @@ C=180^{\circ}-60^{\circ}-100^{\circ}=20^{\circ}\)</span><br />
 </details>
 </div>
 <div class="math-item">
-<img src="107_10.png" />
+<figure>
+<img src="cap107_10.jpeg" alt="107年會考數學第10題" />
+<figcaption aria-hidden="true">107年會考數學第10題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.69
 </div>
@@ -5778,7 +6032,10 @@ C=180^{\circ}-60^{\circ}-100^{\circ}=20^{\circ}\)</span><br />
 </details>
 </div>
 <div class="math-item">
-<img src="107_11.png" />
+<figure>
+<img src="cap107_11.jpeg" alt="107年會考數學第11題" />
+<figcaption aria-hidden="true">107年會考數學第11題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.66
 </div>
@@ -5795,7 +6052,8 @@ C=180^{\circ}-60^{\circ}-100^{\circ}=20^{\circ}\)</span><br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="107_11a.png" /> 三角形全等性質：SSS<br />
+<p><img src="cap107_11a.png" alt="107年會考數學第11題詳解" />
+三角形全等性質：SSS<br />
 <span class="math inline">\(n\)</span> 邊形內角和<span
 class="math inline">\(=(n-2)\times 180^{\circ}\)</span><br />
 <span class="math inline">\(\overline{AB}=\overline{DE},
@@ -5820,7 +6078,10 @@ class="math inline">\(\angle{BAE}=\angle1+60^{\circ}+\angle2=65^{\circ}+60^{\cir
 </details>
 </div>
 <div class="math-item">
-<img src="107_12.png" />
+<figure>
+<img src="cap107_12.jpeg" alt="107年會考數學第12題" />
+<figcaption aria-hidden="true">107年會考數學第12題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.58
 </div>
@@ -5846,7 +6107,10 @@ a=-b\)</span><br />
 </details>
 </div>
 <div class="math-item">
-<img src="107_13.png" />
+<figure>
+<img src="cap107_13.jpeg" alt="107年會考數學第13題" />
+<figcaption aria-hidden="true">107年會考數學第13題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.50
 </div>
@@ -5872,7 +6136,10 @@ x=134\)</span></p>
 </details>
 </div>
 <div class="math-item">
-<img src="107_14.png" />
+<figure>
+<img src="cap107_14.jpeg" alt="107年會考數學第14題" />
+<figcaption aria-hidden="true">107年會考數學第14題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.49
 </div>
@@ -5889,7 +6156,7 @@ x=134\)</span></p>
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="107_14a.png" /><br />
+<p><img src="cap107_14a.png" alt="107年會考數學第14題詳解" /><br />
 內心為內角平分線的交點<br />
 <span class="math inline">\(\angle{BAC}=180^{\circ}-\angle B-\angle
 C=180^{\circ}-44^{\circ}-56^{\circ}=80^{\circ}\)</span><br />
@@ -5903,7 +6170,10 @@ class="math inline">\(\angle{AID}=\angle1+\angle4=62^{\circ}+112^{\circ}=174^{\c
 </details>
 </div>
 <div class="math-item">
-<img src="107_15.png" />
+<figure>
+<img src="cap107_15.jpeg" alt="107年會考數學第15題" />
+<figcaption aria-hidden="true">107年會考數學第15題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.62
 </div>
@@ -5925,7 +6195,10 @@ class="math inline">\(\angle{AID}=\angle1+\angle4=62^{\circ}+112^{\circ}=174^{\c
 </details>
 </div>
 <div class="math-item">
-<img src="107_16.png" />
+<figure>
+<img src="cap107_16.jpeg" alt="107年會考數學第16題" />
+<figcaption aria-hidden="true">107年會考數學第16題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.53
 </div>
@@ -5963,7 +6236,10 @@ class="math inline">\(&gt;50\)</span>, 所以不合。</p>
 </details>
 </div>
 <div class="math-item">
-<img src="107_17.png" />
+<figure>
+<img src="cap107_17.jpeg" alt="107年會考數學第17題" />
+<figcaption aria-hidden="true">107年會考數學第17題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.59
 </div>
@@ -5991,7 +6267,10 @@ class="math inline">\(&gt;50\)</span>, 所以不合。</p>
 </details>
 </div>
 <div class="math-item">
-<img src="107_18.png" />
+<figure>
+<img src="cap107_18.jpeg" alt="107年會考數學第18題" />
+<figcaption aria-hidden="true">107年會考數學第18題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.48
 </div>
@@ -6008,7 +6287,7 @@ class="math inline">\(&gt;50\)</span>, 所以不合。</p>
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="107_18a.png" /><br />
+<p><img src="cap107_18a.png" alt="107年會考數學第18題詳解" /><br />
 $(甲) <span
 class="math inline">\(\overline{BC}&gt;\overline{AB}&gt;\overline{AC}\Rightarrow
 \angle A&gt;\angle C&gt;\angle B\)</span><br />
@@ -6028,7 +6307,10 @@ B-\angle C=180^{\circ}\)</span><br />
 </details>
 </div>
 <div class="math-item">
-<img src="107_19.png" />
+<figure>
+<img src="cap107_19.jpeg" alt="107年會考數學第19題" />
+<figcaption aria-hidden="true">107年會考數學第19題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.61
 </div>
@@ -6045,7 +6327,7 @@ B-\angle C=180^{\circ}\)</span><br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="107_19a.png" /><br />
+<p><img src="cap107_19a.png" alt="107年會考數學第19題詳解" /><br />
 由圖可知<br />
 甲班的 <span class="math inline">\(Q2\)</span> 在 <span
 class="math inline">\(80\)</span> 分以上<span
@@ -6062,7 +6344,10 @@ class="math inline">\(75\%\Rightarrow d\leq 25%\)</span>。<br />
 </details>
 </div>
 <div class="math-item">
-<img src="107_20.png" />
+<figure>
+<img src="cap107_20.jpeg" alt="107年會考數學第20題" />
+<figcaption aria-hidden="true">107年會考數學第20題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.44
 </div>
@@ -6079,7 +6364,7 @@ class="math inline">\(75\%\Rightarrow d\leq 25%\)</span>。<br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="107_20a.png" /><br />
+<p><img src="cap107_20a.png" alt="107年會考數學第20題詳解" /><br />
 摺線為對稱軸<br />
 三角形三內角為 <span
 class="math inline">\(30^{\circ},60^{\circ},90^{\circ}\Rightarrow\)</span>
@@ -6099,7 +6384,10 @@ class="math inline">\(30^{\circ},60^{\circ},90^{\circ}\Rightarrow\)</span>
 </details>
 </div>
 <div class="math-item">
-<img src="107_21.png" />
+<figure>
+<img src="cap107_21.jpeg" alt="107年會考數學第21題" />
+<figcaption aria-hidden="true">107年會考數學第21題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.38
 </div>
@@ -6131,7 +6419,10 @@ class="math inline">\(y=-2x^2+b \Rightarrow
 </details>
 </div>
 <div class="math-item">
-<img src="107_22.png" />
+<figure>
+<img src="cap107_22.jpeg" alt="107年會考數學第22題" />
+<figcaption aria-hidden="true">107年會考數學第22題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.42
 </div>
@@ -6148,7 +6439,7 @@ class="math inline">\(y=-2x^2+b \Rightarrow
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="107_22a.png" /><br />
+<p><img src="cap107_22a.png" alt="107年會考數學第22題詳解" /><br />
 <span class="math inline">\(L\)</span> 上取兩點 <span
 class="math inline">\(M\)</span>、<span
 class="math inline">\(N\)</span>，如圖。<br />
@@ -6171,7 +6462,10 @@ PBD\)</span></p>
 </details>
 </div>
 <div class="math-item">
-<img src="107_23.png" />
+<figure>
+<img src="cap107_23.jpeg" alt="107年會考數學第23題" />
+<figcaption aria-hidden="true">107年會考數學第23題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.51
 </div>
@@ -6201,7 +6495,10 @@ class="math inline">\(\frac{9}{2}m\)</span>，其它沒變</p>
 </details>
 </div>
 <div class="math-item">
-<img src="107_24.png" />
+<figure>
+<img src="cap107_24.jpeg" alt="107年會考數學第24題" />
+<figcaption aria-hidden="true">107年會考數學第24題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.37
 </div>
@@ -6232,7 +6529,10 @@ FGH=3^2:2^2=9:4\)</span></p>
 </details>
 </div>
 <div class="math-item">
-<img src="107_25.png" />
+<figure>
+<img src="cap107_25.jpeg" alt="107年會考數學第25題" />
+<figcaption aria-hidden="true">107年會考數學第25題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.37
 </div>
@@ -6262,7 +6562,10 @@ class="math inline">\(=10x+600-10x=600\)</span> 元</p>
 </details>
 </div>
 <div class="math-item">
-<img src="107_26.png" />
+<figure>
+<img src="cap107_26.jpeg" alt="107年會考數學第26題" />
+<figcaption aria-hidden="true">107年會考數學第26題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.32
 </div>
@@ -6279,7 +6582,7 @@ class="math inline">\(=10x+600-10x=600\)</span> 元</p>
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="107_26a.png" /><br />
+<p><img src="cap107_26a.png" alt="107年會考數學第26題詳解" /><br />
 弦心距必垂直平分此弦<br />
 三角形相似性質：AA相似<br />
 <span class="math inline">\(\angle{BDC}=\angle{AOB}=90^\circ, \angle
@@ -6300,13 +6603,18 @@ B=\angle B\)</span><br />
 <h2 id="第二部分非選擇題-第-1-2-題">第二部分:非選擇題 ( 第 1 ~ 2 題
 )</h2>
 <div class="math-item">
-<img src="107_27.png" />
+<figure>
+<img src="cap107_27.jpeg" alt="107年會考數學非選第1題" />
+<figcaption aria-hidden="true">107年會考數學非選第1題</figcaption>
+</figure>
 <details>
 <summary>
 <span class="text-sizec">答案</span>
 </summary>
 <div class="red-text text-sizec">
-<p>$(1) $ $2.5 $ $(2) $ <span
+<p><span class="math inline">\((1)\)</span> <span
+class="math inline">\(2.5\)</span><br />
+<span class="math inline">\((2)\)</span> <span
 class="math inline">\(\frac{3}{8}\)</span></p>
 </div>
 </details>
@@ -6333,7 +6641,10 @@ class="math inline">\((x,y)=(1,1),(1,2),(1,3),(2,1),(2,2),(3,1)\)</span>
 </details>
 </div>
 <div class="math-item">
-<img src="107_28.png" />
+<figure>
+<img src="cap107_28.jpeg" alt="107年會考數學非選第2題" />
+<figcaption aria-hidden="true">107年會考數學非選第2題</figcaption>
+</figure>
 <details>
 <summary>
 <span class="text-sizec">答案</span>
@@ -6424,8 +6735,12 @@ aria-hidden="true">108各科等級加標示人數百分比統計表</figcaption>
 </div>
 <h1 id="年會考-數學詳解">108年會考-數學詳解</h1>
 <h2 id="第一部分選擇題1-26-題">第一部分:選擇題(1 ~ 26 題)</h2>
-<div class="math-item">
-<img src="108_1.png" />
+<section id="section" class="math-item">
+<h3>1.</h3>
+<figure>
+<img src="cap108_1.jpeg" alt="108年會考數學第1題" />
+<figcaption aria-hidden="true">108年會考數學第1題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.83
 </div>
@@ -6449,9 +6764,13 @@ aria-hidden="true">108各科等級加標示人數百分比統計表</figcaption>
 <span class="math inline">\(= -\frac{3}{2}\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_2.png" />
+</section>
+<section id="section-1" class="math-item">
+<h3>2.</h3>
+<figure>
+<img src="cap108_2.jpeg" alt="108年會考數學第2題" />
+<figcaption aria-hidden="true">108年會考數學第2題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.78
 </div>
@@ -6475,9 +6794,13 @@ aria-hidden="true">108各科等級加標示人數百分比統計表</figcaption>
 為逐年增加，故選A。</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_3.png" />
+</section>
+<section id="section-2" class="math-item">
+<h3>3.</h3>
+<figure>
+<img src="cap108_3.jpeg" alt="108年會考數學第3題" />
+<figcaption aria-hidden="true">108年會考數學第3題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.81
 </div>
@@ -6498,9 +6821,13 @@ aria-hidden="true">108各科等級加標示人數百分比統計表</figcaption>
 class="math inline">\((2x-3)(3x+4)=6x^2+8x-9x-12=6x^2-x-12\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_4.png" />
+</section>
+<section id="section-3" class="math-item">
+<h3>4.</h3>
+<figure>
+<img src="cap108_4.jpeg" alt="108年會考數學第4題" />
+<figcaption aria-hidden="true">108年會考數學第4題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.81
 </div>
@@ -6521,9 +6848,13 @@ class="math inline">\((2x-3)(3x+4)=6x^2+8x-9x-12=6x^2-x-12\)</span></p>
 2b=8a+6b\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_5.png" />
+</section>
+<section id="section-4" class="math-item">
+<h3>5.</h3>
+<figure>
+<img src="cap108_5.jpeg" alt="108年會考數學第5題" />
+<figcaption aria-hidden="true">108年會考數學第5題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.82
 </div>
@@ -6547,9 +6878,13 @@ b=6\)</span><br />
 <span class="math inline">\(a+b=11+6=17\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_6.png" />
+</section>
+<section id="section-5" class="math-item">
+<h3>6.</h3>
+<figure>
+<img src="cap108_6.jpeg" alt="108年會考數學第6題" />
+<figcaption aria-hidden="true">108年會考數學第6題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.71
 </div>
@@ -6572,9 +6907,13 @@ b=6\)</span><br />
 <span class="math inline">\(=4.3\times 10^9\)</span> 瓦</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_7.png" />
+</section>
+<section id="section-6" class="math-item">
+<h3>7.</h3>
+<figure>
+<img src="cap108_7.jpeg" alt="108年會考數學第7題" />
+<figcaption aria-hidden="true">108年會考數學第7題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.74
 </div>
@@ -6598,9 +6937,13 @@ class="math inline">\(y=4\)</span><br />
 故選 D</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_8.png" />
+</section>
+<section id="section-7" class="math-item">
+<h3>8.</h3>
+<figure>
+<img src="cap108_8.jpeg" alt="108年會考數學第8題" />
+<figcaption aria-hidden="true">108年會考數學第8題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.69
 </div>
@@ -6624,9 +6967,13 @@ class="math inline">\(y=4\)</span><br />
 <span class="math inline">\(a+c=4+(-3)=1\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_9.png" />
+</section>
+<section id="section-8" class="math-item">
+<h3>9.</h3>
+<figure>
+<img src="cap108_9.jpeg" alt="108年會考數學第9題" />
+<figcaption aria-hidden="true">108年會考數學第9題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.71
 </div>
@@ -6643,15 +6990,19 @@ class="math inline">\(y=4\)</span><br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="108_9a.png" /><br />
+<p><img src="cap108_9a.png" alt="108年會考數學第9題詳解" /><br />
 如圖紅色框一組，每兩個三角形＋一個正方形為一組，有 40 組<br />
 剩下 4 個三角形<br />
 共有 <span class="math inline">\(40\times 2+4=84\)</span> 個三角形</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_10.png" />
+</section>
+<section id="section-9" class="math-item">
+<h3>10.</h3>
+<figure>
+<img src="cap108_10.jpeg" alt="108年會考數學第10題" />
+<figcaption aria-hidden="true">108年會考數學第10題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.65
 </div>
@@ -6678,9 +7029,13 @@ class="math inline">\(5\)</span> 的中點<br />
 在 <span class="math inline">\(O、B\)</span> 之間，故選 D</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_11.png" />
+</section>
+<section id="section-10" class="math-item">
+<h3>11.</h3>
+<figure>
+<img src="cap108_11.jpeg" alt="108年會考數學第11題" />
+<figcaption aria-hidden="true">108年會考數學第11題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.68
 </div>
@@ -6697,16 +7052,20 @@ class="math inline">\(5\)</span> 的中點<br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="108_11a.png" /> 設短邊為 <span
-class="math inline">\(x\)</span>，如圖<br />
+<p><img src="cap108_11a.png" alt="108年會考數學第11題詳解" /> 設短邊為
+<span class="math inline">\(x\)</span>，如圖<br />
 <span class="math inline">\(x+8+x=20\)</span><br />
 <span class="math inline">\(\Rightarrow 2x=12\)</span><br />
 <span class="math inline">\(\Rightarrow x=6\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_12.png" />
+</section>
+<section id="section-11" class="math-item">
+<h3>12.</h3>
+<figure>
+<img src="cap108_12.jpeg" alt="108年會考數學第12題" />
+<figcaption aria-hidden="true">108年會考數學第12題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.65
 </div>
@@ -6744,9 +7103,13 @@ class="math inline">\(x=3\)</span><br />
 總共花了2450元，選 D</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_13.png" />
+</section>
+<section id="section-12" class="math-item">
+<h3>13.</h3>
+<figure>
+<img src="cap108_13.jpeg" alt="108年會考數學第13題" />
+<figcaption aria-hidden="true">108年會考數學第13題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.57
 </div>
@@ -6763,12 +7126,19 @@ class="math inline">\(x=3\)</span><br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="108_13a.png" /></p>
+<figure>
+<img src="cap108_13a.png" alt="108年會考數學第13題詳解" />
+<figcaption aria-hidden="true">108年會考數學第13題詳解</figcaption>
+</figure>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_14.png" />
+</section>
+<section id="section-13" class="math-item">
+<h3>14.</h3>
+<figure>
+<img src="cap108_14.jpeg" alt="108年會考數學第14題" />
+<figcaption aria-hidden="true">108年會考數學第14題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.63
 </div>
@@ -6790,9 +7160,13 @@ class="math inline">\(x=3\)</span><br />
 class="math inline">\(\frac{2}{53+2}=\frac{2}{55}\)</span>，</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_15.png" />
+</section>
+<section id="section-14" class="math-item">
+<h3>15.</h3>
+<figure>
+<img src="cap108_15.jpeg" alt="108年會考數學第15題" />
+<figcaption aria-hidden="true">108年會考數學第15題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.57
 </div>
@@ -6823,9 +7197,13 @@ A\Rightarrow \angle A+\angle 2 &lt; 180^\circ\)</span><br />
 A\Rightarrow \angle A+\angle 1 = 180^\circ\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_16.png" />
+</section>
+<section id="section-15" class="math-item">
+<h3>16.</h3>
+<figure>
+<img src="cap108_16.jpeg" alt="108年會考數學第16題" />
+<figcaption aria-hidden="true">108年會考數學第16題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.61
 </div>
@@ -6847,9 +7225,13 @@ A\Rightarrow \angle A+\angle 1 = 180^\circ\)</span></p>
 <span class="math inline">\(y=\frac{300}{250}x\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_17.png" />
+</section>
+<section id="section-16" class="math-item">
+<h3>17.</h3>
+<figure>
+<img src="cap108_17.jpeg" alt="108年會考數學第17題" />
+<figcaption aria-hidden="true">108年會考數學第17題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.41
 </div>
@@ -6866,7 +7248,7 @@ A\Rightarrow \angle A+\angle 1 = 180^\circ\)</span></p>
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="108_17a.png" /><br />
+<p><img src="cap108_17a.png" alt="108年會考數學第17題詳解" /><br />
 上三角形與大三角形為相似三角形<br />
 設上三角形面積為 <span class="math inline">\(x\)</span><br />
 面積比 ＝ 邊長平方比<br />
@@ -6885,9 +7267,13 @@ x=14\times\frac{9}{49}=\frac{18}{7}\)</span><br />
 \frac{16}{7}=\frac{64}{7}\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_18.png" />
+</section>
+<section id="section-17" class="math-item">
+<h3>18.</h3>
+<figure>
+<img src="cap108_18.jpeg" alt="108年會考數學第18題" />
+<figcaption aria-hidden="true">108年會考數學第18題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.55
 </div>
@@ -6911,9 +7297,13 @@ class="math inline">\(36-21+9=24\)</span> 個間隔<br />
 <span class="math inline">\(24\times \frac{5}{6}=20\)</span> 分鐘</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_19.png" />
+</section>
+<section id="section-18" class="math-item">
+<h3>19.</h3>
+<figure>
+<img src="cap108_19.jpeg" alt="108年會考數學第19題" />
+<figcaption aria-hidden="true">108年會考數學第19題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.43
 </div>
@@ -6941,9 +7331,13 @@ x^2+2x+1+25=x^2+8x+16\)</span><br />
 x=\frac{5}{3}\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_20.png" />
+</section>
+<section id="section-19" class="math-item">
+<h3>20.</h3>
+<figure>
+<img src="cap108_20.jpeg" alt="108年會考數學第20題" />
+<figcaption aria-hidden="true">108年會考數學第20題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.45
 </div>
@@ -6971,9 +7365,13 @@ class="math inline">\(y\)</span> 人每人只搭一趟䌫車<br />
 <span class="math inline">\(x+y=9+7=16\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_21.png" />
+</section>
+<section id="section-20" class="math-item">
+<h3>21.</h3>
+<figure>
+<img src="cap108_21.jpeg" alt="108年會考數學第21題" />
+<figcaption aria-hidden="true">108年會考數學第21題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.42
 </div>
@@ -6998,9 +7396,13 @@ class="math inline">\(y\)</span> 人每人只搭一趟䌫車<br />
 <span class="math inline">\(A=10-B-C=10-(x-y)-y=10-x\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_22.png" />
+</section>
+<section id="section-21" class="math-item">
+<h3>22.</h3>
+<figure>
+<img src="cap108_22.jpeg" alt="108年會考數學第22題" />
+<figcaption aria-hidden="true">108年會考數學第22題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.43
 </div>
@@ -7024,9 +7426,13 @@ class="math inline">\(y\)</span> 人每人只搭一趟䌫車<br />
 可能為 <span class="math inline">\(a\)</span> 的因數</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_23.png" />
+</section>
+<section id="section-22" class="math-item">
+<h3>23.</h3>
+<figure>
+<img src="cap108_23.jpeg" alt="108年會考數學第23題" />
+<figcaption aria-hidden="true">108年會考數學第23題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.46
 </div>
@@ -7043,7 +7449,7 @@ class="math inline">\(y\)</span> 人每人只搭一趟䌫車<br />
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="108_23a.png" /><br />
+<p><img src="cap108_23a.png" alt="108年會考數學第23題詳解" /><br />
 如圖<br />
 <span class="math inline">\(\angle1=\frac12\angle C\)</span><br />
 <span class="math inline">\(\angle2=\frac12\angle A\)</span><br />
@@ -7057,9 +7463,13 @@ class="math inline">\(y\)</span> 人每人只搭一趟䌫車<br />
 L\)</span> （平行線間距離處處相等）</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_24.png" />
+</section>
+<section id="section-23" class="math-item">
+<h3>24.</h3>
+<figure>
+<img src="cap108_24.jpeg" alt="108年會考數學第24題" />
+<figcaption aria-hidden="true">108年會考數學第24題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.45
 </div>
@@ -7089,9 +7499,13 @@ class="math inline">\(B, C\)</span> 之間，<span
 class="math inline">\(\overset{\frown}{BQ}&lt;\overset{\frown}{QC}\)</span></p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_25.png" />
+</section>
+<section id="section-24" class="math-item">
+<h3>25.</h3>
+<figure>
+<img src="cap108_25.jpeg" alt="108年會考數學第25題" />
+<figcaption aria-hidden="true">108年會考數學第25題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.35
 </div>
@@ -7108,7 +7522,7 @@ class="math inline">\(\overset{\frown}{BQ}&lt;\overset{\frown}{QC}\)</span></p>
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="108_25a.png" /><br />
+<p><img src="cap108_25a.png" alt="108年會考數學第25題詳解" /><br />
 如圖<br />
 (甲) <span class="math inline">\(\overline{AP}=\overline{DP},
 \overline{AQ}=\overline{DQ}, \overline{PQ}=\overline{PQ}\)</span><br />
@@ -7121,9 +7535,13 @@ class="math inline">\(\overline{PQ}  =\overline{PQ}\)</span><br />
 PDQ\)</span> （ASA）</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_26.png" />
+</section>
+<section id="section-25" class="math-item">
+<h3>26.</h3>
+<figure>
+<img src="cap108_26.jpeg" alt="108年會考數學第26題" />
+<figcaption aria-hidden="true">108年會考數學第26題</figcaption>
+</figure>
 <div class="text-right text-sizec">
 通過率 0.40
 </div>
@@ -7140,7 +7558,7 @@ PDQ\)</span> （ASA）</p>
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="108_26a.png" /> 作 <span
+<p><img src="cap108_26a.png" alt="108年會考數學第26題詳解" /> 作 <span
 class="math inline">\(\overline{AD}\perp \overline{BC}\)</span> 於 <span
 class="math inline">\(D(-3,2)\)</span><br />
 <span class="math inline">\(\Rightarrow \overline{AD}=2\)</span><br />
@@ -7160,17 +7578,22 @@ class="math inline">\(x=0\)</span> 代入得 <span
 class="math inline">\(y=\frac32\times 3^2=\frac{27}{2}\)</span></p>
 </div>
 </details>
-</div>
+</section>
 <h2 id="第二部分非選擇題-第-1-2-題">第二部分:非選擇題 ( 第 1 ~ 2 題
 )</h2>
-<div class="math-item">
-<img src="108_27.png" />
+<section id="section-26" class="math-item">
+<h3>1.</h3>
+<figure>
+<img src="cap108_27.jpeg" alt="108年會考數學非選第1題" />
+<figcaption aria-hidden="true">108年會考數學非選第1題</figcaption>
+</figure>
 <details>
 <summary>
 <span class="text-sizec">答案</span>
 </summary>
 <div class="red-text text-sizec">
-<p><span class="math inline">\((1) 10  (2)\)</span> 不合理</p>
+<p><span class="math inline">\((1) 10\)</span><br />
+<span class="math inline">\((2)\)</span> 不合理</p>
 </div>
 </details>
 <details>
@@ -7193,9 +7616,13 @@ SPF50的防護率<span class="math inline">\(=\frac{50-1}{50}\times
 答：(1) 10 (2) 不合理</p>
 </div>
 </details>
-</div>
-<div class="math-item">
-<img src="108_28.png" />
+</section>
+<section id="section-27" class="math-item">
+<h3>2.</h3>
+<figure>
+<img src="cap108_28.jpeg" alt="108年會考數學非選第2題" />
+<figcaption aria-hidden="true">108年會考數學非選第2題</figcaption>
+</figure>
 <details>
 <summary>
 <span class="text-sizec">答案</span>
@@ -7210,7 +7637,7 @@ SPF50的防護率<span class="math inline">\(=\frac{50-1}{50}\times
 <span class="text-sizec">詳解</span>
 </summary>
 <div class="blue-text text-sizec">
-<p><img src="108_28a.png" /><br />
+<p><img src="cap108_28a.png" alt="108年會考數學非選第2題詳解" /><br />
 物長與影長形成的三角形為相似三角形<br />
 物長：影長的比值相等<br />
 <span class="math inline">\((1)\)</span> 設影長 為 <span
@@ -7226,7 +7653,7 @@ class="math inline">\(150+180=330\)</span> cm<br />
 答：(1) 100 cm (2) 330 cm</p>
 </div>
 </details>
-</div>
+</section>
 ]]></content>
       <categories>
         <category>國中會考</category>
@@ -9068,868 +9495,6 @@ class="math inline">\(90\%\)</span>：<br />
       </tags>
   </entry>
   <entry>
-    <title>112年會考數學詳解 - 完整對照表與難題趨勢分析</title>
-    <url>/cap112/</url>
-    <content><![CDATA[<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VBLJT5KBPG');
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
-     crossorigin="anonymous"></script>
-<details>
-<summary>
-<span class="text-sizec">年度解析+等級對照表</span>
-</summary>
-<h1 id="年會考數學解析打破由淺入深的陷阱">112
-年會考數學解析：打破「由淺入深」的陷阱</h1>
-<p>112
-年的考題分布極具巧思。許多同學卡在選擇題的「地雷區」，導致後繼無力。</p>
-<ul>
-<li><strong>魔王位移</strong>：22、23
-題確實是整卷的「天險」，考驗幾何變換的綜合力。</li>
-<li><strong>選擇題分散夾擊</strong>：難題不再集中於尾端，而是散佈在
-15～25 題之間，極度考驗學生的時間配比與考場心理穩定度。</li>
-<li><strong>反直覺的難度降落</strong>：出人意料地，傳統的高難度單元如「組合」與「非選題」反而相對平易近人。</li>
-</ul>
-<p><strong>NUMA 老師提醒：</strong>
-考場上「懂得選題、不死磕」比單純會解題更重要。</p>
-<h2 id="等級加標示與加權分數對照表">等級加標示與加權分數對照表</h2>
-<figure>
-<img src="image1.png" alt="112等級加標示與加權分數對照表" />
-<figcaption
-aria-hidden="true">112等級加標示與加權分數對照表</figcaption>
-</figure>
-<hr />
-<h2 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h2>
-<figure>
-<img src="image2.png" alt="112等級加標示與答對題數對照表" />
-<figcaption
-aria-hidden="true">112等級加標示與答對題數對照表</figcaption>
-</figure>
-<hr />
-<h2
-id="各科等級加標示人數百分比統計表">各科等級加標示人數百分比統計表</h2>
-<figure>
-<img src="image3.png" alt="112各科等級加標示人數百分比統計表" />
-<figcaption
-aria-hidden="true">112各科等級加標示人數百分比統計表</figcaption>
-</figure>
-<hr />
-<h2 id="試題疑義">試題疑義</h2>
-<a
-href="https://cap.rcpet.edu.tw/exam/112/112%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%E8%82%B2%E6%9C%83%E8%80%83%E8%A9%A6%E9%A1%8C%E7%96%91%E7%BE%A9%E8%A1%A8-%E6%95%B8%E5%AD%B8.pdf">112年國中教育會考試題疑義表</a>
-</details>
-<div style="margin-top: 50px;">
-
-</div>
-<h1 id="年會考-數學詳解">112年會考-數學詳解</h1>
-<h2 id="第一部分選擇題-1-25-題">第一部分:選擇題 (1 ~ 25 題)</h2>
-<section id="section" class="math-item">
-<h3>1.</h3>
-<figure>
-<img src="cap112_1.jpeg" alt="112年會考數學第1題" />
-<figcaption aria-hidden="true">112年會考數學第1題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.89
-</div>
-<detauils>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\((-3)^3=(-3)\times (-3)\times
-(-3)=-27\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-1" class="math-item">
-<h3>2.</h3>
-<figure>
-<img src="cap112_2.jpeg" alt="112年會考數學第2題" />
-<figcaption aria-hidden="true">112年會考數學第2題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.87
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(x^2-36=x^2-6^2=(x+6)(x-6)\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-2" class="math-item">
-<h3>3.</h3>
-<figure>
-<img src="cap112_3.jpeg" alt="112年會考數學第3題" />
-<figcaption aria-hidden="true">112年會考數學第3題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.89
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap112_3a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-3" class="math-item">
-<h3>4.</h3>
-<figure>
-<img src="cap112_4.jpeg" alt="112年會考數學第4題" />
-<figcaption aria-hidden="true">112年會考數學第4題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.80
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\sqrt{135}=\sqrt{3^3\times
-15}=3\sqrt{15}\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-4" class="math-item">
-<h3>5.</h3>
-<figure>
-<img src="cap112_5.jpeg" alt="112年會考數學第5題" />
-<figcaption aria-hidden="true">112年會考數學第5題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.77
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>先觀察四個選項的 <span class="math inline">\(x\)</span> 坐標都是
-<span class="math inline">\(-4\)</span><br />
-將 <span class="math inline">\(x=-4\)</span> 代入方程式可得：<br />
-<span class="math inline">\(y=(-2)\times (-4)-6=2\)</span><br />
-<span class="math inline">\(\therefore (-4,2)\)</span> 為解</p>
-</div>
-</details>
-</section>
-<section id="section-5" class="math-item">
-<h3>6.</h3>
-<figure>
-<img src="cap112_6.jpeg" alt="112年會考數學第6題" />
-<figcaption aria-hidden="true">112年會考數學第6題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.77
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap112_6a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-6" class="math-item">
-<h3>7.</h3>
-<figure>
-<img src="cap112_7.jpeg" alt="112年會考數學第7題" />
-<figcaption aria-hidden="true">112年會考數學第7題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.70
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap112_7a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-7" class="math-item">
-<h3>8.</h3>
-<figure>
-<img src="cap112_8.jpeg" alt="112年會考數學第8題" />
-<figcaption aria-hidden="true">112年會考數學第8題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.70
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap112_8a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-8" class="math-item">
-<h3>9.</h3>
-<figure>
-<img src="cap112_9.jpeg" alt="112年會考數學第9題" />
-<figcaption aria-hidden="true">112年會考數學第9題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.72
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(216=18\times 2^2\times 3\)</span><br />
-<span class="math inline">\(2^2\times 3^1\)</span> 共有 <span
-class="math inline">\((2+1)\times (1+1)=6\)</span> 個因數</p>
-</div>
-</details>
-</section>
-<section id="section-9" class="math-item">
-<h3>10.</h3>
-<figure>
-<img src="cap112_10.jpeg" alt="112年會考數學第10題" />
-<figcaption aria-hidden="true">112年會考數學第10題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.58
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>根的公式：<br />
-<span class="math inline">\(\frac{-(-11)\pm \sqrt{(-11)^2-4\times
-3\times (-1)}}{2\times 3}\)</span><br />
-<span class="math inline">\(=\frac{11\pm\sqrt{133}}{6}\)</span><br />
-<span class="math inline">\(\because a&gt;b\)</span><br />
-<span class="math inline">\(\therefore
-a=\frac{11+\sqrt{133}}{6}\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-10" class="math-item">
-<h3>11.</h3>
-<figure>
-<img src="cap112_11.jpeg" alt="112年會考數學第11題" />
-<figcaption aria-hidden="true">112年會考數學第11題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.66
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>設美式咖啡的咖啡因含量為每毫升 <span class="math inline">\(x\)</span>
-毫克<br />
-大杯： <span class="math inline">\(200 &lt; 480x \Rightarrow
-\frac{5}{12} &lt; x\)</span><br />
-中杯： <span class="math inline">\(360\times \frac{5}{12}=150 &lt; 360x
-\leq 200\)</span><br />
-兩杯中杯：<span class="math inline">\(2\times 150=300 &lt; 720x \leq
-400\)</span><br />
-超過我國的 300 毫克，未超過歐盟的 400 毫克</p>
-</div>
-</details>
-</section>
-<section id="section-11" class="math-item">
-<h3>12.</h3>
-<figure>
-<img src="cap112_12.jpeg" alt="112年會考數學第12題" />
-<figcaption aria-hidden="true">112年會考數學第12題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.58
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\frac26 \times
-\frac15=\frac{1}{15}\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-12" class="math-item">
-<h3>13.</h3>
-<figure>
-<img src="cap112_13.jpeg" alt="112年會考數學第13題" />
-<figcaption aria-hidden="true">112年會考數學第13題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.50
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap112_13a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-13" class="math-item">
-<h3>14.</h3>
-<figure>
-<img src="cap112_14.jpeg" alt="112年會考數學第14題" />
-<figcaption aria-hidden="true">112年會考數學第14題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.56
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap112_14a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-14" class="math-item">
-<h3>15.</h3>
-<figure>
-<img src="cap112_15.jpeg" alt="112年會考數學第15題" />
-<figcaption aria-hidden="true">112年會考數學第15題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.42
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap112_15a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-15" class="math-item">
-<h3>16.</h3>
-<figure>
-<img src="cap112_16.jpeg" alt="112年會考數學第16題" />
-<figcaption aria-hidden="true">112年會考數學第16題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.50
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>設雞排 <span class="math inline">\(x\)</span> 元，可樂 <span
-class="math inline">\(y\)</span> 元，套餐 <span
-class="math inline">\(z\)</span> 元<br />
-<span class="math inline">\(z=x+y-40 \dots \dots \text{①}\)</span><br />
-<span class="math inline">\(2z=x+2y+10 \dots \dots
-\text{②}\)</span><br />
-<span class="math inline">\(①\times 2-②:\)</span><br />
-<span class="math inline">\(\Rightarrow x=90\)</span><br />
-所以雞排必為 <span class="math inline">\(90\)</span> 元</p>
-</div>
-</details>
-</section>
-<section id="section-16" class="math-item">
-<h3>17.</h3>
-<figure>
-<img src="cap112_17.jpeg" alt="112年會考數學第17題" />
-<figcaption aria-hidden="true">112年會考數學第17題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.49
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap112_17a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-17" class="math-item">
-<h3>18.</h3>
-<figure>
-<img src="cap112_18.jpeg" alt="112年會考數學第18題" />
-<figcaption aria-hidden="true">112年會考數學第18題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.43
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>第一段：<span class="math inline">\((20-10)\times 20=200 &gt;
-100\)</span>，所以只收 <span class="math inline">\(100\)</span> 元<br />
-第二段：<br />
-<span class="math inline">\((x-10)\times 5=5x-50\)</span><br />
-<span class="math inline">\((24-20)\times 5=20\Rightarrow 5x-50\leq
-20\)</span><br />
-所以第二段收 <span class="math inline">\(5x-50\)</span> 元<br />
-<span class="math inline">\(5x-50+100=5x+50\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-18" class="math-item">
-<h3>19.</h3>
-<figure>
-<img src="cap112_19.jpeg" alt="112年會考數學第19題" />
-<figcaption aria-hidden="true">112年會考數學第19題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.48
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap112_19a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-19" class="math-item">
-<h3>20.</h3>
-<figure>
-<img src="cap112_20.jpeg" alt="112年會考數學第20題" />
-<figcaption aria-hidden="true">112年會考數學第20題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.43
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap112_20a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-20" class="math-item">
-<h3>21.</h3>
-<figure>
-<img src="cap112_21.jpeg" alt="112年會考數學第21題" />
-<figcaption aria-hidden="true">112年會考數學第21題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.41
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>設小維每步 <span class="math inline">\(x\)</span> 公分，阿良每步
-<span class="math inline">\(y\)</span> 公分<br />
-吊橋長度 <span class="math inline">\(=84x+60y=(60+70)y\)</span><br />
-<span class="math inline">\(\Rightarrow 84x=70y\)</span><br />
-<span class="math inline">\(\Rightarrow 1.2x=y\)</span><br />
-橋長 <span class="math inline">\(=130y =130\times
-1.2x=156x\)</span><br />
-<span class="math inline">\(156-84=72\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-21" class="math-item">
-<h3>22.</h3>
-<figure>
-<img src="cap112_22.jpeg" alt="112年會考數學第22題" />
-<figcaption aria-hidden="true">112年會考數學第22題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.27
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\triangle EBG:\triangle
-GBC=\overline{EG}:\overline{GC}\)</span> (共高)<br />
-<span class="math inline">\(\triangle GBC=16\div 2=8\)</span><br />
-<span
-class="math inline">\(\overline{EG}:\overline{GC}=6:8=3:4\)</span><br />
-<span
-class="math inline">\(\overline{EG}:\overline{EC}=3:7=\overline{FG}:\overline{BC}\)</span>
-(上：全 = 中：中下)</p>
-</div>
-</details>
-</section>
-<section id="section-22" class="math-item">
-<h3>23.</h3>
-<figure>
-<img src="cap112_23.jpeg" alt="112年會考數學第23題" />
-<figcaption aria-hidden="true">112年會考數學第23題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.23
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>矩形對角線等長 <span class="math inline">\(\Rightarrow
-\overline{AP}=\overline{EF}\)</span><br />
-<span class="math inline">\(\overline{AP}\perp \overline{BC}\)</span>
-時最短<br />
-<span
-class="math inline">\(\overline{BD}=\sqrt{6^2+8^2}=10\)</span><br />
-<span class="math inline">\(\triangle ABD=6\times 8\div
-2=24=\overline{BD}\times \overline{AP}\div 2\)</span><br />
-<span class="math inline">\(\Rightarrow 24=10\times \overline{AP}\div
-2\)</span><br />
-<span class="math inline">\(\Rightarrow
-\overline{AP}=\frac{24}{5}\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-23" class="math-item">
-<h3>24.</h3>
-<figure>
-<img src="cap112_24.jpeg" alt="112年會考數學第24題" />
-<figcaption aria-hidden="true">112年會考數學第24題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.69
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap112_24a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-24" class="math-item">
-<h3>25.</h3>
-<figure>
-<img src="cap112_25.jpeg" alt="112年會考數學第25題" />
-<figcaption aria-hidden="true">112年會考數學第25題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.59
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>由 <span class="math inline">\(14\)</span>% 增加到 <span
-class="math inline">\(20\)</span>% 以上，至少增加了 <span
-class="math inline">\(6\)</span>%<br />
-<span class="math inline">\(2300\times (20-14)\)</span>% <span
-class="math inline">\(=138\)</span></p>
-</div>
-</details>
-</section>
-<h2 id="第二部分非選擇題-1-2-題">第二部分:非選擇題 (1 ~ 2 題 )</h2>
-<section id="section-25" class="math-item">
-<h3>1.</h3>
-<figure>
-<img src="cap112_26.jpeg" alt="112年會考數學非選第1題" />
-<figcaption aria-hidden="true">112年會考數學非選第1題</figcaption>
-</figure>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((1)\)</span> <span
-class="math inline">\(90\%\)</span><br />
-<span class="math inline">\((2)\)</span> 否，見詳解</p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\((1)\)</span> <span
-class="math inline">\((1-p\div q)\times
-100\%=(1-\frac{50}{15000}\div\frac{5000}{15000})\times
-100\%=90\%\)</span><br />
-<span class="math inline">\((2)\)</span> 設 <span
-class="math inline">\(B\)</span> 廠牌施打疫苗後仍感染人數為 <span
-class="math inline">\(a\)</span>，施打安慰劑後感染人數為 <span
-class="math inline">\(b\)</span><br />
-<span class="math inline">\((1-\frac{a}{15000}\div\frac{b}{15000})\times
-100\% &gt; 90\%\)</span><br />
-<span class="math inline">\(\Rightarrow (1-\frac ab) &gt;
-0.9\)</span><br />
-<span class="math inline">\(\Rightarrow \frac ab &lt; 0.1\)</span><br />
-僅知 <span class="math inline">\(B\)</span>
-廠牌施打疫苗後仍感染人數與施打安慰劑後感染人數的比例小於 <span
-class="math inline">\(A\)</span>
-廠牌，不代表施打疫苗後仍感染人數較少。<br />
-比如 <span class="math inline">\(B\)</span> 廠牌施打疫苗後仍感染人數為
-<span class="math inline">\(100\)</span> 人，施打安慰劑後感染人數為
-<span class="math inline">\(2000\)</span> 人，如此施打疫苗後仍感染人數比
-<span class="math inline">\(A\)</span> 多，但效力比 <span
-class="math inline">\(A\)</span> 大。<br />
-所以在施打安慰劑後感染人數不相等的情況下，無法確定施打疫苗後仍感染人數一定會低於
-<span class="math inline">\(A\)</span> 的。</p>
-</div>
-</details>
-</section>
-<section id="section-26" class="math-item">
-<h3>2.</h3>
-<figure>
-<img src="cap112_27.jpeg" alt="112年會考數學非選第2題" />
-<figcaption aria-hidden="true">112年會考數學非選第2題</figcaption>
-</figure>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((1)\)</span> <span
-class="math inline">\(135^\circ\)</span><br />
-<span class="math inline">\((2)\)</span> 否，見詳解</p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap112_27a.png" /></p>
-</div>
-</details>
-</section>
-]]></content>
-      <categories>
-        <category>國中會考</category>
-      </categories>
-      <tags>
-        <tag>詳解</tag>
-        <tag>112</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>111年會考數學詳解 - 完整對照表與難題趨勢分析</title>
     <url>/cap111/</url>
     <content><![CDATA[<!-- Google tag (gtag.js) -->
@@ -10885,6 +10450,1788 @@ x + y &amp;=  28 \quad\\
       <tags>
         <tag>詳解</tag>
         <tag>111</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>112年會考數學詳解 - 完整對照表與難題趨勢分析</title>
+    <url>/cap112/</url>
+    <content><![CDATA[<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VBLJT5KBPG');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
+     crossorigin="anonymous"></script>
+<details>
+<summary>
+<span class="text-sizec">年度解析+等級對照表</span>
+</summary>
+<h1 id="年會考數學解析打破由淺入深的陷阱">112
+年會考數學解析：打破「由淺入深」的陷阱</h1>
+<p>112
+年的考題分布極具巧思。許多同學卡在選擇題的「地雷區」，導致後繼無力。</p>
+<ul>
+<li><strong>魔王位移</strong>：22、23
+題確實是整卷的「天險」，考驗幾何變換的綜合力。</li>
+<li><strong>選擇題分散夾擊</strong>：難題不再集中於尾端，而是散佈在
+15～25 題之間，極度考驗學生的時間配比與考場心理穩定度。</li>
+<li><strong>反直覺的難度降落</strong>：出人意料地，傳統的高難度單元如「組合」與「非選題」反而相對平易近人。</li>
+</ul>
+<p><strong>NUMA 老師提醒：</strong>
+考場上「懂得選題、不死磕」比單純會解題更重要。</p>
+<h2 id="等級加標示與加權分數對照表">等級加標示與加權分數對照表</h2>
+<figure>
+<img src="image1.png" alt="112等級加標示與加權分數對照表" />
+<figcaption
+aria-hidden="true">112等級加標示與加權分數對照表</figcaption>
+</figure>
+<hr />
+<h2 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h2>
+<figure>
+<img src="image2.png" alt="112等級加標示與答對題數對照表" />
+<figcaption
+aria-hidden="true">112等級加標示與答對題數對照表</figcaption>
+</figure>
+<hr />
+<h2
+id="各科等級加標示人數百分比統計表">各科等級加標示人數百分比統計表</h2>
+<figure>
+<img src="image3.png" alt="112各科等級加標示人數百分比統計表" />
+<figcaption
+aria-hidden="true">112各科等級加標示人數百分比統計表</figcaption>
+</figure>
+<hr />
+<h2 id="試題疑義">試題疑義</h2>
+<a
+href="https://cap.rcpet.edu.tw/exam/112/112%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%E8%82%B2%E6%9C%83%E8%80%83%E8%A9%A6%E9%A1%8C%E7%96%91%E7%BE%A9%E8%A1%A8-%E6%95%B8%E5%AD%B8.pdf">112年國中教育會考試題疑義表</a>
+</details>
+<div style="margin-top: 50px;">
+
+</div>
+<h1 id="年會考-數學詳解">112年會考-數學詳解</h1>
+<h2 id="第一部分選擇題-1-25-題">第一部分:選擇題 (1 ~ 25 題)</h2>
+<section id="section" class="math-item">
+<h3>1.</h3>
+<figure>
+<img src="cap112_1.jpeg" alt="112年會考數學第1題" />
+<figcaption aria-hidden="true">112年會考數學第1題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.89
+</div>
+<detauils>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\((-3)^3=(-3)\times (-3)\times
+(-3)=-27\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-1" class="math-item">
+<h3>2.</h3>
+<figure>
+<img src="cap112_2.jpeg" alt="112年會考數學第2題" />
+<figcaption aria-hidden="true">112年會考數學第2題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.87
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(x^2-36=x^2-6^2=(x+6)(x-6)\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-2" class="math-item">
+<h3>3.</h3>
+<figure>
+<img src="cap112_3.jpeg" alt="112年會考數學第3題" />
+<figcaption aria-hidden="true">112年會考數學第3題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.89
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap112_3a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-3" class="math-item">
+<h3>4.</h3>
+<figure>
+<img src="cap112_4.jpeg" alt="112年會考數學第4題" />
+<figcaption aria-hidden="true">112年會考數學第4題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.80
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\sqrt{135}=\sqrt{3^3\times
+15}=3\sqrt{15}\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-4" class="math-item">
+<h3>5.</h3>
+<figure>
+<img src="cap112_5.jpeg" alt="112年會考數學第5題" />
+<figcaption aria-hidden="true">112年會考數學第5題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.77
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>先觀察四個選項的 <span class="math inline">\(x\)</span> 坐標都是
+<span class="math inline">\(-4\)</span><br />
+將 <span class="math inline">\(x=-4\)</span> 代入方程式可得：<br />
+<span class="math inline">\(y=(-2)\times (-4)-6=2\)</span><br />
+<span class="math inline">\(\therefore (-4,2)\)</span> 為解</p>
+</div>
+</details>
+</section>
+<section id="section-5" class="math-item">
+<h3>6.</h3>
+<figure>
+<img src="cap112_6.jpeg" alt="112年會考數學第6題" />
+<figcaption aria-hidden="true">112年會考數學第6題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.77
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap112_6a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-6" class="math-item">
+<h3>7.</h3>
+<figure>
+<img src="cap112_7.jpeg" alt="112年會考數學第7題" />
+<figcaption aria-hidden="true">112年會考數學第7題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.70
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap112_7a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-7" class="math-item">
+<h3>8.</h3>
+<figure>
+<img src="cap112_8.jpeg" alt="112年會考數學第8題" />
+<figcaption aria-hidden="true">112年會考數學第8題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.70
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap112_8a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-8" class="math-item">
+<h3>9.</h3>
+<figure>
+<img src="cap112_9.jpeg" alt="112年會考數學第9題" />
+<figcaption aria-hidden="true">112年會考數學第9題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.72
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(216=18\times 2^2\times 3\)</span><br />
+<span class="math inline">\(2^2\times 3^1\)</span> 共有 <span
+class="math inline">\((2+1)\times (1+1)=6\)</span> 個因數</p>
+</div>
+</details>
+</section>
+<section id="section-9" class="math-item">
+<h3>10.</h3>
+<figure>
+<img src="cap112_10.jpeg" alt="112年會考數學第10題" />
+<figcaption aria-hidden="true">112年會考數學第10題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.58
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>根的公式：<br />
+<span class="math inline">\(\frac{-(-11)\pm \sqrt{(-11)^2-4\times
+3\times (-1)}}{2\times 3}\)</span><br />
+<span class="math inline">\(=\frac{11\pm\sqrt{133}}{6}\)</span><br />
+<span class="math inline">\(\because a&gt;b\)</span><br />
+<span class="math inline">\(\therefore
+a=\frac{11+\sqrt{133}}{6}\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-10" class="math-item">
+<h3>11.</h3>
+<figure>
+<img src="cap112_11.jpeg" alt="112年會考數學第11題" />
+<figcaption aria-hidden="true">112年會考數學第11題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.66
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>設美式咖啡的咖啡因含量為每毫升 <span class="math inline">\(x\)</span>
+毫克<br />
+大杯： <span class="math inline">\(200 &lt; 480x \Rightarrow
+\frac{5}{12} &lt; x\)</span><br />
+中杯： <span class="math inline">\(360\times \frac{5}{12}=150 &lt; 360x
+\leq 200\)</span><br />
+兩杯中杯：<span class="math inline">\(2\times 150=300 &lt; 720x \leq
+400\)</span><br />
+超過我國的 300 毫克，未超過歐盟的 400 毫克</p>
+</div>
+</details>
+</section>
+<section id="section-11" class="math-item">
+<h3>12.</h3>
+<figure>
+<img src="cap112_12.jpeg" alt="112年會考數學第12題" />
+<figcaption aria-hidden="true">112年會考數學第12題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.58
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\frac26 \times
+\frac15=\frac{1}{15}\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-12" class="math-item">
+<h3>13.</h3>
+<figure>
+<img src="cap112_13.jpeg" alt="112年會考數學第13題" />
+<figcaption aria-hidden="true">112年會考數學第13題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.50
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap112_13a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-13" class="math-item">
+<h3>14.</h3>
+<figure>
+<img src="cap112_14.jpeg" alt="112年會考數學第14題" />
+<figcaption aria-hidden="true">112年會考數學第14題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.56
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap112_14a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-14" class="math-item">
+<h3>15.</h3>
+<figure>
+<img src="cap112_15.jpeg" alt="112年會考數學第15題" />
+<figcaption aria-hidden="true">112年會考數學第15題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.42
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap112_15a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-15" class="math-item">
+<h3>16.</h3>
+<figure>
+<img src="cap112_16.jpeg" alt="112年會考數學第16題" />
+<figcaption aria-hidden="true">112年會考數學第16題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.50
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>設雞排 <span class="math inline">\(x\)</span> 元，可樂 <span
+class="math inline">\(y\)</span> 元，套餐 <span
+class="math inline">\(z\)</span> 元<br />
+<span class="math inline">\(z=x+y-40 \dots \dots \text{①}\)</span><br />
+<span class="math inline">\(2z=x+2y+10 \dots \dots
+\text{②}\)</span><br />
+<span class="math inline">\(①\times 2-②:\)</span><br />
+<span class="math inline">\(\Rightarrow x=90\)</span><br />
+所以雞排必為 <span class="math inline">\(90\)</span> 元</p>
+</div>
+</details>
+</section>
+<section id="section-16" class="math-item">
+<h3>17.</h3>
+<figure>
+<img src="cap112_17.jpeg" alt="112年會考數學第17題" />
+<figcaption aria-hidden="true">112年會考數學第17題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.49
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap112_17a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-17" class="math-item">
+<h3>18.</h3>
+<figure>
+<img src="cap112_18.jpeg" alt="112年會考數學第18題" />
+<figcaption aria-hidden="true">112年會考數學第18題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.43
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>第一段：<span class="math inline">\((20-10)\times 20=200 &gt;
+100\)</span>，所以只收 <span class="math inline">\(100\)</span> 元<br />
+第二段：<br />
+<span class="math inline">\((x-10)\times 5=5x-50\)</span><br />
+<span class="math inline">\((24-20)\times 5=20\Rightarrow 5x-50\leq
+20\)</span><br />
+所以第二段收 <span class="math inline">\(5x-50\)</span> 元<br />
+<span class="math inline">\(5x-50+100=5x+50\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-18" class="math-item">
+<h3>19.</h3>
+<figure>
+<img src="cap112_19.jpeg" alt="112年會考數學第19題" />
+<figcaption aria-hidden="true">112年會考數學第19題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.48
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap112_19a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-19" class="math-item">
+<h3>20.</h3>
+<figure>
+<img src="cap112_20.jpeg" alt="112年會考數學第20題" />
+<figcaption aria-hidden="true">112年會考數學第20題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.43
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap112_20a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-20" class="math-item">
+<h3>21.</h3>
+<figure>
+<img src="cap112_21.jpeg" alt="112年會考數學第21題" />
+<figcaption aria-hidden="true">112年會考數學第21題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.41
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>設小維每步 <span class="math inline">\(x\)</span> 公分，阿良每步
+<span class="math inline">\(y\)</span> 公分<br />
+吊橋長度 <span class="math inline">\(=84x+60y=(60+70)y\)</span><br />
+<span class="math inline">\(\Rightarrow 84x=70y\)</span><br />
+<span class="math inline">\(\Rightarrow 1.2x=y\)</span><br />
+橋長 <span class="math inline">\(=130y =130\times
+1.2x=156x\)</span><br />
+<span class="math inline">\(156-84=72\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-21" class="math-item">
+<h3>22.</h3>
+<figure>
+<img src="cap112_22.jpeg" alt="112年會考數學第22題" />
+<figcaption aria-hidden="true">112年會考數學第22題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.27
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\triangle EBG:\triangle
+GBC=\overline{EG}:\overline{GC}\)</span> (共高)<br />
+<span class="math inline">\(\triangle GBC=16\div 2=8\)</span><br />
+<span
+class="math inline">\(\overline{EG}:\overline{GC}=6:8=3:4\)</span><br />
+<span
+class="math inline">\(\overline{EG}:\overline{EC}=3:7=\overline{FG}:\overline{BC}\)</span>
+(上：全 = 中：中下)</p>
+</div>
+</details>
+</section>
+<section id="section-22" class="math-item">
+<h3>23.</h3>
+<figure>
+<img src="cap112_23.jpeg" alt="112年會考數學第23題" />
+<figcaption aria-hidden="true">112年會考數學第23題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.23
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>矩形對角線等長 <span class="math inline">\(\Rightarrow
+\overline{AP}=\overline{EF}\)</span><br />
+<span class="math inline">\(\overline{AP}\perp \overline{BC}\)</span>
+時最短<br />
+<span
+class="math inline">\(\overline{BD}=\sqrt{6^2+8^2}=10\)</span><br />
+<span class="math inline">\(\triangle ABD=6\times 8\div
+2=24=\overline{BD}\times \overline{AP}\div 2\)</span><br />
+<span class="math inline">\(\Rightarrow 24=10\times \overline{AP}\div
+2\)</span><br />
+<span class="math inline">\(\Rightarrow
+\overline{AP}=\frac{24}{5}\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-23" class="math-item">
+<h3>24.</h3>
+<figure>
+<img src="cap112_24.jpeg" alt="112年會考數學第24題" />
+<figcaption aria-hidden="true">112年會考數學第24題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.69
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap112_24a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-24" class="math-item">
+<h3>25.</h3>
+<figure>
+<img src="cap112_25.jpeg" alt="112年會考數學第25題" />
+<figcaption aria-hidden="true">112年會考數學第25題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.59
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>由 <span class="math inline">\(14\)</span>% 增加到 <span
+class="math inline">\(20\)</span>% 以上，至少增加了 <span
+class="math inline">\(6\)</span>%<br />
+<span class="math inline">\(2300\times (20-14)\)</span>% <span
+class="math inline">\(=138\)</span></p>
+</div>
+</details>
+</section>
+<h2 id="第二部分非選擇題-1-2-題">第二部分:非選擇題 (1 ~ 2 題 )</h2>
+<section id="section-25" class="math-item">
+<h3>1.</h3>
+<figure>
+<img src="cap112_26.jpeg" alt="112年會考數學非選第1題" />
+<figcaption aria-hidden="true">112年會考數學非選第1題</figcaption>
+</figure>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((1)\)</span> <span
+class="math inline">\(90\%\)</span><br />
+<span class="math inline">\((2)\)</span> 否，見詳解</p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\((1)\)</span> <span
+class="math inline">\((1-p\div q)\times
+100\%=(1-\frac{50}{15000}\div\frac{5000}{15000})\times
+100\%=90\%\)</span><br />
+<span class="math inline">\((2)\)</span> 設 <span
+class="math inline">\(B\)</span> 廠牌施打疫苗後仍感染人數為 <span
+class="math inline">\(a\)</span>，施打安慰劑後感染人數為 <span
+class="math inline">\(b\)</span><br />
+<span class="math inline">\((1-\frac{a}{15000}\div\frac{b}{15000})\times
+100\% &gt; 90\%\)</span><br />
+<span class="math inline">\(\Rightarrow (1-\frac ab) &gt;
+0.9\)</span><br />
+<span class="math inline">\(\Rightarrow \frac ab &lt; 0.1\)</span><br />
+僅知 <span class="math inline">\(B\)</span>
+廠牌施打疫苗後仍感染人數與施打安慰劑後感染人數的比例小於 <span
+class="math inline">\(A\)</span>
+廠牌，不代表施打疫苗後仍感染人數較少。<br />
+比如 <span class="math inline">\(B\)</span> 廠牌施打疫苗後仍感染人數為
+<span class="math inline">\(100\)</span> 人，施打安慰劑後感染人數為
+<span class="math inline">\(2000\)</span> 人，如此施打疫苗後仍感染人數比
+<span class="math inline">\(A\)</span> 多，但效力比 <span
+class="math inline">\(A\)</span> 大。<br />
+所以在施打安慰劑後感染人數不相等的情況下，無法確定施打疫苗後仍感染人數一定會低於
+<span class="math inline">\(A\)</span> 的。</p>
+</div>
+</details>
+</section>
+<section id="section-26" class="math-item">
+<h3>2.</h3>
+<figure>
+<img src="cap112_27.jpeg" alt="112年會考數學非選第2題" />
+<figcaption aria-hidden="true">112年會考數學非選第2題</figcaption>
+</figure>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((1)\)</span> <span
+class="math inline">\(135^\circ\)</span><br />
+<span class="math inline">\((2)\)</span> 否，見詳解</p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap112_27a.png" /></p>
+</div>
+</details>
+</section>
+]]></content>
+      <categories>
+        <category>國中會考</category>
+      </categories>
+      <tags>
+        <tag>詳解</tag>
+        <tag>112</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>113年會考數學詳解 - 完整對照表與難題趨勢分析</title>
+    <url>/cap113/</url>
+    <content><![CDATA[<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VBLJT5KBPG');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
+     crossorigin="anonymous"></script>
+<details>
+<summary>
+<span class="text-sizec">年度解析+等級對照表</span>
+</summary>
+<h1 id="年會考數學解析決勝長文本與高壓區的策略">113
+年會考數學解析：決勝「長文本」與「高壓區」的策略</h1>
+<p>113
+年會考數學延續了「素養導向」的命題核心，難度分布呈現「前易後難」的遞增趨勢。</p>
+<ul>
+<li><p><strong>關鍵高壓區</strong>：年度鑑別度完全鎖定在第 21 至 25
+題，特別是末段的組合大題。這不僅考驗學生的運算速度，更考驗在考場倒數階段的耐心與抗壓性。</p></li>
+<li><p><strong>文字檢索力挑戰</strong>：非選擇題持續發揮「長敘述、高資訊量」的特色。考生若能從繁雜的文字資訊中，精準提取解題線索並建立邏輯模型，才是奪下
+A++ 的致勝關鍵。</p></li>
+</ul>
+<p><strong>NUMA 策略提醒：</strong>
+在素養時代，閱讀能力等同於數學能力。面對長題目，練習「邊讀邊畫關鍵字」能有效降低資訊過載。</p>
+<h2 id="等級加標示與加權分數對照表">等級加標示與加權分數對照表</h2>
+<figure>
+<img src="image1.png" alt="113等級加標示與加權分數對照表" />
+<figcaption
+aria-hidden="true">113等級加標示與加權分數對照表</figcaption>
+</figure>
+<hr />
+<h2 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h2>
+<figure>
+<img src="image2.png" alt="113等級加標示與答對題數對照表" />
+<figcaption
+aria-hidden="true">113等級加標示與答對題數對照表</figcaption>
+</figure>
+<hr />
+<h2
+id="各科等級加標示人數百分比統計表">各科等級加標示人數百分比統計表</h2>
+<figure>
+<img src="image3.png" alt="113各科等級加標示人數百分比統計表" />
+<figcaption
+aria-hidden="true">113各科等級加標示人數百分比統計表</figcaption>
+</figure>
+<hr />
+<h2 id="試題疑義">試題疑義</h2>
+<a
+href="https://cap.rcpet.edu.tw/exam/113/113%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%E8%82%B2%E6%9C%83%E8%80%83%E8%A9%A6%E9%A1%8C%E7%96%91%E7%BE%A9%E8%A1%A8-%E6%95%B8%E5%AD%B8%E7%A7%91.pdf">113年國中教育會考試題疑義表</a>
+</details>
+<div style="margin-top: 50px;">
+
+</div>
+<h1 id="年會考-數學詳解">113年會考-數學詳解</h1>
+<h2 id="第一部分選擇題-1-25-題">第一部分:選擇題 (1 ~ 25 題)</h2>
+<section id="section" class="math-item">
+<h3>1.</h3>
+<figure>
+<img src="cap113_1.jpeg" alt="113年會考數學第1題" />
+<figcaption aria-hidden="true">113年會考數學第1題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.88
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\frac{3}{7}-
+(-\frac{1}{4})=\frac{3}{7}+\frac{1}{4}=\frac{12}{28}+\frac{7}{28}=\frac{19}{28}\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-1" class="math-item">
+<h3>2.</h3>
+<figure>
+<img src="cap113_2.jpeg" alt="113年會考數學第2題" />
+<figcaption aria-hidden="true">113年會考數學第2題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.90
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap113_2a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-2" class="math-item">
+<h3>3.</h3>
+<figure>
+<img src="cap113_3.jpeg" alt="113年會考數學第3題" />
+<figcaption aria-hidden="true">113年會考數學第3題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.77
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\begin{cases}
+5x - 3y &amp;=  28 \quad \text{------ (1)}\\
+\phantom{5x + \ } y &amp;=  -3x \quad \text{--- (2)}
+\end{cases}\)</span><br />
+(2)代入(1)得: <span class="math inline">\(5x - 3(-3x) =
+28\)</span><br />
+<span class="math inline">\(\Rightarrow 5x + 9x = 28\)</span><br />
+<span class="math inline">\(\Rightarrow 14x = 28\)</span><br />
+<span class="math inline">\(\Rightarrow x = 2\)</span><br />
+將 <span class="math inline">\((x=2)\)</span> 代入(2)得:<br />
+<span class="math inline">\(y = -3(2) = -6\)</span><br />
+<span class="math inline">\(a+b=2-6=-4\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-3" class="math-item">
+<h3>4.</h3>
+<figure>
+<img src="cap113_4.jpeg" alt="113年會考數學第4題" />
+<figcaption aria-hidden="true">113年會考數學第4題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.84
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>觀察此四點：<span class="math inline">\((5,3), (-4,-4), (-3,4),
+(3,-5)\)</span><br />
+可發現 <span class="math inline">\(x\)</span> 最小值為 <span
+class="math inline">\(-4\)</span>，最大值為 <span
+class="math inline">\(5\)</span>：<br />
+<span class="math inline">\(\Rightarrow x\)</span> 軸原點左邊長度至少
+<span class="math inline">\(4\)</span>，右邊長度至少 <span
+class="math inline">\(5\)</span><br />
+<span class="math inline">\(y\)</span> 最小值為 <span
+class="math inline">\(-5\)</span>，最大值至少 <span
+class="math inline">\(4\)</span>：<br />
+<span class="math inline">\(\Rightarrow y\)</span> 軸原點下方長度至少
+<span class="math inline">\(5\)</span>，上方長度至少 <span
+class="math inline">\(4\)</span><br />
+故選項 (D) 正確。</p>
+</div>
+</details>
+</section>
+<section id="section-4" class="math-item">
+<h3>5.</h3>
+<figure>
+<img src="cap113_5.jpeg" alt="113年會考數學第5題" />
+<figcaption aria-hidden="true">113年會考數學第5題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.82
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>第一層共 9 張，每一層比前一層多 6 張，成等差數列<br />
+首項 <span class="math inline">\(a_1=9\)</span>，公差 <span
+class="math inline">\(d=6\)</span><br />
+<span class="math inline">\(S_{10} = \frac{[2a_1+(10-1)d]\times 10}{2}=
+\frac{(18 + 54)\times 10}{2}= 360\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-5" class="math-item">
+<h3>6.</h3>
+<figure>
+<img src="cap113_6.jpeg" alt="113年會考數學第6題" />
+<figcaption aria-hidden="true">113年會考數學第6題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.74
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>箱內剩 <span class="math inline">\(50+10-4＝56\)</span> 顆球<br />
+紅球剩 <span class="math inline">\(10-4＝6\)</span> 顆<br />
+抽出紅球機率為 <span
+class="math inline">\(\frac{6}{56}＝\frac{3}{28}\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-6" class="math-item">
+<h3>7.</h3>
+<figure>
+<img src="cap113_7.jpeg" alt="113年會考數學第7題" />
+<figcaption aria-hidden="true">113年會考數學第7題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.71
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap113_7a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-7" class="math-item">
+<h3>8.</h3>
+<figure>
+<img src="cap113_8.jpeg" alt="113年會考數學第8題" />
+<figcaption aria-hidden="true">113年會考數學第8題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.68
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(c=6.3\times 10^{-6}=0.63\times
+10^{-5}\)</span><br />
+<span class="math inline">\(a=3.2\times 10^{-5}\)</span><br />
+<span class="math inline">\(b=7.5\times 10^{-5}\)</span><br />
+故 <span class="math inline">\(c&lt;a&lt;b\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-8" class="math-item">
+<h3>9.</h3>
+<figure>
+<img src="cap113_9.jpeg" alt="113年會考數學第9題" />
+<figcaption aria-hidden="true">113年會考數學第9題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.78
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>甲正確<br />
+乙應為大腸癌</p>
+</div>
+</details>
+</section>
+<section id="section-9" class="math-item">
+<h3>10.</h3>
+<figure>
+<img src="cap113_10.jpeg" alt="113年會考數學第10題" />
+<figcaption aria-hidden="true">113年會考數學第10題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.65
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(5\times (5x-2)-4(5x-2)^2\)</span><br />
+<span class="math inline">\(=(5x-2)[5x-4(5x-2)]\)</span><br />
+<span class="math inline">\(=(5x-2)[5x-20x+8]\)</span><br />
+<span class="math inline">\(=(5x-2)(-15x+8)\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-10" class="math-item">
+<h3>11.</h3>
+<figure>
+<img src="cap113_11.jpeg" alt="113年會考數學第11題" />
+<figcaption aria-hidden="true">113年會考數學第11題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.62
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span
+class="math inline">\(\frac{9}{4-\sqrt7}=\frac{9(4+\sqrt7)}{(4-\sqrt7)(4+\sqrt7)}=\frac{9(4+\sqrt7)}{16-7}=\frac{9(4+\sqrt7)}{9}=4+\sqrt7\)</span><br />
+<span class="math inline">\(a=4, b=1\)</span><br />
+<span class="math inline">\(\therefore a+b=5\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-11" class="math-item">
+<h3>12.</h3>
+<figure>
+<img src="cap113_12.jpeg" alt="113年會考數學第12題" />
+<figcaption aria-hidden="true">113年會考數學第12題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.70
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>甲：<span class="math inline">\(y=(x+20)^2+60\geq 60 \Rightarrow
+x=-20\)</span> 時有最小值 <span
+class="math inline">\(y=60\)</span><br />
+乙：<span class="math inline">\(y=-(x-30)^2+60\leq 60 \Rightarrow
+x=30\)</span> 時有最大值 <span class="math inline">\(y=60\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-12" class="math-item">
+<h3>13.</h3>
+<figure>
+<img src="cap113_13.jpeg" alt="113年會考數學第13題" />
+<figcaption aria-hidden="true">113年會考數學第13題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.66
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(1920:1080=1600:900\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-13" class="math-item">
+<h3>14.</h3>
+<figure>
+<img src="cap113_14.jpeg" alt="113年會考數學第14題" />
+<figcaption aria-hidden="true">113年會考數學第14題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.55
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((C)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>汽車每日碳排放量：<span class="math inline">\(0.17\times
+20=3.4\)</span> 公斤<br />
+公車每日碳排放量：<span class="math inline">\(0.04\times 20=0.8\)</span>
+公斤<br />
+設改搭公車 <span class="math inline">\(x\)</span> 天<br />
+<span class="math inline">\((3.4-0.8)x&gt;800\)</span><br />
+<span class="math inline">\(\Rightarrow2.6x&gt;800\)</span><br />
+<span class="math inline">\(\Rightarrow x&gt;307.69\)</span><br />
+故至少要改搭公車 308 天</p>
+</div>
+</details>
+</section>
+<section id="section-14" class="math-item">
+<h3>15.</h3>
+<figure>
+<img src="cap113_15.jpeg" alt="113年會考數學第15題" />
+<figcaption aria-hidden="true">113年會考數學第15題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.55
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\frac{10}{a}=\frac{2\times 5}{a}\)</span>
+為最簡分數 <span class="math inline">\(\Rightarrow a\)</span> 不能為
+<span class="math inline">\(2\)</span> 或 <span
+class="math inline">\(5\)</span> 的倍數<br />
+<span class="math inline">\(\frac{18}{b}=\frac{2\times 3^2}{b}\)</span>
+為最簡分數 <span class="math inline">\(\Rightarrow b\)</span> 不能為
+<span class="math inline">\(2\)</span> 或 <span
+class="math inline">\(3\)</span> 的倍數<br />
+<span class="math inline">\(\frac{10}{a}=\frac{50}{a\times
+5}\)</span><br />
+<span class="math inline">\(\frac{18}{b}=\frac{54}{b\times
+3}\)</span><br />
+<span class="math inline">\(\Rightarrow a\times 5=b\times
+3\)</span><br />
+<span class="math inline">\(\Rightarrow a\)</span> 為 <span
+class="math inline">\(3\)</span> 的倍數，<span
+class="math inline">\(b\)</span> 為 <span
+class="math inline">\(5\)</span> 的倍數</p>
+</div>
+</details>
+</section>
+<section id="section-15" class="math-item">
+<h3>16.</h3>
+<figure>
+<img src="cap113_16.jpeg" alt="113年會考數學第16題" />
+<figcaption aria-hidden="true">113年會考數學第16題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.52
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(14.88+x\div 10\times
+0.08=14.88+0.008x\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-16" class="math-item">
+<h3>17.</h3>
+<figure>
+<img src="cap113_17.jpeg" alt="113年會考數學第17題" />
+<figcaption aria-hidden="true">113年會考數學第17題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.50
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap113_17a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-17" class="math-item">
+<h3>18.</h3>
+<figure>
+<img src="cap113_18.jpeg" alt="113年會考數學第18題" />
+<figcaption aria-hidden="true">113年會考數學第18題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.43
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap113_18a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-18" class="math-item">
+<h3>19.</h3>
+<figure>
+<img src="cap113_19.jpeg" alt="113年會考數學第19題" />
+<figcaption aria-hidden="true">113年會考數學第19題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.52
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(P\)</span> 在 <span
+class="math inline">\(A\)</span> 左側 <span
+class="math inline">\(\Rightarrow p&lt;-2\)</span><br />
+設 <span class="math inline">\(p=-3\)</span>, <span
+class="math inline">\(q=-\frac13\)</span><br />
+<span class="math inline">\(\Rightarrow Q\)</span> 在 <span
+class="math inline">\(\overline{AO}\)</span> 上，<span
+class="math inline">\(\overline{AQ}&gt;\overline{QO}\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-19" class="math-item">
+<h3>20.</h3>
+<figure>
+<img src="cap113_20.jpeg" alt="113年會考數學第20題" />
+<figcaption aria-hidden="true">113年會考數學第20題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.54
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span
+class="math inline">\(\angle1+\angle2=180^\circ-\angle{EGF}=\angle3+\angle4\)</span><br />
+四邊形 <span class="math inline">\(GECD\)</span> 中：<br />
+<span
+class="math inline">\(\angle1+\angle4=360^\circ-105^\circ-70^\circ-\angle{EGF}=185^\circ-\angle{EGF}\)</span><br />
+四邊形 <span class="math inline">\(ABFG\)</span> 中：<br />
+<span
+class="math inline">\(\angle2+\angle3=360^\circ-100^\circ-85^\circ-\angle{EGF}=175^\circ-\angle{EGF}\)</span><br />
+<span class="math inline">\(\Rightarrow
+\angle1+\angle4&gt;\angle2+\angle3\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-20" class="math-item">
+<h3>21.</h3>
+<figure>
+<img src="cap113_21.jpeg" alt="113年會考數學第21題" />
+<figcaption aria-hidden="true">113年會考數學第21題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.38
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap113_21a.png" /></p>
+</div>
+</details>
+</section>
+<section id="section-21" class="math-item">
+<h3>22.</h3>
+<figure>
+<img src="cap113_22.jpeg" alt="113年會考數學第22題" />
+<figcaption aria-hidden="true">113年會考數學第22題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.34
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((A)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\triangle ABC\)</span> 面積 <span
+class="math inline">\(=5+4+3=12\)</span><br />
+重心與頂點連線將三角形面積三等分<br />
+<span class="math inline">\(\Rightarrow \triangle GBC=\triangle
+GCA=\frac13\triangle ABC=4=\triangle DBC\)</span><br />
+<span class="math inline">\(\because \triangle GBC\)</span> 與 <span
+class="math inline">\(\triangle DBC\)</span> 共底，<span
+class="math inline">\(\therefore\)</span> 高相同<br />
+<span class="math inline">\(\Rightarrow \overline{DG}//
+\overline{BC}\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-22" class="math-item">
+<h3>23.</h3>
+<figure>
+<img src="cap113_23.jpeg" alt="113年會考數學第23題" />
+<figcaption aria-hidden="true">113年會考數學第23題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.30
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\(\angle B=\angle DCE\)</span>, <span
+class="math inline">\(\angle BCE=\angle CED\)</span> (內錯角)<br />
+<span class="math inline">\(\therefore \triangle BCE \sim \triangle
+CED\)</span> (AA 相似)<br />
+<span
+class="math inline">\(\overline{BC}:\overline{CE}=\overline{CE}:\overline{ED}\)</span><br />
+<span class="math inline">\(\Rightarrow
+\overline{BC}:2=2:4\)</span><br />
+<span class="math inline">\(\Rightarrow \overline{BC}=1\)</span><br />
+<span
+class="math inline">\(\overline{AC}=\overline{AB}-\overline{BC}=4-1=3\)</span><br />
+<span class="math inline">\(\overline{BC}:\overline{AC}=1:3\)</span></p>
+</div>
+</details>
+</section>
+<section id="section-23" class="math-item">
+<h3>24.</h3>
+<figure>
+<img src="cap113_24.jpeg" alt="113年會考數學第24題" />
+<figcaption aria-hidden="true">113年會考數學第24題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.35
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((D)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>設身高為 <span class="math inline">\(h\)</span> 公分<br />
+甲：<span class="math inline">\(h^2\times 22=(100h-70)\times
+0.6\)</span><br />
+<span class="math inline">\(\Rightarrow 22h^2=60h-42\)</span><br />
+<span class="math inline">\(\Rightarrow 22h^2-60h+42=0\)</span><br />
+<span class="math inline">\(\Rightarrow 11h^2-30h+21=0\)</span><br />
+判別式 <span
+class="math inline">\(D=30^2-4\times11\times21=900-924=-24&lt;0\)</span>
+無解<br />
+所以甲錯誤<br />
+乙：<span class="math inline">\((100h-70)\times 0.6=(100h-158)\times
+0.5+52\)</span><br />
+<span class="math inline">\(\Rightarrow 60h-42=50h-79+52\)</span><br />
+<span class="math inline">\(\Rightarrow 10h=15\)</span><br />
+<span class="math inline">\(\Rightarrow h=1.5\)</span>（公尺）合理<br />
+所以乙正確</p>
+</div>
+</details>
+</section>
+<section id="section-24" class="math-item">
+<h3>25.</h3>
+<figure>
+<img src="cap113_25.jpeg" alt="113年會考數學第25題" />
+<figcaption aria-hidden="true">113年會考數學第25題</figcaption>
+</figure>
+<div class="text-right text-sizec">
+通過率 0.33
+</div>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((B)\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p>算法 ②：<br />
+理想體重 <span class="math inline">\(=(100\times 1.8-80)\times
+0.7=70\)</span><br />
+實際體重介於 <span class="math inline">\(70\times 90\%=63\)</span> 至
+<span class="math inline">\(70\times 110\%=77\)</span> 之間<br />
+算法 ③：<br />
+理想體重 <span class="math inline">\(=(100\times 1.8-170)\times
+0.6+62=68\)</span><br />
+實際體重介於 <span class="math inline">\(\frac{63}{68}\times 100\%
+\approx 92\%\)</span>(正常)<br />
+至 <span class="math inline">\(\frac{77}{68}\times 100\% \approx
+113\%\)</span> (過重)</p>
+</div>
+</details>
+</section>
+<h2 id="第二部分非選擇題-1-2-題">第二部分:非選擇題 (1 ~ 2 題 )</h2>
+<section id="section-25" class="math-item">
+<h3>1.</h3>
+<figure>
+<img src="cap113_26.jpeg" alt="113年會考數學非選第1題" />
+<figcaption aria-hidden="true">113年會考數學非選第1題</figcaption>
+</figure>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((1)\)</span> 水果 ＝ 蛋白質<br />
+<span class="math inline">\((2)\)</span> 否</p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><span class="math inline">\((1)\)</span> 水果＋蔬菜 <span
+class="math inline">\(=\frac12=\)</span> 蛋白質＋榖類<br />
+<span class="math inline">\(\because\)</span> 蔬菜 <span
+class="math inline">\(=\)</span> 榖類<br />
+<span class="math inline">\(\therefore\)</span> 水果 <span
+class="math inline">\(=\)</span> 蛋白質<br />
+<span class="math inline">\((2)\)</span>
+水果＋蔬菜佔一半，所以蛋白質的矩形長為 <span
+class="math inline">\(16\times \frac12=8\)</span><br />
+<span class="math inline">\(10a=8b\Rightarrow 5a=4b\Rightarrow
+a\)</span> 為 <span class="math inline">\(4\)</span> 的倍數<br />
+因為蔬菜比水果多：<span class="math inline">\(a&lt;8\times
+\frac12=4\)</span> (矛盾)<br />
+所以 <span class="math inline">\(a\)</span> 不可能為正整數</p>
+</div>
+</details>
+</section>
+<section id="section-26" class="math-item">
+<h3>2.</h3>
+<figure>
+<img src="cap113_27.jpeg" alt="113年會考數學非選第2題" />
+<figcaption aria-hidden="true">113年會考數學非選第2題</figcaption>
+</figure>
+<details>
+<summary>
+<span class="text-sizec">答案</span>
+</summary>
+<div class="red-text text-sizec">
+<p><span class="math inline">\((1)\)</span> <span
+class="math inline">\(30 cm\)</span><br />
+<span class="math inline">\((2)\)</span> <span class="math inline">\(CD
+&gt; AB\)</span></p>
+</div>
+</details>
+<details>
+<summary>
+<span class="text-sizec">詳解</span>
+</summary>
+<div class="blue-text text-sizec">
+<p><img src="cap113_27a.png" /></p>
+</div>
+</details>
+</section>
+]]></content>
+      <categories>
+        <category>國中會考</category>
+      </categories>
+      <tags>
+        <tag>詳解</tag>
+        <tag>113</tag>
       </tags>
   </entry>
   <entry>
@@ -11895,8 +13242,8 @@ A 比 B 多一層，設共有 <span class="math inline">\(2x+1\)</span> 層<br /
         <category>學測</category>
       </categories>
       <tags>
-        <tag>統計</tag>
         <tag>113</tag>
+        <tag>統計</tag>
       </tags>
   </entry>
   <entry>
@@ -12234,926 +13581,6 @@ A 比 B 多一層，設共有 <span class="math inline">\(2x+1\)</span> 層<br /
         <tag>學測</tag>
         <tag>114</tag>
         <tag>統計</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>113年會考數學詳解 - 完整對照表與難題趨勢分析</title>
-    <url>/cap113/</url>
-    <content><![CDATA[<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VBLJT5KBPG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VBLJT5KBPG');
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3737075671932814"
-     crossorigin="anonymous"></script>
-<details>
-<summary>
-<span class="text-sizec">年度解析+等級對照表</span>
-</summary>
-<h1 id="年會考數學解析決勝長文本與高壓區的策略">113
-年會考數學解析：決勝「長文本」與「高壓區」的策略</h1>
-<p>113
-年會考數學延續了「素養導向」的命題核心，難度分布呈現「前易後難」的遞增趨勢。</p>
-<ul>
-<li><p><strong>關鍵高壓區</strong>：年度鑑別度完全鎖定在第 21 至 25
-題，特別是末段的組合大題。這不僅考驗學生的運算速度，更考驗在考場倒數階段的耐心與抗壓性。</p></li>
-<li><p><strong>文字檢索力挑戰</strong>：非選擇題持續發揮「長敘述、高資訊量」的特色。考生若能從繁雜的文字資訊中，精準提取解題線索並建立邏輯模型，才是奪下
-A++ 的致勝關鍵。</p></li>
-</ul>
-<p><strong>NUMA 策略提醒：</strong>
-在素養時代，閱讀能力等同於數學能力。面對長題目，練習「邊讀邊畫關鍵字」能有效降低資訊過載。</p>
-<h2 id="等級加標示與加權分數對照表">等級加標示與加權分數對照表</h2>
-<figure>
-<img src="image1.png" alt="113等級加標示與加權分數對照表" />
-<figcaption
-aria-hidden="true">113等級加標示與加權分數對照表</figcaption>
-</figure>
-<hr />
-<h2 id="等級加標示與答對題數對照表">等級加標示與答對題數對照表</h2>
-<figure>
-<img src="image2.png" alt="113等級加標示與答對題數對照表" />
-<figcaption
-aria-hidden="true">113等級加標示與答對題數對照表</figcaption>
-</figure>
-<hr />
-<h2
-id="各科等級加標示人數百分比統計表">各科等級加標示人數百分比統計表</h2>
-<figure>
-<img src="image3.png" alt="113各科等級加標示人數百分比統計表" />
-<figcaption
-aria-hidden="true">113各科等級加標示人數百分比統計表</figcaption>
-</figure>
-<hr />
-<h2 id="試題疑義">試題疑義</h2>
-<a
-href="https://cap.rcpet.edu.tw/exam/113/113%E5%B9%B4%E5%9C%8B%E4%B8%AD%E6%95%99%E8%82%B2%E6%9C%83%E8%80%83%E8%A9%A6%E9%A1%8C%E7%96%91%E7%BE%A9%E8%A1%A8-%E6%95%B8%E5%AD%B8%E7%A7%91.pdf">113年國中教育會考試題疑義表</a>
-</details>
-<div style="margin-top: 50px;">
-
-</div>
-<h1 id="年會考-數學詳解">113年會考-數學詳解</h1>
-<h2 id="第一部分選擇題-1-25-題">第一部分:選擇題 (1 ~ 25 題)</h2>
-<section id="section" class="math-item">
-<h3>1.</h3>
-<figure>
-<img src="cap113_1.jpeg" alt="113年會考數學第1題" />
-<figcaption aria-hidden="true">113年會考數學第1題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.88
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\frac{3}{7}-
-(-\frac{1}{4})=\frac{3}{7}+\frac{1}{4}=\frac{12}{28}+\frac{7}{28}=\frac{19}{28}\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-1" class="math-item">
-<h3>2.</h3>
-<figure>
-<img src="cap113_2.jpeg" alt="113年會考數學第2題" />
-<figcaption aria-hidden="true">113年會考數學第2題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.90
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap113_2a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-2" class="math-item">
-<h3>3.</h3>
-<figure>
-<img src="cap113_3.jpeg" alt="113年會考數學第3題" />
-<figcaption aria-hidden="true">113年會考數學第3題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.77
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\begin{cases}
-5x - 3y &amp;=  28 \quad \text{------ (1)}\\
-\phantom{5x + \ } y &amp;=  -3x \quad \text{--- (2)}
-\end{cases}\)</span><br />
-(2)代入(1)得: <span class="math inline">\(5x - 3(-3x) =
-28\)</span><br />
-<span class="math inline">\(\Rightarrow 5x + 9x = 28\)</span><br />
-<span class="math inline">\(\Rightarrow 14x = 28\)</span><br />
-<span class="math inline">\(\Rightarrow x = 2\)</span><br />
-將 <span class="math inline">\((x=2)\)</span> 代入(2)得:<br />
-<span class="math inline">\(y = -3(2) = -6\)</span><br />
-<span class="math inline">\(a+b=2-6=-4\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-3" class="math-item">
-<h3>4.</h3>
-<figure>
-<img src="cap113_4.jpeg" alt="113年會考數學第4題" />
-<figcaption aria-hidden="true">113年會考數學第4題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.84
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>觀察此四點：<span class="math inline">\((5,3), (-4,-4), (-3,4),
-(3,-5)\)</span><br />
-可發現 <span class="math inline">\(x\)</span> 最小值為 <span
-class="math inline">\(-4\)</span>，最大值為 <span
-class="math inline">\(5\)</span>：<br />
-<span class="math inline">\(\Rightarrow x\)</span> 軸原點左邊長度至少
-<span class="math inline">\(4\)</span>，右邊長度至少 <span
-class="math inline">\(5\)</span><br />
-<span class="math inline">\(y\)</span> 最小值為 <span
-class="math inline">\(-5\)</span>，最大值至少 <span
-class="math inline">\(4\)</span>：<br />
-<span class="math inline">\(\Rightarrow y\)</span> 軸原點下方長度至少
-<span class="math inline">\(5\)</span>，上方長度至少 <span
-class="math inline">\(4\)</span><br />
-故選項 (D) 正確。</p>
-</div>
-</details>
-</section>
-<section id="section-4" class="math-item">
-<h3>5.</h3>
-<figure>
-<img src="cap113_5.jpeg" alt="113年會考數學第5題" />
-<figcaption aria-hidden="true">113年會考數學第5題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.82
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>第一層共 9 張，每一層比前一層多 6 張，成等差數列<br />
-首項 <span class="math inline">\(a_1=9\)</span>，公差 <span
-class="math inline">\(d=6\)</span><br />
-<span class="math inline">\(S_{10} = \frac{[2a_1+(10-1)d]\times 10}{2}=
-\frac{(18 + 54)\times 10}{2}= 360\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-5" class="math-item">
-<h3>6.</h3>
-<figure>
-<img src="cap113_6.jpeg" alt="113年會考數學第6題" />
-<figcaption aria-hidden="true">113年會考數學第6題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.74
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>箱內剩 <span class="math inline">\(50+10-4＝56\)</span> 顆球<br />
-紅球剩 <span class="math inline">\(10-4＝6\)</span> 顆<br />
-抽出紅球機率為 <span
-class="math inline">\(\frac{6}{56}＝\frac{3}{28}\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-6" class="math-item">
-<h3>7.</h3>
-<figure>
-<img src="cap113_7.jpeg" alt="113年會考數學第7題" />
-<figcaption aria-hidden="true">113年會考數學第7題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.71
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap113_7a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-7" class="math-item">
-<h3>8.</h3>
-<figure>
-<img src="cap113_8.jpeg" alt="113年會考數學第8題" />
-<figcaption aria-hidden="true">113年會考數學第8題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.68
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(c=6.3\times 10^{-6}=0.63\times
-10^{-5}\)</span><br />
-<span class="math inline">\(a=3.2\times 10^{-5}\)</span><br />
-<span class="math inline">\(b=7.5\times 10^{-5}\)</span><br />
-故 <span class="math inline">\(c&lt;a&lt;b\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-8" class="math-item">
-<h3>9.</h3>
-<figure>
-<img src="cap113_9.jpeg" alt="113年會考數學第9題" />
-<figcaption aria-hidden="true">113年會考數學第9題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.78
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>甲正確<br />
-乙應為大腸癌</p>
-</div>
-</details>
-</section>
-<section id="section-9" class="math-item">
-<h3>10.</h3>
-<figure>
-<img src="cap113_10.jpeg" alt="113年會考數學第10題" />
-<figcaption aria-hidden="true">113年會考數學第10題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.65
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(5\times (5x-2)-4(5x-2)^2\)</span><br />
-<span class="math inline">\(=(5x-2)[5x-4(5x-2)]\)</span><br />
-<span class="math inline">\(=(5x-2)[5x-20x+8]\)</span><br />
-<span class="math inline">\(=(5x-2)(-15x+8)\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-10" class="math-item">
-<h3>11.</h3>
-<figure>
-<img src="cap113_11.jpeg" alt="113年會考數學第11題" />
-<figcaption aria-hidden="true">113年會考數學第11題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.62
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span
-class="math inline">\(\frac{9}{4-\sqrt7}=\frac{9(4+\sqrt7)}{(4-\sqrt7)(4+\sqrt7)}=\frac{9(4+\sqrt7)}{16-7}=\frac{9(4+\sqrt7)}{9}=4+\sqrt7\)</span><br />
-<span class="math inline">\(a=4, b=1\)</span><br />
-<span class="math inline">\(\therefore a+b=5\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-11" class="math-item">
-<h3>12.</h3>
-<figure>
-<img src="cap113_12.jpeg" alt="113年會考數學第12題" />
-<figcaption aria-hidden="true">113年會考數學第12題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.70
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>甲：<span class="math inline">\(y=(x+20)^2+60\geq 60 \Rightarrow
-x=-20\)</span> 時有最小值 <span
-class="math inline">\(y=60\)</span><br />
-乙：<span class="math inline">\(y=-(x-30)^2+60\leq 60 \Rightarrow
-x=30\)</span> 時有最大值 <span class="math inline">\(y=60\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-12" class="math-item">
-<h3>13.</h3>
-<figure>
-<img src="cap113_13.jpeg" alt="113年會考數學第13題" />
-<figcaption aria-hidden="true">113年會考數學第13題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.66
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(1920:1080=1600:900\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-13" class="math-item">
-<h3>14.</h3>
-<figure>
-<img src="cap113_14.jpeg" alt="113年會考數學第14題" />
-<figcaption aria-hidden="true">113年會考數學第14題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.55
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((C)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>汽車每日碳排放量：<span class="math inline">\(0.17\times
-20=3.4\)</span> 公斤<br />
-公車每日碳排放量：<span class="math inline">\(0.04\times 20=0.8\)</span>
-公斤<br />
-設改搭公車 <span class="math inline">\(x\)</span> 天<br />
-<span class="math inline">\((3.4-0.8)x&gt;800\)</span><br />
-<span class="math inline">\(\Rightarrow2.6x&gt;800\)</span><br />
-<span class="math inline">\(\Rightarrow x&gt;307.69\)</span><br />
-故至少要改搭公車 308 天</p>
-</div>
-</details>
-</section>
-<section id="section-14" class="math-item">
-<h3>15.</h3>
-<figure>
-<img src="cap113_15.jpeg" alt="113年會考數學第15題" />
-<figcaption aria-hidden="true">113年會考數學第15題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.55
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\frac{10}{a}=\frac{2\times 5}{a}\)</span>
-為最簡分數 <span class="math inline">\(\Rightarrow a\)</span> 不能為
-<span class="math inline">\(2\)</span> 或 <span
-class="math inline">\(5\)</span> 的倍數<br />
-<span class="math inline">\(\frac{18}{b}=\frac{2\times 3^2}{b}\)</span>
-為最簡分數 <span class="math inline">\(\Rightarrow b\)</span> 不能為
-<span class="math inline">\(2\)</span> 或 <span
-class="math inline">\(3\)</span> 的倍數<br />
-<span class="math inline">\(\frac{10}{a}=\frac{50}{a\times
-5}\)</span><br />
-<span class="math inline">\(\frac{18}{b}=\frac{54}{b\times
-3}\)</span><br />
-<span class="math inline">\(\Rightarrow a\times 5=b\times
-3\)</span><br />
-<span class="math inline">\(\Rightarrow a\)</span> 為 <span
-class="math inline">\(3\)</span> 的倍數，<span
-class="math inline">\(b\)</span> 為 <span
-class="math inline">\(5\)</span> 的倍數</p>
-</div>
-</details>
-</section>
-<section id="section-15" class="math-item">
-<h3>16.</h3>
-<figure>
-<img src="cap113_16.jpeg" alt="113年會考數學第16題" />
-<figcaption aria-hidden="true">113年會考數學第16題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.52
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(14.88+x\div 10\times
-0.08=14.88+0.008x\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-16" class="math-item">
-<h3>17.</h3>
-<figure>
-<img src="cap113_17.jpeg" alt="113年會考數學第17題" />
-<figcaption aria-hidden="true">113年會考數學第17題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.50
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap113_17a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-17" class="math-item">
-<h3>18.</h3>
-<figure>
-<img src="cap113_18.jpeg" alt="113年會考數學第18題" />
-<figcaption aria-hidden="true">113年會考數學第18題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.43
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap113_18a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-18" class="math-item">
-<h3>19.</h3>
-<figure>
-<img src="cap113_19.jpeg" alt="113年會考數學第19題" />
-<figcaption aria-hidden="true">113年會考數學第19題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.52
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(P\)</span> 在 <span
-class="math inline">\(A\)</span> 左側 <span
-class="math inline">\(\Rightarrow p&lt;-2\)</span><br />
-設 <span class="math inline">\(p=-3\)</span>, <span
-class="math inline">\(q=-\frac13\)</span><br />
-<span class="math inline">\(\Rightarrow Q\)</span> 在 <span
-class="math inline">\(\overline{AO}\)</span> 上，<span
-class="math inline">\(\overline{AQ}&gt;\overline{QO}\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-19" class="math-item">
-<h3>20.</h3>
-<figure>
-<img src="cap113_20.jpeg" alt="113年會考數學第20題" />
-<figcaption aria-hidden="true">113年會考數學第20題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.54
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span
-class="math inline">\(\angle1+\angle2=180^\circ-\angle{EGF}=\angle3+\angle4\)</span><br />
-四邊形 <span class="math inline">\(GECD\)</span> 中：<br />
-<span
-class="math inline">\(\angle1+\angle4=360^\circ-105^\circ-70^\circ-\angle{EGF}=185^\circ-\angle{EGF}\)</span><br />
-四邊形 <span class="math inline">\(ABFG\)</span> 中：<br />
-<span
-class="math inline">\(\angle2+\angle3=360^\circ-100^\circ-85^\circ-\angle{EGF}=175^\circ-\angle{EGF}\)</span><br />
-<span class="math inline">\(\Rightarrow
-\angle1+\angle4&gt;\angle2+\angle3\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-20" class="math-item">
-<h3>21.</h3>
-<figure>
-<img src="cap113_21.jpeg" alt="113年會考數學第21題" />
-<figcaption aria-hidden="true">113年會考數學第21題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.38
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap113_21a.png" /></p>
-</div>
-</details>
-</section>
-<section id="section-21" class="math-item">
-<h3>22.</h3>
-<figure>
-<img src="cap113_22.jpeg" alt="113年會考數學第22題" />
-<figcaption aria-hidden="true">113年會考數學第22題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.34
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((A)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\triangle ABC\)</span> 面積 <span
-class="math inline">\(=5+4+3=12\)</span><br />
-重心與頂點連線將三角形面積三等分<br />
-<span class="math inline">\(\Rightarrow \triangle GBC=\triangle
-GCA=\frac13\triangle ABC=4=\triangle DBC\)</span><br />
-<span class="math inline">\(\because \triangle GBC\)</span> 與 <span
-class="math inline">\(\triangle DBC\)</span> 共底，<span
-class="math inline">\(\therefore\)</span> 高相同<br />
-<span class="math inline">\(\Rightarrow \overline{DG}//
-\overline{BC}\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-22" class="math-item">
-<h3>23.</h3>
-<figure>
-<img src="cap113_23.jpeg" alt="113年會考數學第23題" />
-<figcaption aria-hidden="true">113年會考數學第23題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.30
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\(\angle B=\angle DCE\)</span>, <span
-class="math inline">\(\angle BCE=\angle CED\)</span> (內錯角)<br />
-<span class="math inline">\(\therefore \triangle BCE \sim \triangle
-CED\)</span> (AA 相似)<br />
-<span
-class="math inline">\(\overline{BC}:\overline{CE}=\overline{CE}:\overline{ED}\)</span><br />
-<span class="math inline">\(\Rightarrow
-\overline{BC}:2=2:4\)</span><br />
-<span class="math inline">\(\Rightarrow \overline{BC}=1\)</span><br />
-<span
-class="math inline">\(\overline{AC}=\overline{AB}-\overline{BC}=4-1=3\)</span><br />
-<span class="math inline">\(\overline{BC}:\overline{AC}=1:3\)</span></p>
-</div>
-</details>
-</section>
-<section id="section-23" class="math-item">
-<h3>24.</h3>
-<figure>
-<img src="cap113_24.jpeg" alt="113年會考數學第24題" />
-<figcaption aria-hidden="true">113年會考數學第24題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.35
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((D)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>設身高為 <span class="math inline">\(h\)</span> 公分<br />
-甲：<span class="math inline">\(h^2\times 22=(100h-70)\times
-0.6\)</span><br />
-<span class="math inline">\(\Rightarrow 22h^2=60h-42\)</span><br />
-<span class="math inline">\(\Rightarrow 22h^2-60h+42=0\)</span><br />
-<span class="math inline">\(\Rightarrow 11h^2-30h+21=0\)</span><br />
-判別式 <span
-class="math inline">\(D=30^2-4\times11\times21=900-924=-24&lt;0\)</span>
-無解<br />
-所以甲錯誤<br />
-乙：<span class="math inline">\((100h-70)\times 0.6=(100h-158)\times
-0.5+52\)</span><br />
-<span class="math inline">\(\Rightarrow 60h-42=50h-79+52\)</span><br />
-<span class="math inline">\(\Rightarrow 10h=15\)</span><br />
-<span class="math inline">\(\Rightarrow h=1.5\)</span>（公尺）合理<br />
-所以乙正確</p>
-</div>
-</details>
-</section>
-<section id="section-24" class="math-item">
-<h3>25.</h3>
-<figure>
-<img src="cap113_25.jpeg" alt="113年會考數學第25題" />
-<figcaption aria-hidden="true">113年會考數學第25題</figcaption>
-</figure>
-<div class="text-right text-sizec">
-通過率 0.33
-</div>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((B)\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p>算法 ②：<br />
-理想體重 <span class="math inline">\(=(100\times 1.8-80)\times
-0.7=70\)</span><br />
-實際體重介於 <span class="math inline">\(70\times 90\%=63\)</span> 至
-<span class="math inline">\(70\times 110\%=77\)</span> 之間<br />
-算法 ③：<br />
-理想體重 <span class="math inline">\(=(100\times 1.8-170)\times
-0.6+62=68\)</span><br />
-實際體重介於 <span class="math inline">\(\frac{63}{68}\times 100\%
-\approx 92\%\)</span>(正常)<br />
-至 <span class="math inline">\(\frac{77}{68}\times 100\% \approx
-113\%\)</span> (過重)</p>
-</div>
-</details>
-</section>
-<h2 id="第二部分非選擇題-1-2-題">第二部分:非選擇題 (1 ~ 2 題 )</h2>
-<section id="section-25" class="math-item">
-<h3>1.</h3>
-<figure>
-<img src="cap113_26.jpeg" alt="113年會考數學非選第1題" />
-<figcaption aria-hidden="true">113年會考數學非選第1題</figcaption>
-</figure>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((1)\)</span> 水果 ＝ 蛋白質<br />
-<span class="math inline">\((2)\)</span> 否</p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><span class="math inline">\((1)\)</span> 水果＋蔬菜 <span
-class="math inline">\(=\frac12=\)</span> 蛋白質＋榖類<br />
-<span class="math inline">\(\because\)</span> 蔬菜 <span
-class="math inline">\(=\)</span> 榖類<br />
-<span class="math inline">\(\therefore\)</span> 水果 <span
-class="math inline">\(=\)</span> 蛋白質<br />
-<span class="math inline">\((2)\)</span>
-水果＋蔬菜佔一半，所以蛋白質的矩形長為 <span
-class="math inline">\(16\times \frac12=8\)</span><br />
-<span class="math inline">\(10a=8b\Rightarrow 5a=4b\Rightarrow
-a\)</span> 為 <span class="math inline">\(4\)</span> 的倍數<br />
-因為蔬菜比水果多：<span class="math inline">\(a&lt;8\times
-\frac12=4\)</span> (矛盾)<br />
-所以 <span class="math inline">\(a\)</span> 不可能為正整數</p>
-</div>
-</details>
-</section>
-<section id="section-26" class="math-item">
-<h3>2.</h3>
-<figure>
-<img src="cap113_27.jpeg" alt="113年會考數學非選第2題" />
-<figcaption aria-hidden="true">113年會考數學非選第2題</figcaption>
-</figure>
-<details>
-<summary>
-<span class="text-sizec">答案</span>
-</summary>
-<div class="red-text text-sizec">
-<p><span class="math inline">\((1)\)</span> <span
-class="math inline">\(30 cm\)</span><br />
-<span class="math inline">\((2)\)</span> <span class="math inline">\(CD
-&gt; AB\)</span></p>
-</div>
-</details>
-<details>
-<summary>
-<span class="text-sizec">詳解</span>
-</summary>
-<div class="blue-text text-sizec">
-<p><img src="cap113_27a.png" /></p>
-</div>
-</details>
-</section>
-]]></content>
-      <categories>
-        <category>國中會考</category>
-      </categories>
-      <tags>
-        <tag>詳解</tag>
-        <tag>113</tag>
       </tags>
   </entry>
 </search>
