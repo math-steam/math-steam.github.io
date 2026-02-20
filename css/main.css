@@ -1173,7 +1173,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #3dff53;
+  background: #28daff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2639,3 +2639,7 @@ summary:hover {
   clear: both;
 }
 /* 6. 測試用背景 (如果成功，網頁會變紅) */
+/* 隱藏 NexT 自動生成的圖片標題 */
+.post-body .image-caption {
+  display: none !important;
+}
