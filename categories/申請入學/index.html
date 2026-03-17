@@ -449,6 +449,10 @@
         tags: 'ams'
       },
       options: {
+        // 💡 1. 加入這一行：告訴 MathJax 只掃描有這個 class 的標籤
+        processHtmlClass: 'math-item',   
+        // 💡 2. 順便加入這行：關閉選單，省下更多 CPU 時間
+        enableMenu: false,
         renderActions: {
           findScript: [10, doc => {
             document.querySelectorAll('script[type^="math/tex"]').forEach(node => {
